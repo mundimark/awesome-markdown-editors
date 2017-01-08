@@ -10,7 +10,6 @@ Awesome Series @ Write Kit
 A collection of awesome markdown editors and (pre)viewers
 for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
-
 ---
 
 [ANNOUNCEMENT] Looking for the latest news, tools, tips & tricks, and more
@@ -51,6 +50,13 @@ another simple single HTML page, server-less Markdown editor in JavaScript
 
 Markdown Preview - to be done
 
+**Typora**
+
+Typora is a highly unique and powerful markdown editor. The most surprising and difficult to explain feature, is the **in place** live preview. In a nutshell as you type markdown it previews the text behind your cursor eliminating the need for a separate preview space.
+
+In addition to including some very nice looking css based themes it also leverages the power of `pandoc` by using an intermediary format behind the scene allowing you to import and export to many popular document formats including.
+
+The current version, 0.9.23-1, still has some minor bugs and the OS X version is still in beta but, wow, does it look great!
 
 **Visual Studio Code**
 
@@ -87,8 +93,6 @@ You can use markdown for all your markup needs. PDF, RTF and HTML are generated 
 **MarkMyWords**
 (github: [`voldyman/MarkMyWords`](http://github.com/voldyman/MarkMyWords)) -
 a minimal markdown editor
-
-
 
 #### Microsoft Windows
 
