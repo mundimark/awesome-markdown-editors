@@ -40,7 +40,9 @@ _Zen Writing - leaving you alone with your thoughts and your words_
  github: [`writekit/markdown.note`](https://github.com/writekit/markdown.note)) -
 another simple single HTML page, server-less Markdown editor in JavaScript
 
-
+**Dillinger.io**
+(web: [`dillinger.io`](http://dillinger.io/),
+ github: [`joemccann/dillinger`](https://github.com/joemccann/dillinger))
 
 ### Markdown Desktop Editors
 
