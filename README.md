@@ -123,3 +123,8 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 Send them along to the markdown-discuss mailing list. Thanks!
 
+
+
+###### wouldn't it be funny?
+
+i think it would be ironic and funny if this markdown information-compendium were maintained at github using asciidoc, or restructured-text.
