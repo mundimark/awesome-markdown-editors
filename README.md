@@ -65,6 +65,9 @@ In addition to including some very nice looking css based themes it also leverag
 
 The current version, 0.9.23-1, still has some minor bugs and the OS X version is still in beta but, wow, does it look great!
 
+[**Caret**](https://caret.io/) ($29 for continued use)
+
+Features live preview, files sidebar, go to anything, advanced spell checker and a lot more.
 
 ### Linux
 
