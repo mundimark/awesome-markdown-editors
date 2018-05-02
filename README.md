@@ -65,6 +65,14 @@ In addition to including some very nice looking css based themes it also leverag
 
 The current version, 0.9.23-1, still has some minor bugs and the OS X version is still in beta but, wow, does it look great!
 
+[**Abricotine**](https://github.com/brrd/Abricotine) (FREE, open source)
+
+Abricotine supports very good instant preview like Typora, but is open source - free forever.
+
+[**MarkText**](https://github.com/marktext/marktext) (FREE, open source)
+
+MarkText is very similar to Abricotine, but it's development is much faster than Abricotine's (while isn't really stable yet).
+
 [**Caret**](https://caret.io/) ($29 for continued use)
 
 Features live preview, files sidebar, go to anything, advanced spell checker and a lot more.
