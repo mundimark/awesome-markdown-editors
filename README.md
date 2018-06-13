@@ -95,6 +95,9 @@ Supported export formats: HTML, ODT, PDF.
 (web: [`remarkableapp.github.io`](http://remarkableapp.github.io)) -
 markdown editor for Linux and Windows
 
+**MindForger**
+(web: [`mindforger.com`](https://www.mindforger.com)) -
+MindForger is free Markdown IDE and thinking notebook for Linux and macOS. Actually it is more than just a Markdown editor - it is Markdown IDE. With MindForger you can edit multiple documents, perform refactoring/cloning/extraction of sections, use document/section templates and more. It provides HTML preview with diagram, math support and source code syntax highlighting; cutomizable themes and dual pane interface.
 
 **UberWriter**
 (web: [`uberwriter.wolfvollprecht.de`](http://uberwriter.wolfvollprecht.de),
