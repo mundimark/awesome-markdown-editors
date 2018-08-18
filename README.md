@@ -126,10 +126,17 @@ More / Articles
 full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words;
 WriteMonkey is light, fast, and free
 
+**Markdown Monster**
+(web: [`markdownmonster.west-wind.com`](https://markdownmonster.west-wind.com/)) -
+Markdown is everywhere these days and it's used for all sorts of different purposes. Wouldn't it be nice if you have an editor that can keep up with all of those scenarios?
+
+Markdown Monster is a Markdown editor and viewer that lets you edit Markdown with syntax highlighting and fast text entry. A collapsible, synced, live preview lets you see your output as you type. You can easily embed images, links, emojis and code as text or by using our gentle UI helpers that simplify many operations. You can also paste and drag images directly into the editor. Inline spell-checking and word counts keep your content streamlined unobtrusively.
+
+You can export Markdown to HTML by saving to disk or by copying Markdown selections as HTML directly to the clipboard. The HTML preview can display syntax colored code snippets for most common coding languages, and can easily be customized with HTML and CSS template to match your own sites. You can choose from a light and dark theme, and choose individual editor and preview themes. You can even use Vim or EMacs type conventions. Other convenience features let you browse for and select files in the built-in folder browser, jump to the current folder in Explorer or Terminal, commit to Git and more.
+
 More / Articles
 
 - [The Best Markdown Editor for Windows](https://sitepoint.com/best-markdown-editors-windows) by Zack Wallace, SitePoint,  July 2017 -- incl. Texts ($19), WriteMonkey, Haroopad ($$, Donationware), MarkPad, MarkdownPad 2, Typora ($$, Free in beta), Caret ($25)
-
 
 
 ### Apple Mac OS X
