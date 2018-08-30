@@ -77,6 +77,12 @@ MarkText is very similar to Abricotine, but it's development is much faster than
 
 Features live preview, files sidebar, go to anything, advanced spell checker and a lot more.
 
+[**Zettlr**](https://www.zettlr.com/) (FREE, open source)
+
+Zettlr ships with a lot of features helpful in writing markdown. It is especially aimed at writing research papers in the arts and humanities (and therefore offers writing aids such as automatic footnote insertion and in-place editing, or a global search). Nonetheless it also supports LaTeX and code highlighting, which makes it interesting for developers as well. It features a file tree, plenty of exporting options and even supports whole projects (exporting multiple markdown files at once), live preview directly in the editor, and some Zettelkasten functionalities that enables the linking of files. Tags can also be used to sort your work.
+
+[The code resides on GitHub](https://github.com/Zettlr/Zettlr).
+
 ### Linux
 
 **Retext**
