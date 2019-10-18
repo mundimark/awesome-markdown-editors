@@ -156,6 +156,14 @@ More / Articles
 - [The Best Markdown Editors for Mac](https://sitepoint.com/the-best-markdown-editors-for-mac) by Adrian Try, SitePoint, July 2017 -- incl. Ulysses ($44.99), Quiver ($9.99), LightPaper ($16.49), MWeb ($14.99), Texts ($19), Byword ($11.99), IA Writer ($9.99), Typora ($$, Free in beta), Caret ($25), Focused ($29.99), Bear (Free, Bear Pro subscription $1.49/month), Mou ($$, Free in beta),  MacDown (FREE, open source), Haroopad ($$, Donationware)
 
 
+## Markdown Mobile Editors
+### Android
+
+**Markor**
+(web: [`gsantner.net`](https://gsantner.net/project/markor.html),
+github: [`gsantner/markor`](https://github.com/gsantner/markor)) -
+Markor is an open source text editor for Android. This project aims to make an editor that is versatile, flexible, and lightweight. Markor utilizes simple markup formats like Markdown and todo.txt for note-taking and list management.
+
 ## Misc
 
 ### WordPress
