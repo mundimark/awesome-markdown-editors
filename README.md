@@ -81,7 +81,18 @@ Features live preview, files sidebar, go to anything, advanced spell checker and
 
 Zettlr ships with a lot of features helpful in writing markdown. It is especially aimed at writing research papers in the arts and humanities (and therefore offers writing aids such as automatic footnote insertion and in-place editing, or a global search). Nonetheless it also supports LaTeX and code highlighting, which makes it interesting for developers as well. It features a file tree, plenty of exporting options and even supports whole projects (exporting multiple markdown files at once), live preview directly in the editor, and some Zettelkasten functionalities that enables the linking of files. Tags can also be used to sort your work.
 
-[The code resides on GitHub](https://github.com/Zettlr/Zettlr).
+[The code resides on GitHub](https://github.com/Zettlr/Zettlr)
+
+
+[**GhostWriter**](https://github.com/wereturtle/ghostwriter) (FREE, open source)
+
+GhostWriter is a simple and light markdown editor. It use double screen: the left screen is the editor, and the right screen show the rendered file. Allows many different syntax: GitHub, Sundown, pandoc, common mark, multimarkdown, php markdown extra, and strict. The right screen will shows the file rendered using the selected syntax. 
+
+The editor includes more options, as ortographic check, format... etc.
+
+Ghostwriter also allows to export to different formats, using pandoc or sundown: pdf, html, docx, latex. epub... etc
+
+The interface is translated to many languages, as spanish, german or portuguese. 
 
 ### Linux
 
