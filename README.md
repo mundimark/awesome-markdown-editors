@@ -99,7 +99,7 @@ Ghostwriter also allows to export to different formats, using pandoc or sundown:
 
 The interface is translated to many languages, as spanish, german or portuguese. 
 
-[**Znote**](https://znote.lagrede.fr) (FREE)
+[**Znote**](https://znote.io) (FREE)
   
 Znote is a free, elegant program meant to help you write beautifully organized Markdown documents. You can organize your texts, notes, and files even better, using the simplistic left-side widget organizer for smoothly navigating different files.
 
