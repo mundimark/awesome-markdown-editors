@@ -112,12 +112,6 @@ Znote is a free, elegant program meant to help you write beautifully organized M
 ReText is a simple but powerful editor for markdown and reStructuredText markup languages.
 ReText is written in Python language and works on Linux and other POSIX-compatible platforms.
 
-**uText**
-(web: [`atareao.es/tag/utext`](http://www.atareao.es/tag/utext),
- ubuntu apps: [`utext`](https://apps.ubuntu.com/cat/applications/utext)) -
-uText is a very simple editor for Markdown. uText supports live text preview and syntax highlighting.
-Supported export formats: HTML, ODT, PDF.
-
 **Remarkable**
 (web: [`remarkableapp.github.io`](http://remarkableapp.github.io)) -
 markdown editor for Linux and Windows
