@@ -120,6 +120,11 @@ markdown editor for Linux and Windows
 (web: [`mindforger.com`](https://www.mindforger.com)) -
 MindForger is free Markdown IDE and thinking notebook for Linux and macOS. Actually it is more than just a Markdown editor - it is Markdown IDE. With MindForger you can edit multiple documents, perform refactoring/cloning/extraction of sections, use document/section templates and more. It provides HTML preview with diagram, math support and source code syntax highlighting; cutomizable themes and dual pane interface.
 
+**Apostrophe**
+(web: [`uberwriter.wolfvollprecht.de`](https://gitlab.gnome.org/somas/apostrophe),
+ flathub: [`apostrophe`](https://flathub.org/apps/details/org.gnome.gitlab.somas.Apostrophe)) -
+Apostrophe (formerly UberWriter), beautiful distraction free writing. With Apostrophe you get only one thing: An empty textbox, that is to fill with your ideas. There are no settings, you don't have to choose a font, it is only for writing. You can use markdown for all your markup needs. PDF, RTF and HTML are generated via pandoc.
+
 **MarkMyWords**
 (github: [`voldyman/MarkMyWords`](http://github.com/voldyman/MarkMyWords)) -
 a minimal markdown editor
