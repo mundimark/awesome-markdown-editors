@@ -54,13 +54,21 @@ another simple single HTML page, server-less Markdown editor in JavaScript
 
 ### Universal
 
-**Atom** (FREE, open source)
+[**Atom**](https://atom.io/) (FREE, open source)
 
 Markdown Preview - to be done
 
-**Visual Studio Code** (FREE)
+[**Visual Studio Code**](https://code.visualstudio.com/) (FREE)
 
-to be done
+Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.
+
+[**KeenWrite**](https://github.com/DaveJarvis/keenwrite) (FREE, open source)
+
+Java-based desktop text editor with live preview, variables, inline math, document outline, diagrams, real-time spell check, dark themes, custom theming, document statistics, R integration, internationalization support, XML/XSLT3, dockable tabs, and more.
+
+KeenWrite was developed to make using variables in documents simple. Variables may be used for character sheets when authoring fiction, ensuring consistent palette usage for technical diagrams, real-time calculations when combined with inline R statements, and so forth.
+
+See the [screenshots](https://github.com/DaveJarvis/keenwrite#screenshots) and [demo video](https://www.youtube.com/watch?v=u_dFd6UhdV8) for additional details.
 
 **Typora** ($$, Free in beta)
 
