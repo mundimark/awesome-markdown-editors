@@ -1,6 +1,6 @@
 Awesome Series @ Write Kit
 
-[Markdown (Syntax & Extensions, Documentation & Cheat Sheets, Libraries, ...)](https://github.com/writekit/awesome-markdown) • 
+[Markdown (Syntax & Extensions, Documentation & Cheat Sheets, Libraries, ...)](https://github.com/writekit/awesome-markdown) •
 [Markdown Editors & (Pre)viewers](https://github.com/writekit/awesome-markdown-editors)  •
 [Books (Services, Hand-Written, Auto-Built w/ Open Data, ...)](https://github.com/writekit/awesome-books)
 
@@ -43,10 +43,10 @@ another simple single HTML page, server-less Markdown editor in JavaScript
 **Dillinger.io**
 (web: [`dillinger.io`](http://dillinger.io/),
  github: [`joemccann/dillinger`](https://github.com/joemccann/dillinger))
- 
+
  **MarkTwo**
  (web: [`marktwo.app`](https://marktwo.app),
-  github:[`anthonygarvan/marktwo`](https://github.com/anthonygarvan/marktwo)), 
+  github:[`anthonygarvan/marktwo`](https://github.com/anthonygarvan/marktwo)),
   MarkTwo is a free and open source progressive web app which can be installed on any platform or used within the browser. It features seamless transition between read and edit mode, snappy performance for large documents, and efficient, continuous, and private syncing via your own Google drive. It also has a host of productivity enhancements that make it ideal for long-form notes and journals.
 
 
@@ -99,16 +99,16 @@ Zettlr ships with a lot of features helpful in writing markdown. It is especiall
 
 [**GhostWriter**](https://github.com/wereturtle/ghostwriter) (FREE, open source)
 
-GhostWriter is a simple and light markdown editor. It use double screen: the left screen is the editor, and the right screen show the rendered file. Allows many different syntax: GitHub, Sundown, pandoc, common mark, multimarkdown, php markdown extra, and strict. The right screen will shows the file rendered using the selected syntax. 
+GhostWriter is a simple and light markdown editor. It use double screen: the left screen is the editor, and the right screen show the rendered file. Allows many different syntax: GitHub, Sundown, pandoc, common mark, multimarkdown, php markdown extra, and strict. The right screen will shows the file rendered using the selected syntax.
 
 The editor includes more options, as ortographic check, format... etc.
 
 Ghostwriter also allows to export to different formats, using pandoc or sundown: pdf, html, docx, latex. epub... etc
 
-The interface is translated to many languages, as spanish, german or portuguese. 
+The interface is translated to many languages, as spanish, german or portuguese.
 
 [**Znote**](https://znote.io) (FREE)
-  
+
 Znote is a free, elegant program meant to help you write beautifully organized Markdown documents. You can organize your texts, notes, and files even better, using the simplistic left-side widget organizer for smoothly navigating different files.
 
 
@@ -175,6 +175,9 @@ More / Articles
 
 - [The Best Markdown Editors for Mac](https://sitepoint.com/the-best-markdown-editors-for-mac) by Adrian Try, SitePoint, July 2017 -- incl. Ulysses ($44.99), Quiver ($9.99), LightPaper ($16.49), MWeb ($14.99), Texts ($19), Byword ($11.99), IA Writer ($9.99), Typora ($$, Free in beta), Caret ($25), Focused ($29.99), Bear (Free, Bear Pro subscription $1.49/month), Mou ($$, Free in beta),  MacDown (FREE, open source), Haroopad ($$, Donationware)
 
+[**Nota**](https://nota.md) ($29 for continued use)
+
+Pro writing app designed for local Markdown files. Nota is a beautiful and easy to use writing app that's also powerful and efficient. Its simple design enables a wide range of uses: from notes and wikis, to static blogs and websites, to articles and books. It works with local Markdown files to keep your data completely in your control.
 
 ## Markdown Mobile Editors
 ### Android
