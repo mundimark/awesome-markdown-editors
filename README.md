@@ -90,6 +90,12 @@ Abricotine supports very good instant preview like Typora, but is open source - 
 
 MarkText is very similar to Abricotine, but it's development is much faster than Abricotine's (while isn't really stable yet).
 
+[**Deepdwn**](https://billiam.itch.io/deepdwn) ($11.99)
+
+Deepdwn is an offline-only, feature-rich markdown editor for Windows, Mac and Linux, focused on expressive rendering and document organization.
+
+Supports image drag and drop, charts and diagrams, sheet music and tabs, table auto-formatting, tags and categories, and more.
+
 [**Caret**](https://caret.io/) ($29 for continued use)
 
 Features live preview, files sidebar, go to anything, advanced spell checker and a lot more.
