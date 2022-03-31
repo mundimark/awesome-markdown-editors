@@ -48,10 +48,14 @@ another simple single HTML page, server-less Markdown editor in JavaScript
 (web: [`dillinger.io`](http://dillinger.io/),
  github: [`joemccann/dillinger`](https://github.com/joemccann/dillinger))
 
- **MarkTwo**
+**MarkTwo**
  (web: [`marktwo.app`](https://marktwo.app),
   github:[`anthonygarvan/marktwo`](https://github.com/anthonygarvan/marktwo)),
   MarkTwo is a free and open source progressive web app which can be installed on any platform or used within the browser. It features seamless transition between read and edit mode, snappy performance for large documents, and efficient, continuous, and private syncing via your own Google drive. It also has a host of productivity enhancements that make it ideal for long-form notes and journals.
+
+**HackMD**
+(web: [`hackmd.io`](http://hackmd.io/),
+ github: [`HackMD`](https://github.com/hackmdio)) - Allows collaboration and more UI options. Link to Github is maintained. 
 
 
 ## Markdown Desktop Editors
