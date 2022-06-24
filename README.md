@@ -57,9 +57,9 @@ another simple single HTML page, server-less Markdown editor in JavaScript
 (web: [`hackmd.io`](http://hackmd.io/),
  github: [`HackMD`](https://github.com/hackmdio)) - Allows collaboration and more UI options. Link to Github is maintained. 
 
- **markdown.codes** 
-(web: [markdown.codes](https://markdown.codes),
-github: [Cveinnt/markdown.codes](https://github.com/Cveinnt/markdown.codes)) - 👨‍💻👩‍💻 Online collaborative markdown editing optimized for efficiency and ease of use.
+ **LetsMarkdown.com** 
+(web: [`LetsMarkdown.com`](https://letsmarkdown.com/),
+github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com)) - 👨‍💻👩‍💻 Fast, minimal web editor that makes markdown editing collaborative and accessible to everyone.
 
 
 ## Markdown Desktop Editors
