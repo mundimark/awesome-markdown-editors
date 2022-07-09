@@ -28,8 +28,8 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 ## Markdown Online Editors
 
 **Mark** 
-(web: [mark.reaper.im](https://mark.reaper.im),
-github: [barelyhuman/mark](https://github.com/barelyhuman/mark)) - Simple Web Markdown Editor
+(web: [`mark.barelyhuman.dev`](https://mark.barelyhuman.dev),
+github: [`barelyhuman/mark`](https://github.com/barelyhuman/mark)) - Simple Web Markdown Editor
 
 **Minimalist Online Markdown Editor**
 (web: [`markdown.pioul.fr`](http://markdown.pioul.fr),
