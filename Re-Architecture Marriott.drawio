@@ -513,20 +513,21 @@
                         <mxPoint x="428" y="70" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Feqi51olCMdmPRe0gwoz-5" value="Union&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
+                <mxCell id="Feqi51olCMdmPRe0gwoz-5" value="Union&lt;br&gt;&lt;font color=&quot;#f0451a&quot;&gt;(select 2 weeks &lt;br&gt;of data)&lt;/font&gt;&lt;br&gt;&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
                     <mxGeometry x="278" y="320" width="120" height="57" as="geometry"/>
                 </mxCell>
-                <mxCell id="Feqi51olCMdmPRe0gwoz-6" value="" style="edgeStyle=none;html=1;" parent="Feqi51olCMdmPRe0gwoz-1" source="Feqi51olCMdmPRe0gwoz-7" target="Feqi51olCMdmPRe0gwoz-9" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="Feqi51olCMdmPRe0gwoz-6" value="" style="edgeStyle=none;html=1;" parent="Feqi51olCMdmPRe0gwoz-1" source="Feqi51olCMdmPRe0gwoz-7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="338" y="560" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="Feqi51olCMdmPRe0gwoz-7" value="Social raw table&amp;nbsp;&lt;br&gt;Layer 0&amp;nbsp;" style="whiteSpace=wrap;html=1;dashed=0;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
                     <mxGeometry x="278" y="440" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Feqi51olCMdmPRe0gwoz-8" value="" style="edgeStyle=none;html=1;" parent="Feqi51olCMdmPRe0gwoz-1" source="Feqi51olCMdmPRe0gwoz-9" target="Feqi51olCMdmPRe0gwoz-12" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="Feqi51olCMdmPRe0gwoz-9" value="append 2 week&amp;nbsp;&lt;br&gt;Layer 1" style="whiteSpace=wrap;html=1;dashed=0;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
-                    <mxGeometry x="278" y="560" width="120" height="60" as="geometry"/>
+                <mxCell id="Feqi51olCMdmPRe0gwoz-8" value="" style="edgeStyle=none;html=1;" parent="Feqi51olCMdmPRe0gwoz-1" target="Feqi51olCMdmPRe0gwoz-12" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="338" y="620" as="sourcePoint"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="Feqi51olCMdmPRe0gwoz-10" value="" style="edgeStyle=none;html=1;" parent="Feqi51olCMdmPRe0gwoz-1" source="Feqi51olCMdmPRe0gwoz-12" target="Feqi51olCMdmPRe0gwoz-15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -540,9 +541,9 @@
                 <mxCell id="Feqi51olCMdmPRe0gwoz-13" value="" style="edgeStyle=none;html=1;" parent="Feqi51olCMdmPRe0gwoz-1" source="Feqi51olCMdmPRe0gwoz-15" target="Feqi51olCMdmPRe0gwoz-16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="Feqi51olCMdmPRe0gwoz-14" value="" style="edgeStyle=none;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="Feqi51olCMdmPRe0gwoz-1" source="Feqi51olCMdmPRe0gwoz-15" target="Feqi51olCMdmPRe0gwoz-18" edge="1">
+                <mxCell id="Feqi51olCMdmPRe0gwoz-14" value="" style="edgeStyle=none;html=1;entryX=1.017;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Feqi51olCMdmPRe0gwoz-1" source="Feqi51olCMdmPRe0gwoz-15" target="Feqi51olCMdmPRe0gwoz-18" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="198" y="888.5858585858587" as="targetPoint"/>
+                        <mxPoint x="220" y="830" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="Feqi51olCMdmPRe0gwoz-15" value="Business rule table&lt;br&gt;Layer 3" style="whiteSpace=wrap;html=1;dashed=0;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
@@ -551,14 +552,11 @@
                 <mxCell id="Feqi51olCMdmPRe0gwoz-16" value="Cross channel Production Table&lt;br&gt;Layer 4" style="whiteSpace=wrap;html=1;dashed=0;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
                     <mxGeometry x="278" y="920" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Feqi51olCMdmPRe0gwoz-17" value="Region , country , journey&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
-                    <mxGeometry x="78" y="668" width="120" height="80" as="geometry"/>
+                <mxCell id="Feqi51olCMdmPRe0gwoz-17" value="Market, Region,&lt;br&gt;Journey Phase, Campain_name,&lt;br&gt;Audience, Creative_name,&lt;br&gt;Objective, Publisher, Tactic&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
+                    <mxGeometry y="657" width="198" height="102" as="geometry"/>
                 </mxCell>
-                <mxCell id="Feqi51olCMdmPRe0gwoz-18" value="Attributed booking &amp;amp; revenue&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;View through and click throughj purchases_conversions" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
-                    <mxGeometry y="800" width="198" height="105" as="geometry"/>
-                </mxCell>
-                <mxCell id="Feqi51olCMdmPRe0gwoz-20" value="Display&amp;nbsp;&lt;br&gt;DCM&amp;nbsp;&lt;br&gt;Verizon&lt;br&gt;Teads&lt;br&gt;TTD&lt;br&gt;" style="html=1;dashed=0;whitespace=wrap;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
-                    <mxGeometry x="970" y="30" width="190" height="199" as="geometry"/>
+                <mxCell id="Feqi51olCMdmPRe0gwoz-18" value="&lt;br&gt;Impression, Click, Media cost, Attributed booking &amp;amp; revenue,&lt;br&gt;View through and click through purchases_conversions" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
+                    <mxGeometry y="790" width="198" height="105" as="geometry"/>
                 </mxCell>
                 <mxCell id="h1XLuWd7A0KidiMhKsJ6-23" value="Display&amp;nbsp;&lt;br&gt;DCM - 3 reports&lt;br&gt;DV360 - 1 report&lt;br&gt;GDA - 1 report&amp;nbsp;&lt;br&gt;Verizon - 1 report&lt;br&gt;Teads - 1 report&lt;br&gt;TTD - 1 report&lt;br&gt;SojernVideo - 1 report&lt;br&gt;DV_IAS - 2 report&lt;br&gt;Apple_ads - 1 report" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
                     <mxGeometry x="703" y="41" width="190" height="200" as="geometry"/>
@@ -571,7 +569,7 @@
                         <mxPoint x="888" y="70" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="h1XLuWd7A0KidiMhKsJ6-26" value="Union&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                <mxCell id="h1XLuWd7A0KidiMhKsJ6-26" value="Union&lt;br&gt;&lt;font color=&quot;#f0451a&quot;&gt;(select 2 weeks&lt;br&gt;of data)&lt;/font&gt;&lt;br&gt;&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
                     <mxGeometry x="738" y="320" width="120" height="57" as="geometry"/>
                 </mxCell>
                 <mxCell id="h1XLuWd7A0KidiMhKsJ6-27" value="" style="edgeStyle=none;html=1;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="h1XLuWd7A0KidiMhKsJ6-28" target="h1XLuWd7A0KidiMhKsJ6-30">
@@ -583,14 +581,16 @@
                 <mxCell id="h1XLuWd7A0KidiMhKsJ6-29" value="" style="edgeStyle=none;html=1;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="h1XLuWd7A0KidiMhKsJ6-30" target="h1XLuWd7A0KidiMhKsJ6-33">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="h1XLuWd7A0KidiMhKsJ6-30" value="append 2 week&amp;nbsp;&lt;br&gt;Layer 1" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                <mxCell id="h1XLuWd7A0KidiMhKsJ6-30" value="append 2 week data&lt;br&gt;Layer 1" style="whiteSpace=wrap;html=1;dashed=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
                     <mxGeometry x="738" y="560" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="h1XLuWd7A0KidiMhKsJ6-31" value="" style="edgeStyle=none;html=1;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="h1XLuWd7A0KidiMhKsJ6-33" target="h1XLuWd7A0KidiMhKsJ6-36">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="h1XLuWd7A0KidiMhKsJ6-32" value="" style="edgeStyle=none;html=1;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="h1XLuWd7A0KidiMhKsJ6-33" target="h1XLuWd7A0KidiMhKsJ6-38">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="h1XLuWd7A0KidiMhKsJ6-32" value="" style="edgeStyle=none;html=1;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="h1XLuWd7A0KidiMhKsJ6-33">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="658" y="708" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="h1XLuWd7A0KidiMhKsJ6-33" value="Ruled based taxanomy table&lt;br&gt;Layer 3" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
                     <mxGeometry x="738" y="678" width="120" height="60" as="geometry"/>
@@ -598,9 +598,9 @@
                 <mxCell id="h1XLuWd7A0KidiMhKsJ6-34" value="" style="edgeStyle=none;html=1;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="h1XLuWd7A0KidiMhKsJ6-36" target="h1XLuWd7A0KidiMhKsJ6-37">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="h1XLuWd7A0KidiMhKsJ6-35" value="" style="edgeStyle=none;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="h1XLuWd7A0KidiMhKsJ6-36" target="h1XLuWd7A0KidiMhKsJ6-39">
+                <mxCell id="h1XLuWd7A0KidiMhKsJ6-35" value="" style="edgeStyle=none;html=1;entryX=1.007;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="h1XLuWd7A0KidiMhKsJ6-36" target="h1XLuWd7A0KidiMhKsJ6-39">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="658" y="888.5858585858587" as="targetPoint"/>
+                        <mxPoint x="670" y="830" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="h1XLuWd7A0KidiMhKsJ6-36" value="Business rule table&lt;br&gt;Layer 3" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
@@ -609,11 +609,14 @@
                 <mxCell id="h1XLuWd7A0KidiMhKsJ6-37" value="Cross channel Production Table&lt;br&gt;Layer 4" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
                     <mxGeometry x="738" y="920" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="h1XLuWd7A0KidiMhKsJ6-38" value="Region , country , journey&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
-                    <mxGeometry x="538" y="668" width="120" height="80" as="geometry"/>
+                <mxCell id="h1XLuWd7A0KidiMhKsJ6-39" value="&lt;br&gt;Impression, Click, Media cost, Attributed booking &amp;amp; revenue,&lt;br&gt;View through and click through purchases_conversions" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="460" y="790" width="198" height="105" as="geometry"/>
                 </mxCell>
-                <mxCell id="h1XLuWd7A0KidiMhKsJ6-39" value="Attributed booking &amp;amp; revenue&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;View through and click throughj conversions . purchases click throug" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
-                    <mxGeometry x="460" y="800" width="198" height="105" as="geometry"/>
+                <mxCell id="O9Es7SGcqxDitkceyqme-0" value="append 2 week data&lt;br&gt;Layer 1" style="whiteSpace=wrap;html=1;dashed=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="278" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="O9Es7SGcqxDitkceyqme-1" value="Market, Region,&lt;br&gt;Journey Phase, Campain_name,&lt;br&gt;Audience, Creative_name,&lt;br&gt;Objective, Publisher, Tactic&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="460" y="668" width="198" height="102" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
