@@ -498,11 +498,14 @@
         </mxGraphModel>
     </diagram>
     <diagram id="BzX1BeV7VFohSaD8pxu7" name="Page-3">
-        <mxGraphModel dx="974" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+        <mxGraphModel dx="1498" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
             <root>
                 <mxCell id="Feqi51olCMdmPRe0gwoz-0"/>
                 <mxCell id="Feqi51olCMdmPRe0gwoz-1" parent="Feqi51olCMdmPRe0gwoz-0"/>
-                <mxCell id="Feqi51olCMdmPRe0gwoz-2" value="Social&amp;nbsp;&lt;br&gt;Meta - 5 report&amp;nbsp;&lt;br&gt;Snap - 2 report&lt;br&gt;Tik Tok - 1 report&lt;br&gt;Pintrest - report&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
+                <mxCell id="29BHVZmxLsKayn76CW2U-17" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#4CF01A;align=left;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="170" y="420" width="1240" height="99" as="geometry"/>
+                </mxCell>
+                <mxCell id="Feqi51olCMdmPRe0gwoz-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Social&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;Meta - 5 report&amp;nbsp;&lt;br&gt;Snap - 2 report&lt;br&gt;Tik Tok - 1 report&lt;br&gt;Pintrest - report&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
                     <mxGeometry x="243" y="41" width="190" height="200" as="geometry"/>
                 </mxCell>
                 <mxCell id="Feqi51olCMdmPRe0gwoz-3" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=90;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
@@ -558,7 +561,7 @@
                 <mxCell id="Feqi51olCMdmPRe0gwoz-18" value="&lt;br&gt;Impression, Click, Media cost, Attributed booking &amp;amp; revenue,&lt;br&gt;View through and click through purchases_conversions" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" parent="Feqi51olCMdmPRe0gwoz-1" vertex="1">
                     <mxGeometry y="790" width="198" height="105" as="geometry"/>
                 </mxCell>
-                <mxCell id="h1XLuWd7A0KidiMhKsJ6-23" value="Display&amp;nbsp;&lt;br&gt;DCM - 3 reports&lt;br&gt;DV360 - 1 report&lt;br&gt;GDA - 1 report&amp;nbsp;&lt;br&gt;Verizon - 1 report&lt;br&gt;Teads - 1 report&lt;br&gt;TTD - 1 report&lt;br&gt;SojernVideo - 1 report&lt;br&gt;DV_IAS - 2 report&lt;br&gt;Apple_ads - 1 report" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                <mxCell id="h1XLuWd7A0KidiMhKsJ6-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Display&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;DCM - 3 reports&lt;br&gt;DV360 - 1 report&lt;br&gt;GDA - 1 report&amp;nbsp;&lt;br&gt;Verizon - 1 report&lt;br&gt;Teads - 1 report&lt;br&gt;TTD - 1 report&lt;br&gt;SojernVideo - 1 report&lt;br&gt;DV_IAS - 2 report&lt;br&gt;Apple_ads - 1 report" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
                     <mxGeometry x="703" y="41" width="190" height="200" as="geometry"/>
                 </mxCell>
                 <mxCell id="h1XLuWd7A0KidiMhKsJ6-24" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
@@ -616,7 +619,67 @@
                     <mxGeometry x="278" y="560" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="O9Es7SGcqxDitkceyqme-1" value="Market, Region,&lt;br&gt;Journey Phase, Campain_name,&lt;br&gt;Audience, Creative_name,&lt;br&gt;Objective, Publisher, Tactic&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
-                    <mxGeometry x="460" y="668" width="198" height="102" as="geometry"/>
+                    <mxGeometry x="460" y="657" width="198" height="102" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Search&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;SA360 - 3 reports&lt;br&gt;" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="1163" y="41" width="190" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-1" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="1218.75" y="251.25" width="78.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-2" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="29BHVZmxLsKayn76CW2U-3" target="29BHVZmxLsKayn76CW2U-5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1348" y="70" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-3" value="Union&lt;br&gt;&lt;font color=&quot;#f0451a&quot;&gt;(select 2 weeks&lt;br&gt;of data)&lt;/font&gt;&lt;br&gt;&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="1198" y="320" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-4" value="" style="edgeStyle=none;html=1;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="29BHVZmxLsKayn76CW2U-5" target="29BHVZmxLsKayn76CW2U-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-5" value="Search raw table&amp;nbsp;&lt;br&gt;Layer 0&amp;nbsp;" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="1198" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-6" value="" style="edgeStyle=none;html=1;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="29BHVZmxLsKayn76CW2U-7" target="29BHVZmxLsKayn76CW2U-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-7" value="append 2 week data&lt;br&gt;Layer 1" style="whiteSpace=wrap;html=1;dashed=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="1198" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-8" value="" style="edgeStyle=none;html=1;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="29BHVZmxLsKayn76CW2U-10" target="29BHVZmxLsKayn76CW2U-13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-9" value="" style="edgeStyle=none;html=1;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="29BHVZmxLsKayn76CW2U-10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1118" y="708" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-10" value="Ruled based taxanomy table&lt;br&gt;Layer 3" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="1198" y="678" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-11" value="" style="edgeStyle=none;html=1;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="29BHVZmxLsKayn76CW2U-13" target="29BHVZmxLsKayn76CW2U-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-12" value="" style="edgeStyle=none;html=1;entryX=1.007;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Feqi51olCMdmPRe0gwoz-1" source="29BHVZmxLsKayn76CW2U-13" target="29BHVZmxLsKayn76CW2U-15">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1130" y="830" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-13" value="Business rule table&lt;br&gt;Layer 3" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="1198" y="800" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-14" value="Cross channel Production Table&lt;br&gt;Layer 4" style="whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="1198" y="920" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-15" value="&lt;br&gt;Impression, Click, Media cost, Attributed booking &amp;amp; revenue,&lt;br&gt;View through and click through purchases_conversions" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="920" y="790" width="198" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-16" value="Market, Region,&lt;br&gt;Journey Phase, Campain_name,&lt;br&gt;Audience, Creative_name,&lt;br&gt;Objective, Publisher, Tactic&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="920" y="657" width="198" height="102" as="geometry"/>
+                </mxCell>
+                <mxCell id="29BHVZmxLsKayn76CW2U-18" value="&lt;font color=&quot;#ffffff&quot;&gt;Layer 0&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;fontColor=#4CF01A;" vertex="1" parent="Feqi51olCMdmPRe0gwoz-1">
+                    <mxGeometry x="170" y="420" width="60" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
