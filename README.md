@@ -62,6 +62,13 @@ another simple single HTML page, server-less Markdown editor in JavaScript
 github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com)) - 👨‍💻👩‍💻 Fast, minimal web editor that makes markdown editing collaborative and accessible to everyone.
 
 
+## Markdown Editors for Integration in Web Apps
+
+Editors designed to be used by developers for use in websites and web apps.
+
+**Wysimark** (web: [`wysimark.com`](https://wysimark.com/), github: [`portive/wysimark`](https://github.com/portive/wysimark)) - The WYSIWYG editor for Markdown with integrations for React, Vue and Plain JavaScript. Supports CommonMark and GFM specs. Features tables, check lists, images, emojis and attachments. Comes with a modern interface and design. Features cloud based image uploads, attachments, and image resizing. MIT licensed.
+
+
 ## Markdown Desktop Editors
 
 ### Universal
