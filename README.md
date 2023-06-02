@@ -62,7 +62,7 @@ another simple single HTML page, server-less Markdown editor in JavaScript
 github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com)) - 👨‍💻👩‍💻 Fast, minimal web editor that makes markdown editing collaborative and accessible to everyone.
 
 
-## Markdown Editors for Integration in Web Apps
+## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
 
