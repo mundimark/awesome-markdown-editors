@@ -73,21 +73,31 @@ Editors designed to be used by developers for use in websites and web apps.
 
 ### Universal
 
+[**Abricotine**](https://github.com/brrd/Abricotine) (FREE, open source)
+
+Abricotine supports very good instant preview like Typora, but is open source - free forever.
+
 [**Atom**](https://atom.io/) (FREE, open source)
 
 Markdown Preview - to be done
 
-[**Visual Studio Code**](https://code.visualstudio.com/) (FREE, open source)
+[**Caret**](https://caret.io/) ($29 for continued use)
 
-Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.
+Features live preview, files sidebar, go to anything, advanced spell checker and a lot more.
+
+[**Deepdwn**](https://billiam.itch.io/deepdwn) ($11.99)
+
+Deepdwn is an offline-only, feature-rich markdown editor for Windows, Mac and Linux, focused on expressive rendering and document organization.
+
+Supports image drag and drop, charts and diagrams, sheet music and tabs, table auto-formatting, tags and categories, and more.
 
 [**KeenWrite**](https://github.com/DaveJarvis/keenwrite) (FREE, open source)
 
-Java-based desktop text editor with live preview, variables, inline math, document outline, diagrams, real-time spell check, dark themes, custom theming, document statistics, R integration, internationalization support, XML/XSLT3, dockable tabs, and more.
+A free, open-source, cross-platform desktop Markdown editor that can produce beautifully typeset PDFs. The editor has live preview, variables, TeX-based math, diagrams, spell check, dark modes, themes, document statistics, R integration, internationalization support, dockable tabs, and more.
 
-KeenWrite was developed to make using variables in documents simple. Variables may be used for character sheets when authoring fiction, ensuring consistent palette usage for technical diagrams, real-time calculations when combined with inline R statements, and so forth.
+KeenWrite simplifies using variables in documents. Variables are useful for character sheets, consistent palette in technical diagrams, and computations when coupled with R.
 
-See the [screenshots](https://github.com/DaveJarvis/keenwrite#screenshots) and [demo video](https://www.youtube.com/watch?v=u_dFd6UhdV8) for additional details.
+See the [tutorials]([https://www.youtube.com/watch?v=u_dFd6UhdV8](https://www.youtube.com/playlist?list=PLB-WIt1cZYLm1MMx2FBG9KWzPIoWZMKu_)) for details.
 
 [**Typora**](https://typora.io/) ($$, Free in beta)
 
@@ -97,23 +107,13 @@ In addition to including some very nice looking css based themes it also leverag
 
 The current version, 0.9.23-1, still has some minor bugs and the OS X version is still in beta but, wow, does it look great!
 
-[**Abricotine**](https://github.com/brrd/Abricotine) (FREE, open source)
-
-Abricotine supports very good instant preview like Typora, but is open source - free forever.
-
 [**MarkText**](https://github.com/marktext/marktext) (FREE, open source)
 
 MarkText is very similar to Abricotine, but it's development is much faster than Abricotine's (while isn't really stable yet).
 
-[**Deepdwn**](https://billiam.itch.io/deepdwn) ($11.99)
+[**Visual Studio Code**](https://code.visualstudio.com/) (FREE, open source)
 
-Deepdwn is an offline-only, feature-rich markdown editor for Windows, Mac and Linux, focused on expressive rendering and document organization.
-
-Supports image drag and drop, charts and diagrams, sheet music and tabs, table auto-formatting, tags and categories, and more.
-
-[**Caret**](https://caret.io/) ($29 for continued use)
-
-Features live preview, files sidebar, go to anything, advanced spell checker and a lot more.
+Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.
 
 [**Zettlr**](https://www.zettlr.com/) (FREE, open source)
 
