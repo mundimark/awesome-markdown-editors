@@ -77,10 +77,6 @@ Editors designed to be used by developers for use in websites and web apps.
 
 ### Universal
 
-[**Atom**](https://atom.io/) (FREE, open source)
-
-Markdown Preview - to be done
-
 [**Caret**](https://caret.io/) ($29 for continued use)
 
 Features live preview, files sidebar, go to anything, advanced spell checker and a lot more.

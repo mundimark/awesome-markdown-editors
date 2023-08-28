@@ -21,6 +21,12 @@ Abricotine supports very good instant preview like Typora, but is open source - 
 The editor is unmaintained as of Jul 19, 2023. The author suggests using other editors.
 See https://github.com/brrd/abricotine/issues/347.
 
+[**Atom**](https://atom.io/) (FREE, open source)
+
+Markdown Preview - to be done
+
+The editor is archived and unmaintained as of Dec 15, 2022. See https://github.blog/2022-06-08-sunsetting-atom/.
+
 ### Linux
 
 *none*
