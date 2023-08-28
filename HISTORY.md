@@ -14,7 +14,12 @@ Editors designed to be used by developers for use in websites and web apps.
 
 ### Universal
 
-*none*
+[**Abricotine**](https://github.com/brrd/Abricotine) (FREE, open source)
+
+Abricotine supports very good instant preview like Typora, but is open source - free forever.
+
+The editor is unmaintained as of Jul 19, 2023. The author suggests using other editors.
+See https://github.com/brrd/abricotine/issues/347.
 
 ### Linux
 

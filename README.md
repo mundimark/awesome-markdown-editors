@@ -77,10 +77,6 @@ Editors designed to be used by developers for use in websites and web apps.
 
 ### Universal
 
-[**Abricotine**](https://github.com/brrd/Abricotine) (FREE, open source)
-
-Abricotine supports very good instant preview like Typora, but is open source - free forever.
-
 [**Atom**](https://atom.io/) (FREE, open source)
 
 Markdown Preview - to be done
