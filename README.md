@@ -74,6 +74,10 @@ Editors designed to be used by developers for use in websites and web apps.
 
 Features live preview, files sidebar, go to anything, advanced spell checker and a lot more.
 
+[**CodeLobster**](https://www.codelobster.com) (FREE)
+
+Markdown syntax highlighting, live preview.
+
 [**Deepdwn**](https://billiam.itch.io/deepdwn) ($11.99)
 
 Deepdwn is an offline-only, feature-rich markdown editor for Windows, Mac and Linux, focused on expressive rendering and document organization.
