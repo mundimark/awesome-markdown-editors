@@ -104,6 +104,10 @@ The current version, 0.9.23-1, still has some minor bugs and the OS X version is
 
 MarkText is very similar to Abricotine, but it's development is much faster than Abricotine's (while isn't really stable yet).
 
+[**QOwnNotes**](https://github.com/pbek/QOwnNotes) (FREE, open source)
+
+Free open source plain-text file markdown note-taking with Nextcloud / ownCloud integration, scripting engine and scripts repository.
+
 [**Visual Studio Code**](https://code.visualstudio.com/) (FREE, open source)
 
 Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.
