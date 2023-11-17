@@ -24,6 +24,10 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 (web: [`mark.barelyhuman.dev`](https://mark.barelyhuman.dev),
 github: [`barelyhuman/mark`](https://github.com/barelyhuman/mark)) - Simple Web Markdown Editor
 
+**Holocron** 
+(web: [`holocron.so`](https://holocron.so/markdown-editor)),
+Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI agents integration, accept suggestions from guests (automatically opens GitHub PR).
+
 **Minimalist Online Markdown Editor**
 (web: [`markdown.pioul.fr`](http://markdown.pioul.fr),
  github: [`pioul/Minimalist-Online-Markdown-Editor`](https://github.com/pioul/Minimalist-Online-Markdown-Editor))
