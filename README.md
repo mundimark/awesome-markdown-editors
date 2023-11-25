@@ -88,7 +88,7 @@ Deepdwn is an offline-only, feature-rich markdown editor for Windows, Mac and Li
 
 Supports image drag and drop, charts and diagrams, sheet music and tabs, table auto-formatting, tags and categories, and more.
 
-[**KeenWrite**](https://github.com/DaveJarvis/keenwrite) (FREE, open source)
+[**KeenWrite**](https://gitlab.com/DaveJarvis/keenwrite) (FREE, open source)
 
 A free, open-source, cross-platform desktop Markdown editor that can produce beautifully typeset PDFs. The editor has live preview, variables, TeX-based math, diagrams, spell check, dark modes, themes, document statistics, R integration, internationalization support, dockable tabs, and more.
 
