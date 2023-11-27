@@ -1,6 +1,13 @@
 # History - Dead / Unmaintained ~~Awesome~~ Markdown Editors & (Pre)viewers
 
 
+## Markdown Online Editors
+
+**Markdown Note**
+(web: [`writekit.github.io/markdown.note/note.html`](http://writekit.github.io/markdown.note/note.html),
+ github: [`writekit/markdown.note`](https://github.com/writekit/markdown.note)) -
+another simple single HTML page, server-less Markdown editor in JavaScript
+
 
 ## Markdown Desktop Editors
 

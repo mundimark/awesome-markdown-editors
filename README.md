@@ -20,11 +20,11 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 
 ## Markdown Online Editors
 
-**Mark** 
+**Mark**
 (web: [`mark.barelyhuman.dev`](https://mark.barelyhuman.dev),
 github: [`barelyhuman/mark`](https://github.com/barelyhuman/mark)) - Simple Web Markdown Editor
 
-**Holocron** 
+**Holocron**
 (web: [`holocron.so`](https://holocron.so/markdown-editor)),
 Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI agents integration, accept suggestions from guests (automatically opens GitHub PR).
 
@@ -35,11 +35,6 @@ Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI a
 **StackEdit**
 (web: [`stackedit.io`](https://stackedit.io),
  github: [`benweet/stackedit`](https://github.com/benweet/stackedit))
-
-**Markdown Note**
-(web: [`writekit.github.io/markdown.note/note.html`](http://writekit.github.io/markdown.note/note.html),
- github: [`writekit/markdown.note`](https://github.com/writekit/markdown.note)) -
-another simple single HTML page, server-less Markdown editor in JavaScript
 
 **Dillinger.io**
 (web: [`dillinger.io`](http://dillinger.io/),
@@ -52,9 +47,9 @@ another simple single HTML page, server-less Markdown editor in JavaScript
 
 **HackMD**
 (web: [`hackmd.io`](http://hackmd.io/),
- github: [`HackMD`](https://github.com/hackmdio)) - Allows collaboration and more UI options. Link to Github is maintained. 
+ github: [`HackMD`](https://github.com/hackmdio)) - Allows collaboration and more UI options. Link to Github is maintained.
 
- **LetsMarkdown.com** 
+ **LetsMarkdown.com**
 (web: [`LetsMarkdown.com`](https://letsmarkdown.com/),
 github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com)) - 👨‍💻👩‍💻 Fast, minimal web editor that makes markdown editing collaborative and accessible to everyone.
 
