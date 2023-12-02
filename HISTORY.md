@@ -4,8 +4,11 @@
 ## Markdown Online Editors
 
 **Markdown Note**
-(web: [`writekit.github.io/markdown.note/note.html`](http://writekit.github.io/markdown.note/note.html),
- github: [`writekit/markdown.note`](https://github.com/writekit/markdown.note)) -
+
+_Archived source code at https://github.com/rubycocos/markdown_
+
+~~(web: [`writekit.github.io/markdown.note/note.html`](http://writekit.github.io/markdown.note/note.html),
+ github: [`writekit/markdown.note`](https://github.com/writekit/markdown.note)) -~~
 another simple single HTML page, server-less Markdown editor in JavaScript
 
 
