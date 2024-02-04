@@ -173,6 +173,11 @@ More / Articles
 full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words;
 WriteMonkey is light, fast, and free
 
+**obsidian**
+(web: [`obsidian.md`](http://obsidian.md)) -
+Obsidian is the private and flexible writing app that adapts to the way you think.
+Obsidian stores notes on your device, so you can access them quickly, even offline. No one else can read them, not even us.
+
 **Markdown Monster**
 (web: [`markdownmonster.west-wind.com`](https://markdownmonster.west-wind.com/)) -
 Markdown is everywhere these days and it's used for all sorts of different purposes. Wouldn't it be nice if you have an editor that can keep up with all of those scenarios?
