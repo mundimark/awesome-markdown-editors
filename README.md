@@ -57,6 +57,9 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 (web: [`Typo`](https://typo.robino.dev),
  github: [`rossrobino/typo`](https://github.com/rossrobino/typo)) - View content as a document or slideshow with a variety of themes in the browser.
 
+ **Word2md.com**
+ (web: [`Word2md.com`](https://Word2md.com/), - Converting a Word (or Google) Document to markdown, very is easy steps. Just upload your .docx or .doc document, then the praser converts it to crisp, clean Markdown version.
+
 
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
