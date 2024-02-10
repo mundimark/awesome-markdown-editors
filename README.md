@@ -60,6 +60,9 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
  **Word2md.com**
  (web: [`Word2md.com`](https://Word2md.com/), - Converting a Word (or Google) Document to markdown, very is easy steps. Just upload your .docx or .doc document, then the praser converts it to crisp, clean Markdown version.
 
+**readme.so**
+ (web: [`readme.so`](https://readme.so/), - Readme.so is an online editor to help developers make readmes for their project. 
+
 
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
