@@ -196,6 +196,31 @@ More / Articles
 
 - [The Best Markdown Editor for Windows](https://sitepoint.com/best-markdown-editors-windows) by Zack Wallace, SitePoint,  July 2017 -- incl. Texts ($19), WriteMonkey, Haroopad ($$, Donationware), MarkPad, MarkdownPad 2, Typora ($$, Free in beta), Caret ($25)
 
+[**Markdown Shell Extensions**](https://github.com/EtheaDev/MarkdownShellExtensions) (FREE - Open Source) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+
+*A collection of tools for markdown files, to edit and view content:*
+
+- A **Markdown Text Editor** to manually edit a markdown file, with instant preview of the output in a HTML Viewer.
+
+- A **Preview handler** which allows you to see the content of the markdown file without open it, in the "Preview Panel", integrated into Windows Explorer.
+
+- Supports Windows Vista, 7, 8, 10 and 11 (for 32 bits and 64 bits).
+
+- Themes (Dark and Light) according to user preferences of Windows Theme
+
+- An easy pre-built Setup is provided.
+
+[**Markdown Help Viewer**](https://github.com/EtheaDev/MarkdownHelpViewer) (FREE - Open Source) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+
+*An integrated help system based on files in Markdown format (and also html), for Delphi and Windows applications*
+
+- A unit (MarkdownHelpViewer.pas) to add the interface to Delphi Help System of your Delphi Application (from XE6 version to latest)
+
+- A VCL Visual Component (TMarkdownViewer) to automatically show Markdown file formatted in HTML (from XE6 version to latest)
+
+- A simple demo to show how to integrate the Help in your application
+
+- An easy pre-built Setup is provided.
 
 ### Apple Mac OS X
 
