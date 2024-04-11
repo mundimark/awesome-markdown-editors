@@ -97,7 +97,7 @@ KeenWrite simplifies using variables in documents. Variables are useful for char
 
 See the [tutorials]([https://www.youtube.com/watch?v=u_dFd6UhdV8](https://www.youtube.com/playlist?list=PLB-WIt1cZYLm1MMx2FBG9KWzPIoWZMKu_)) for details.
 
-[**Typora**](https://typora.io/) ($$, Free in beta)
+[**Typora**](https://typora.io/) ($$ 14.99 )
 
 Typora is a highly unique and powerful markdown editor. The most surprising and difficult to explain feature, is the **in place** live preview. In a nutshell as you type markdown it previews the text behind your cursor eliminating the need for a separate preview space.
 
