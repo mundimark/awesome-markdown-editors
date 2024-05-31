@@ -138,6 +138,10 @@ The interface is translated to many languages, as spanish, german or portuguese.
 
 Znote is a free, elegant program meant to help you write beautifully organized Markdown documents. You can organize your texts, notes, and files even better, using the simplistic left-side widget organizer for smoothly navigating different files.
 
+[**Joplin**](https://joplinapp.org) (FREE, open source)
+
+Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes can be securely synchronised using end-to-end encryption with various cloud services including Nextcloud, Dropbox, OneDrive and it's own Joplin Cloud. The app is available on Windows, macOS, Linux, Android and iOS.
+
 
 ### Linux
 
