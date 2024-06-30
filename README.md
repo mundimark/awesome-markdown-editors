@@ -98,7 +98,13 @@ KeenWrite simplifies using variables in documents. Variables are useful for char
 
 See the [tutorials]([https://www.youtube.com/watch?v=u_dFd6UhdV8](https://www.youtube.com/playlist?list=PLB-WIt1cZYLm1MMx2FBG9KWzPIoWZMKu_)) for details.
 
-[**Typora**](https://typora.io/) ($$ 14.99 )
+[**Obsidian.md**](https://obsidian.md/) (FREE, Paid Syncing Options)
+
+Obsidian.md is a powerful and versatile note-taking app that utilizes Markdown to create and link notes seamlessly, forming a personal knowledge base. It allows users to visualize their notes as a graph, making it easy to see connections and relationships between ideas. With its extensive plugin system, Obsidian can be customized to fit various workflows, from academic research to personal journaling. 
+
+[Get more information here.](https://publish.obsidian.md/hub/00+-+Start+here)
+
+[**Typora**](https://typora.io/) ($14.99)
 
 Typora is a highly unique and powerful markdown editor. The most surprising and difficult to explain feature, is the **in place** live preview. In a nutshell as you type markdown it previews the text behind your cursor eliminating the need for a separate preview space.
 
