@@ -149,6 +149,12 @@ Znote is a free, elegant program meant to help you write beautifully organized M
 
 Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes can be securely synchronised using end-to-end encryption with various cloud services including Nextcloud, Dropbox, OneDrive and it's own Joplin Cloud. The app is available on Windows, macOS, Linux, Android and iOS.
 
+[**Markdown Tools**](https://github.com/igormironchik/markdown-tools) (FREE, open source)
+
+Markdown Tools is a free, open source set of applications for editing, preview and converting to PDF
+Markdown documents. It supports CommonMark 0.31.2 with GitHub extensions, it can load all linked
+Markdown files into preview and convert them into one PDF.
+
 
 ### Linux
 
