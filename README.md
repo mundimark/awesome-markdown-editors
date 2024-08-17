@@ -72,6 +72,8 @@ Editors designed to be used by developers for use in websites and web apps.
 
 **Docs to Markdown Pro** (web: [Docs to Markdown Pro](https://www.docstomarkdown.pro), Google Workspace Marketplace Extension: [Docs to Markdown Pro Extension](https://workspace.google.com/marketplace/app/docs_to_markdown_pro/483386994804) Starts from 29$ per year) - This Google Docs editor add-on converts your Google Docs to Markdown format, including images. It integrates with GitHub and GitLab, allowing you to write collaboratively in Google Docs and commit your work directly as Markdown (including images) to your repositories, streamlining your workflow.
 
+**Umo Editor** (web:[Umo Editor Playground](https://demo.umodoc.com/editor?lang=en-US), Documentation: [Umo Editor Documentation](https://editor.umodoc.com/en/docs), Github: [umodoc/editor](https://github.com/umodoc/editor)) - Umo Editor is open-source document editor based on Vue3 and Tiptap. Umo Editor provides comprehensive document editing capabilities and AI creation features, supports pagination, supports Markdown syntax, offers basic rich text editing functions, allows for the insertion of various node types in multiple formats, provides a variety of practical tools, and supports setting page styles. It also supports exporting in various formats, printing and print preview, block-level document editing, adding custom extensions, multi-language settings, and a dark theme.
+
 ## Markdown Desktop Editors
 
 ### Universal
