@@ -183,6 +183,10 @@ Apostrophe (formerly UberWriter), beautiful distraction free writing. With Apost
 (github: [`voldyman/MarkMyWords`](http://github.com/voldyman/MarkMyWords)) -
 a minimal markdown editor
 
+**MDEditor**
+(github: [`TadavomnisT/MDEditor`](https://github.com/TadavomnisT/MDEditor)) -
+MDEditor is a free and open-source Markdown editor that supports previewing and exporting to HTML, PDF, MediaWiki, and more. It also provides programming APIs and can be used as a web application or a cross-platform desktop app.
+
 
 More / Articles
 
