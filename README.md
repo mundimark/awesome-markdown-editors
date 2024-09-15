@@ -64,7 +64,7 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
  (web: [`readme.so`](https://readme.so/)), - Readme.so is an online editor to help developers make readmes for their project. 
 
 **Reprose**
- (web: [`reprose.pp.ua`](https://reprose.pp.ua/)), - Reprose is a Markdown editor for GitHub. It uses Github API for list markdown files in yours respository. You can open document in editor and seamlessly save changes to repo.
+ (web: [`reprose.pp.ua`](https://reprose.pp.ua/), github: [`github.com/jmas/reprose`](https://github.com/jmas/reprose)), - Reprose is a Markdown editor for GitHub. It uses Github API for list markdown files in yours respository. You can open document in editor and seamlessly save changes to repo.
 
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
