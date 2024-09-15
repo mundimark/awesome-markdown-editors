@@ -61,10 +61,10 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
  (web: [`Word2md.com`](https://Word2md.com/), - Converting a Word (or Google) Document to markdown, very is easy steps. Just upload your .docx or .doc document, then the praser converts it to crisp, clean Markdown version.
 
 **readme.so**
- (web: [`readme.so`](https://readme.so/), - Readme.so is an online editor to help developers make readmes for their project. 
+ (web: [`readme.so`](https://readme.so/)), - Readme.so is an online editor to help developers make readmes for their project. 
 
 **Reprose**
- (web: [`reprose.pp.ua`](https://reprose.pp.ua/), - Reprose is a Markdown editor for GitHub. It uses Github API for list markdown files in yours respository. You can open document in editor and seamlessly save changes to repo.
+ (web: [`reprose.pp.ua`](https://reprose.pp.ua/)), - Reprose is a Markdown editor for GitHub. It uses Github API for list markdown files in yours respository. You can open document in editor and seamlessly save changes to repo.
 
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
