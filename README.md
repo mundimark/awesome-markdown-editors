@@ -66,6 +66,9 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 **Reprose**
  (web: [`reprose.pp.ua`](https://reprose.pp.ua/), github: [`jmas/reprose`](https://github.com/jmas/reprose)), - Reprose is a Markdown editor for GitHub. It uses Github API for list markdown files in yours respository. You can open document in editor and seamlessly save changes to repo.
 
+**type.**
+ (web: [`type.baby`](https://type.baby), github: [`qurle/type`](https://github.com/qurle/type)), - Local-first zen editor. Supports imports/exports, publishing to web and offline work.
+ 
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
