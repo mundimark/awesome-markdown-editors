@@ -24,6 +24,9 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 (web: [`mark.barelyhuman.dev`](https://mark.barelyhuman.dev),
 github: [`barelyhuman/mark`](https://github.com/barelyhuman/mark)) - Simple Web Markdown Editor
 
+**JekyllPad**
+(web: [`JekyllPad.com`](http://www.jekyllpad.com/tools/online-markdown-wysiwyg-editor)) Online WYSIWYG Markdown editor with professional features (Tables, Code Blocks, Youtube embde, Image/Video embed, Pexels.com embed, etc.), Supports Github Pages static websites
+
 **Holocron**
 (web: [`holocron.so`](https://holocron.so/markdown-editor)),
 Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI agents integration, accept suggestions from guests (automatically opens GitHub PR).
