@@ -278,6 +278,11 @@ Pro writing app designed for local Markdown files. Nota is a beautiful and easy 
 github: [`gsantner/markor`](https://github.com/gsantner/markor)) -
 Markor is an open source text editor for Android. This project aims to make an editor that is versatile, flexible, and lightweight. Markor utilizes simple markup formats like Markdown and todo.txt for note-taking and list management.
 
+### iOS
+**ArveleaWriter**
+(web: [`arvelea.com/writer`](https://arvelea.com/writer), GitHub: [`arveleaofficial/ArveleaWriter`](https://github.com/arveleaofficial/ArveleaWriter)) -
+Open source text & WYSIWYG markdown editor for iOS & iPadOS. Open & edit files accessible from iOS's Files app.
+
 ## Misc
 
 ### WordPress
