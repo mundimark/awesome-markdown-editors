@@ -77,6 +77,9 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 
 **Markwhen** 
  (web: [`markwhen.com`](https://meridiem.markwhen.com), github: [`mark-when/markwhen`](https://github.com/mark-when/markwhen)), - An interactive text-to-timeline tool that converts markdown-style text into cascading timelines. Features multiple visualization options including timeline, calendar, and resume views.
+
+**TypeMD**
+ (web: [`typemd.kevinbarrionuevo.ch`](https://typemd.kevinbarrionuevo.ch/)), - Online Markdown editor with WYSIWYG and source modes. Supports tables, images, and syntax-highlighted code blocks. Local-first storage with export feature.
  
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
