@@ -135,6 +135,12 @@ The current version, 0.9.23-1, still has some minor bugs and the OS X version is
 
 MarkFlowy is a very lightweight editor with built-in ChatGPT plugin (Although it is not mature enough, it is growing very fast.), allowing you to improve your editing efficiency and experience.
 
+[**Yank Note**](https://github.com/purocean/yn) (FREE, open source)
+
+Yank Note is a highly extensible Markdown editor, designed for productivity. It boasts a range of features including version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
+
+For more information on Yank Note, please refer to its [characteristic functions description](https://github.com/purocean/yn?tab=readme-ov-file#characteristic-functions).
+
 [**MarkText**](https://github.com/marktext/marktext) (FREE, open source)
 
 MarkText is very similar to Abricotine, but it's development is much faster than Abricotine's (while isn't really stable yet).
