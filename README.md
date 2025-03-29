@@ -80,6 +80,9 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 
 **TypeMD**
  (web: [`typemd.kevinbarrionuevo.ch`](https://typemd.kevinbarrionuevo.ch/)), - Online Markdown editor with WYSIWYG and source modes. Supports tables, images, and syntax-highlighted code blocks. Local-first storage with export feature.
+
+**Slate**
+ (web: [`slate.ink`](https://slate.ink/)), - A a local-first WYSIWYG markdown editor you can use right in your browser with export and publish features!
  
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
