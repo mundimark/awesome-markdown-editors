@@ -112,7 +112,7 @@ Deepdwn is an offline-only, feature-rich markdown editor for Windows, Mac and Li
 
 Supports image drag and drop, charts and diagrams, sheet music and tabs, table auto-formatting, tags and categories, and more.
 
-[**GeekDown**](https://github.com/fearlessgeekmedia.com/geekdown). (FREE, open source)
+[**GeekDown**](https://github.com/fearlessgeekmedia/geekdown). (FREE, open source)
 
 A free, open source, cross-platform Markdown editor based on Milkdown. It can also be used to export to HTML and PDF documents.
 
