@@ -334,7 +334,7 @@ More / Articles
 
 **License**
 
-The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+The awesome list is released under [the Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/), meaning it is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
 
 **Questions? Comments?**
 
