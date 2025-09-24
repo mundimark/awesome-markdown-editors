@@ -66,6 +66,15 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
  **Word2md.com**
  (web: [`Word2md.com`](https://Word2md.com/), - Converting a Word (or Google) Document to markdown, very is easy steps. Just upload your .docx or .doc document, then the praser converts it to crisp, clean Markdown version.
 
+**Word2md.net**
+(web: [`word2md.net`](https://word2md.net/)), - Batch converts Word or Google Docs files to Markdown, including folder uploads and multi-file processing to speed up documentation workflows.
+
+**PDF2MD.net**
+(web: [`pdf2md.net`](https://pdf2md.net/)), - Converts PDFs to Markdown with batch processing support, handling images and tables so larger document sets can be migrated in one pass.
+
+**MdToPdf.pro**
+(web: [`mdtopdf.pro`](https://www.mdtopdf.pro/)), - Exports Markdown to PDF using multiple themes, including GitHub-style and minimalist layouts, with options for typography and code block styling.
+
 **readme.so**
  (web: [`readme.so`](https://readme.so/)), - Readme.so is an online editor to help developers make readmes for their project. 
 
@@ -335,4 +344,3 @@ The awesome list is released under [the Creative Commons Zero](https://creativec
 **Questions? Comments?**
 
 Send them along to the markdown-discuss mailing list. Thanks!
-
