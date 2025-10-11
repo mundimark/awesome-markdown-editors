@@ -20,6 +20,10 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 
 ## Markdown Online Editors
 
+**Markon**
+(web: [`metaory.github.io/markon`](https://metaory.github.io/markon),
+github: [`metaory/markon`](https://github.com/metaory/markon)) - Minimal distraction-free local markdown editor
+
 **Mark**
 (web: [`mark.barelyhuman.dev`](https://mark.barelyhuman.dev),
 github: [`barelyhuman/mark`](https://github.com/barelyhuman/mark)) - Simple Web Markdown Editor
