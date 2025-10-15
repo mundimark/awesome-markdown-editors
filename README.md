@@ -1,22 +1,17 @@
 Awesome Series @ Write Kit
 
 [Markdown (Syntax & Extensions, Documentation & Cheat Sheets, Libraries, ...)](https://github.com/writekit/awesome-markdown) •
-[Markdown Editors & (Pre)viewers](https://github.com/writekit/awesome-markdown-editors)  •
+[Markdown Editors & (Pre)viewers](https://github.com/writekit/awesome-markdown-editors) •
 [Books (Services, Hand-Written, Auto-Built w/ Open Data, ...)](https://github.com/writekit/awesome-books)
-
 
 # Awesome Markdown Editors & (Pre)viewers
 
 A collection of awesome markdown editors and (pre)viewers
 for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
-
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-
-
 _Zen Writing - leaving you alone with your thoughts and your words_
-
 
 ## Markdown Online Editors
 
@@ -37,24 +32,24 @@ Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI a
 
 **Minimalist Online Markdown Editor**
 (web: [`markdown.pioul.fr`](http://markdown.pioul.fr),
- github: [`pioul/Minimalist-Online-Markdown-Editor`](https://github.com/pioul/Minimalist-Online-Markdown-Editor))
+github: [`pioul/Minimalist-Online-Markdown-Editor`](https://github.com/pioul/Minimalist-Online-Markdown-Editor))
 
 **StackEdit**
 (web: [`stackedit.io`](https://stackedit.io),
- github: [`benweet/stackedit`](https://github.com/benweet/stackedit))
+github: [`benweet/stackedit`](https://github.com/benweet/stackedit))
 
 **Dillinger.io**
 (web: [`dillinger.io`](http://dillinger.io/),
- github: [`joemccann/dillinger`](https://github.com/joemccann/dillinger))
+github: [`joemccann/dillinger`](https://github.com/joemccann/dillinger))
 
 **MarkTwo**
- (web: [`marktwo.app`](https://marktwo.app),
-  github:[`anthonygarvan/marktwo`](https://github.com/anthonygarvan/marktwo)),
-  MarkTwo is a free and open source progressive web app which can be installed on any platform or used within the browser. It features seamless transition between read and edit mode, snappy performance for large documents, and efficient, continuous, and private syncing via your own Google drive. It also has a host of productivity enhancements that make it ideal for long-form notes and journals.
+(web: [`marktwo.app`](https://marktwo.app),
+github:[`anthonygarvan/marktwo`](https://github.com/anthonygarvan/marktwo)),
+MarkTwo is a free and open source progressive web app which can be installed on any platform or used within the browser. It features seamless transition between read and edit mode, snappy performance for large documents, and efficient, continuous, and private syncing via your own Google drive. It also has a host of productivity enhancements that make it ideal for long-form notes and journals.
 
 **HackMD**
 (web: [`hackmd.io`](http://hackmd.io/),
- github: [`HackMD`](https://github.com/hackmdio)) - Allows collaboration and more UI options. Link to Github is maintained.
+github: [`HackMD`](https://github.com/hackmdio)) - Allows collaboration and more UI options. Link to Github is maintained.
 
 <!--
  see https://github.com/mundimark/awesome-markdown-editors/issues/67
@@ -65,10 +60,10 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 
 **Typo**
 (web: [`Typo`](https://typo.robino.dev),
- github: [`rossrobino/typo`](https://github.com/rossrobino/typo)) - View content as a document or slideshow with a variety of themes in the browser.
+github: [`rossrobino/typo`](https://github.com/rossrobino/typo)) - View content as a document or slideshow with a variety of themes in the browser.
 
- **Word2md.com**
- (web: [`Word2md.com`](https://Word2md.com/), - Converting a Word (or Google) Document to markdown, very is easy steps. Just upload your .docx or .doc document, then the praser converts it to crisp, clean Markdown version.
+**Word2md.com**
+(web: [`Word2md.com`](https://Word2md.com/), - Converting a Word (or Google) Document to markdown, very is easy steps. Just upload your .docx or .doc document, then the praser converts it to crisp, clean Markdown version.
 
 **Word2md.net**
 (web: [`word2md.net`](https://word2md.net/)), - Batch converts Word or Google Docs files to Markdown, including folder uploads and multi-file processing to speed up documentation workflows.
@@ -80,26 +75,26 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 (web: [`mdtopdf.pro`](https://www.mdtopdf.pro/)), - Exports Markdown to PDF using multiple themes, including GitHub-style and minimalist layouts, with options for typography and code block styling.
 
 **readme.so**
- (web: [`readme.so`](https://readme.so/)), - Readme.so is an online editor to help developers make readmes for their project. 
+(web: [`readme.so`](https://readme.so/)), - Readme.so is an online editor to help developers make readmes for their project.
 
 **Reprose**
- (web: [`reprose.pp.ua`](https://reprose.pp.ua/), github: [`jmas/reprose`](https://github.com/jmas/reprose)), - Reprose is a Markdown editor for GitHub. It uses Github API for list markdown files in yours respository. You can open document in editor and seamlessly save changes to repo.
+(web: [`reprose.pp.ua`](https://reprose.pp.ua/), github: [`jmas/reprose`](https://github.com/jmas/reprose)), - Reprose is a Markdown editor for GitHub. It uses Github API for list markdown files in yours respository. You can open document in editor and seamlessly save changes to repo.
 
 **type.**
- (web: [`type.baby`](https://type.baby), github: [`qurle/type`](https://github.com/qurle/type)), - Local-first zen editor. Supports imports/exports, publishing to web and offline work.
+(web: [`type.baby`](https://type.baby), github: [`qurle/type`](https://github.com/qurle/type)), - Local-first zen editor. Supports imports/exports, publishing to web and offline work.
 
-**Markwhen** 
- (web: [`markwhen.com`](https://meridiem.markwhen.com), github: [`mark-when/markwhen`](https://github.com/mark-when/markwhen)), - An interactive text-to-timeline tool that converts markdown-style text into cascading timelines. Features multiple visualization options including timeline, calendar, and resume views.
+**Markwhen**
+(web: [`markwhen.com`](https://meridiem.markwhen.com), github: [`mark-when/markwhen`](https://github.com/mark-when/markwhen)), - An interactive text-to-timeline tool that converts markdown-style text into cascading timelines. Features multiple visualization options including timeline, calendar, and resume views.
 
 **TypeMD**
- (web: [`typemd.kevinbarrionuevo.ch`](https://typemd.kevinbarrionuevo.ch/)), - Online Markdown editor with WYSIWYG and source modes. Supports tables, images, and syntax-highlighted code blocks. Local-first storage with export feature.
+(web: [`typemd.kevinbarrionuevo.ch`](https://typemd.kevinbarrionuevo.ch/)), - Online Markdown editor with WYSIWYG and source modes. Supports tables, images, and syntax-highlighted code blocks. Local-first storage with export feature.
 
 **Slate**
- (web: [`slate.ink`](https://slate.ink/)), - A a local-first WYSIWYG markdown editor you can use right in your browser with export and publish features!
+(web: [`slate.ink`](https://slate.ink/)), - A a local-first WYSIWYG markdown editor you can use right in your browser with export and publish features!
 
- **321Markdown**
- (web: [`321markdown.com`](https://321markdown.com/)), - Powerfull online markdown editor with various features and PDF exports.
- 
+**321Markdown**
+(web: [`321markdown.com`](https://321markdown.com/)), - Powerfull online markdown editor with various features and PDF exports.
+
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
@@ -134,11 +129,14 @@ A free, open-source, cross-platform desktop Markdown editor that can produce bea
 
 KeenWrite simplifies using variables in documents. Variables are useful for character sheets, consistent palette in technical diagrams, and computations when coupled with R.
 
-See the [tutorials]([https://www.youtube.com/watch?v=u_dFd6UhdV8](https://www.youtube.com/playlist?list=PLB-WIt1cZYLm1MMx2FBG9KWzPIoWZMKu_)) for details.
+See the [tutorials](<[https://www.youtube.com/watch?v=u_dFd6UhdV8](https://www.youtube.com/playlist?list=PLB-WIt1cZYLm1MMx2FBG9KWzPIoWZMKu_)>) for details.
+
+[**Splitmark**](https://splitmark.app/) (FREE, open source, Paid Syncing Option)
+A free, open-source CLI-based Markdown editor with a focus on speed and efficiency. It features a file explorer, live preview, keybindings, and a distraction-free mode. Splitmark is designed for users who prefer keyboard navigation and minimalistic interfaces. It offers a paid option for end-to-end encrypted cloud syncing across devices with access to a web editor.
 
 [**Obsidian.md**](https://obsidian.md/) (FREE, Paid Syncing Options)
 
-Obsidian.md is a powerful and versatile note-taking app that utilizes Markdown to create and link notes seamlessly, forming a personal knowledge base. It allows users to visualize their notes as a graph, making it easy to see connections and relationships between ideas. With its extensive plugin system, Obsidian can be customized to fit various workflows, from academic research to personal journaling. 
+Obsidian.md is a powerful and versatile note-taking app that utilizes Markdown to create and link notes seamlessly, forming a personal knowledge base. It allows users to visualize their notes as a graph, making it easy to see connections and relationships between ideas. With its extensive plugin system, Obsidian can be customized to fit various workflows, from academic research to personal journaling.
 
 [Get more information here.](https://publish.obsidian.md/hub/00+-+Start+here)
 
@@ -184,7 +182,6 @@ Zettlr ships with a lot of features helpful in writing markdown. It is especiall
 
 [The code resides on GitHub](https://github.com/Zettlr/Zettlr)
 
-
 [**GhostWriter**](https://github.com/wereturtle/ghostwriter) (FREE, open source)
 
 GhostWriter is a simple and light markdown editor. It use double screen: the left screen is the editor, and the right screen show the rendered file. Allows many different syntax: GitHub, Sundown, pandoc, common mark, multimarkdown, php markdown extra, and strict. The right screen will shows the file rendered using the selected syntax.
@@ -209,12 +206,11 @@ Markdown Tools is a free, open source set of applications for editing, preview a
 Markdown documents. It supports CommonMark 0.31.2 with GitHub extensions, it can load all linked
 Markdown files into preview and convert them into one PDF.
 
-
 ### Linux
 
 **Retext**
 (github wiki: [`retext-project/retext`](https://github.com/retext-project/retext/wiki),
- github: [`retext-project/retext`](https://github.com/retext-project/retext)) -
+github: [`retext-project/retext`](https://github.com/retext-project/retext)) -
 ReText is a simple but powerful editor for markdown and reStructuredText markup languages.
 ReText is written in Python language and works on Linux and other POSIX-compatible platforms.
 
@@ -228,7 +224,7 @@ MindForger is free Markdown IDE and thinking notebook for Linux and macOS. Actua
 
 **Apostrophe**
 (web: [`uberwriter.wolfvollprecht.de`](https://gitlab.gnome.org/somas/apostrophe),
- flathub: [`apostrophe`](https://flathub.org/apps/details/org.gnome.gitlab.somas.Apostrophe)) -
+flathub: [`apostrophe`](https://flathub.org/apps/details/org.gnome.gitlab.somas.Apostrophe)) -
 Apostrophe (formerly UberWriter), beautiful distraction free writing. With Apostrophe you get only one thing: An empty textbox, that is to fill with your ideas. There are no settings, you don't have to choose a font, it is only for writing. You can use markdown for all your markup needs. PDF, RTF and HTML are generated via pandoc.
 
 **MarkMyWords**
@@ -239,13 +235,10 @@ a minimal markdown editor
 (github: [`TadavomnisT/MDEditor`](https://github.com/TadavomnisT/MDEditor)) -
 MDEditor is a free and open-source Markdown editor that supports previewing and exporting to HTML, PDF, MediaWiki, and more. It also provides programming APIs and can be used as a web application or a cross-platform desktop app.
 
-
 More / Articles
 
 - [12 Best Markdown Editors for Linux](http://bettertechtips.com/linux/markdown-editor-linux), Better Tech Tips, July 2017
   -- incl. Remarkable, Mark My Words, ReText, Ghostwriter, Abricotine, Typora ($$, Free in beta), Haroopad ($$, Donationware), Caret ($25), GitBook Editor, LightMd Editor, EME (Elegant Markdown Editor), PileMd
-
-
 
 ### Microsoft Windows
 
@@ -269,11 +262,11 @@ You can export Markdown to HTML by saving to disk or by copying Markdown selecti
 
 More / Articles
 
-- [The Best Markdown Editor for Windows](https://sitepoint.com/best-markdown-editors-windows) by Zack Wallace, SitePoint,  July 2017 -- incl. Texts ($19), WriteMonkey, Haroopad ($$, Donationware), MarkPad, MarkdownPad 2, Typora ($$, Free in beta), Caret ($25)
+- [The Best Markdown Editor for Windows](https://sitepoint.com/best-markdown-editors-windows) by Zack Wallace, SitePoint, July 2017 -- incl. Texts ($19), WriteMonkey, Haroopad ($$, Donationware), MarkPad, MarkdownPad 2, Typora ($$, Free in beta), Caret ($25)
 
 [**Markdown Shell Extensions**](https://github.com/EtheaDev/MarkdownShellExtensions) (FREE - Open Source) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 
-*A collection of tools for markdown files, to edit and view content:*
+_A collection of tools for markdown files, to edit and view content:_
 
 - A **Markdown Text Editor** to manually edit a markdown file, with instant preview of the output in a HTML Viewer.
 
@@ -287,7 +280,7 @@ More / Articles
 
 [**Markdown Help Viewer**](https://github.com/EtheaDev/MarkdownHelpViewer) (FREE - Open Source) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 
-*An integrated help system based on files in Markdown format (and also html), for Delphi and Windows applications*
+_An integrated help system based on files in Markdown format (and also html), for Delphi and Windows applications_
 
 - A unit (MarkdownHelpViewer.pas) to add the interface to Delphi Help System of your Delphi Application (from XE6 version to latest)
 
@@ -316,6 +309,7 @@ Pro writing app designed for local Markdown files. Nota is a beautiful and easy 
 mxMarkEdit is a free software for Mac for writing texts and todo items in Markdown format and easily exporting them to other formats with Pandoc, provided that it’s installed in the system in use. In each document, it’s available an Excel-like grid useful to manage various sets of data, and also a file manager to search for a sentence in all the documents or spreadsheets contained in a folder. mxMarkEdit has been deeply influenced by Org-mode. Although it has far less functionalities and customisations than the latter, it’s a standard Mac app which benefits of the Apple spell checking and standard shortcuts.
 
 ## Markdown Mobile Editors
+
 ### Android
 
 **Markor**
@@ -324,6 +318,7 @@ github: [`gsantner/markor`](https://github.com/gsantner/markor)) -
 Markor is an open source text editor for Android. This project aims to make an editor that is versatile, flexible, and lightweight. Markor utilizes simple markup formats like Markdown and todo.txt for note-taking and list management.
 
 ### iOS
+
 **ArveleaWriter**
 (web: [`arvelea.com/writer`](https://arvelea.com/writer), GitHub: [`arveleaofficial/ArveleaWriter`](https://github.com/arveleaofficial/ArveleaWriter)) -
 Open source text & WYSIWYG markdown editor for iOS & iPadOS. Open & edit files accessible from iOS's Files app.
@@ -334,10 +329,7 @@ Open source text & WYSIWYG markdown editor for iOS & iPadOS. Open & edit files a
 
 More / Articles
 
-- [How Writers & Bloggers Can Make the Most of Markdown in WordPress](https://sitepoint.com/writers-bloggers-can-make-markdown-wordpress) by Adrian Try, SitePoint, July 2017 -- Jetpack (free plugin), WP-Markdown (free), PrettyPress (free, pro version w/ shortcode previews for $10),  Markdown for WordPress and bbPress (free), Markdown QuickTags (free), Typewriter (free)
-
-
-
+- [How Writers & Bloggers Can Make the Most of Markdown in WordPress](https://sitepoint.com/writers-bloggers-can-make-markdown-wordpress) by Adrian Try, SitePoint, July 2017 -- Jetpack (free plugin), WP-Markdown (free), PrettyPress (free, pro version w/ shortcode previews for $10), Markdown for WordPress and bbPress (free), Markdown QuickTags (free), Typewriter (free)
 
 ## Meta
 
