@@ -132,6 +132,7 @@ KeenWrite simplifies using variables in documents. Variables are useful for char
 See the [tutorials](<[https://www.youtube.com/watch?v=u_dFd6UhdV8](https://www.youtube.com/playlist?list=PLB-WIt1cZYLm1MMx2FBG9KWzPIoWZMKu_)>) for details.
 
 [**Splitmark**](https://splitmark.app/) (FREE, open source, Paid Syncing Option)
+
 A free, open-source CLI-based Markdown editor with a focus on speed and efficiency. It features a file explorer, live preview, keybindings, and a distraction-free mode. Splitmark is designed for users who prefer keyboard navigation and minimalistic interfaces. It offers a paid option for end-to-end encrypted cloud syncing across devices with access to a web editor.
 
 [**Obsidian.md**](https://obsidian.md/) (FREE, Paid Syncing Options)
