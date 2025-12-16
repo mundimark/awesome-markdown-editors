@@ -21,8 +21,8 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 ## Markdown Online Editors
 
 **Markon**
-(web: [`metaory.github.io/markon`](https://metaory.github.io/markon),
-github: [`metaory/markon`](https://github.com/metaory/markon)) - Minimal distraction-free local markdown editor
+(web: [`getmarkon.com`](https://getmarkon.com),
+github: [`getmarkon/markon`](https://github.com/getmarkon/markon)) - Minimal distraction-free live Markdown editor
 
 **Mark**
 (web: [`mark.barelyhuman.dev`](https://mark.barelyhuman.dev),
