@@ -266,7 +266,7 @@ More / Articles
 
 [**Markpad**](https://markpad.sftwr.dev/) (FREE, open source) - [`alecdotdev/Markpad`](https://github.com/alecdotdev/Markpad)
 
-A lightweight, performance-focused Markdown viewer and editor built with Tauri. It uses the Monaco editor engine to provide a native-feeling desktop experience with full support for GitHub formatting and LaTeX math. It's a fast and minimal application designed to be your default viewer for all `.md` files.
+A Markdown equivalent to Notepad. A lightweight, performance-focused Markdown viewer and editor built with Tauri. It uses the Monaco editor engine to provide a native-feeling desktop experience with full support for GitHub formatting and LaTeX math. It's a fast and minimal application designed to be your default viewer for all `.md` files.
 
 **WriteMonkey**
 (web: [`writemonkey.com`](http://writemonkey.com)) -
