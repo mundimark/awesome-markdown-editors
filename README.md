@@ -99,7 +99,10 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 
  **321Markdown**
  (web: [`321markdown.com`](https://321markdown.com/)), - Powerfull online markdown editor with various features and PDF exports.
- 
+
+  **MD2PDF.cc**
+ (web: [`md2pdf.cc`](https://md2pdf.cc/)), - A privacy-first, client-side Markdown to PDF converter with KaTeX & Mermaid support.
+
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
