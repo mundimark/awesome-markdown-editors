@@ -225,6 +225,10 @@ Znote is a free, elegant program meant to help you write beautifully organized M
 
 Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes can be securely synchronised using end-to-end encryption with various cloud services including Nextcloud, Dropbox, OneDrive and it's own Joplin Cloud. The app is available on Windows, macOS, Linux, Android and iOS.
 
+[**Octarine**](https://octarine.app) (FREE, Paid one-time license)
+
+Octarine is a lightweight, privacy-focused markdown note-taking app built for speed and simplicity. At under 30MB, it offers a clean WYSIWYG editor and stores notes locally as plain markdown files, keeping your data entirely in your control. It features properties, views for displaying notes as tables, and optional AI integrations with multiple providers. Built with Tauri for fast, native performance on Mac, Windows, and Linux.
+
 [**Markdown Tools**](https://github.com/igormironchik/markdown-tools) (FREE, open source)
 
 Markdown Tools is a free, open source set of applications for editing, preview and converting to PDF
