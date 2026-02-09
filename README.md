@@ -229,6 +229,12 @@ Joplin is a free, open source note taking and to-do application, which can handl
 
 Octarine is a lightweight, privacy-focused markdown note-taking app built for speed and simplicity. At under 30MB, it offers a clean WYSIWYG editor and stores notes locally as plain markdown files, keeping your data entirely in your control. It features properties, views for displaying notes as tables, and optional AI integrations with multiple providers. Built with Tauri for fast, native performance on Mac, Windows, and Linux.
 
+[**Stik**](https://stik.ink) (FREE, open source)
+
+Stik is an instant thought capture app for macOS. Press a global hotkey and a post-it note appears — type your thought, close it, done. Notes are stored as plain markdown files in `~/Documents/Stik/`, organized into folders. Built with Tauri 2.0 (Rust + React) for native performance. Features include semantic search via on-device NLP, markdown editing with live preview, and image support.
+
+[The code resides on GitHub](https://github.com/0xMassi/stik_app)
+
 [**Markdown Tools**](https://github.com/igormironchik/markdown-tools) (FREE, open source)
 
 Markdown Tools is a free, open source set of applications for editing, preview and converting to PDF
