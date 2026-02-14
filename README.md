@@ -149,6 +149,10 @@ See the [tutorials]([https://www.youtube.com/watch?v=u_dFd6UhdV8](https://www.yo
 
 A Markdown equivalent to Notepad. A lightweight, performance-focused Markdown viewer and general text editor built with Tauri. It uses the Monaco editor engine to provide a native-feeling desktop experience with full support for GitHub formatting and LaTeX math. It's a fast and minimal application designed to be your default viewer for all `.md` files. Features real-time split view, syntax highlighting, Mermaid diagrams, command palette shortcuts and more. Available on macOS, Linux, and Windows.
 
+[**Nimbalyst**](https://nimbalyst.com) (FREE)
+
+Nimbalyst is an AI-native workspace built on top of Claude Code that supports Markdown editing alongside code, diagrams, mockups, spreadsheets, and more. It features a Lexical-based rich text editor with live preview, AI chat with multi-provider support (Claude Code, Codex, local models). WYSIWYG Markdown editor. See AI's changes as red/green diffs, review and approve. Integrated mermaid editing. 
+
 [**Splitmark**](https://splitmark.app/) (FREE, open source, Paid Syncing Option)
 
 A free, open-source CLI-based Markdown editor with a focus on speed and efficiency. It features a file explorer, live preview, keybindings, and a distraction-free mode. Splitmark is designed for users who prefer keyboard navigation and minimalistic interfaces. It offers a paid option for end-to-end encrypted cloud syncing across devices with access to a web editor.
