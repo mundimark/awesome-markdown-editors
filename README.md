@@ -20,6 +20,10 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 
 ## Markdown Online Editors
 
+**Markvim**
+(web: [`markvim.xyz`](https://markvim.xyz),
+ github: [`SantiagoBobrik/markvim`](https://github.com/SantiagoBobrik/markvim)) - A minimalist Markdown editor with built-in Vim keybindings, live preview, and shareable links.
+
 **Markon**
 (web: [`getmarkon.com`](https://getmarkon.com),
 github: [`getmarkon/markon`](https://github.com/getmarkon/markon)) - Minimal distraction-free live Markdown editor
