@@ -111,6 +111,22 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 
 Editors designed to be used by developers for use in websites and web apps.
 
+**Markdown Text Editor (Open Source)**: (web: [Markdown Editor](https://frutjam.com/plugins/markdown-editor) github: [nezanuha/markdown-text-editor](https://github.com/nezanuha/markdown-text-editor)) - A native `<textarea>` turns into an advanced Markdown editor while still functioning like a standard textarea, allowing developers to submit its content through a normal form, retrieve the Markdown value using JavaScript via `id`, `name`, or any selector, and set the value directly on the same textarea—automatically updating and synchronizing the content inside the editor. 
+
+**Features**:
+
+- Fully responsive
+- Easy UI Customization
+- Hybrid and Plain Markdown Editing mode support
+- RTL Support, Lightweight
+- Heavy Content Support
+- Smart list continuation
+- Live Preview Mode
+- Automatic Light and Dark Mode Support
+- User-Friendly
+- Effortless Frutjam UI Integration
+- Actively Maintenaning
+
 **Wysimark** (web: [`wysimark.com`](https://wysimark.com/), github: [`portive/wysimark`](https://github.com/portive/wysimark)) - The WYSIWYG editor for Markdown with integrations for React, Vue and Plain JavaScript. Supports CommonMark and GFM specs. Features tables, check lists, images, emojis and attachments. Comes with a modern interface and design. Features cloud based image uploads, attachments, and image resizing. MIT licensed.
 
 **Docs to Markdown Pro** (web: [Docs to Markdown Pro](https://www.docstomarkdown.pro), Google Workspace Marketplace Extension: [Docs to Markdown Pro Extension](https://workspace.google.com/marketplace/app/docs_to_markdown_pro/483386994804) Starts from 29$ per year) - This Google Docs editor add-on converts your Google Docs to Markdown format, including images. It integrates with GitHub and GitLab, allowing you to write collaboratively in Google Docs and commit your work directly as Markdown (including images) to your repositories, streamlining your workflow.
