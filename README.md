@@ -107,6 +107,10 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
   **MD2PDF.cc**
  (web: [`md2pdf.cc`](https://md2pdf.cc/)), - A privacy-first, client-side Markdown to PDF converter with KaTeX & Mermaid support.
 
+**Taskade**
+(web: [`taskade.com`](https://taskade.com),
+ github: [`taskade/taskade`](https://github.com/taskade/taskade)) - Collaborative workspace with a built-in Markdown editor, real-time collaboration, AI writing assistance, and structured task management. Supports multiple views including lists, boards, and mind maps.
+
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
