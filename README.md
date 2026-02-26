@@ -265,6 +265,12 @@ Markdown Tools is a free, open source set of applications for editing, preview a
 Markdown documents. It supports CommonMark 0.31.2 with GitHub extensions, it can load all linked
 Markdown files into preview and convert them into one PDF.
 
+[**Scratch**](https://www.ericli.io/scratch) (FREE, open source)
+
+Scratch is a lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support. Notes are stored as plain .md files — no cloud, no account required. Integrates with local CLI tools like Claude Code and Codex for AI-powered editing. Features include a command palette, keyboard-first navigation, git integration, and customizable themes. Built with Tauri for native performance on Mac, Windows, and Linux.
+
+[The code resides on GitHub](https://github.com/erictli/scratch)
+
 
 ### Linux
 
