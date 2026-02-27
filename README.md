@@ -161,6 +161,12 @@ Ferrite is a fast, lightweight Markdown editor built with Rust and egui for a na
 
 A free, open source, cross-platform Markdown editor based on Milkdown. It can also be used to export to HTML and PDF documents.
 
+[**Kindling**](https://kindlingwriter.com) (FREE, open source)
+
+Kindling is a novel writing app that bridges outlining and drafting. Your outline's scene beats become expandable prompts inside a focused drafting space. Built with Rust and Tauri for Windows, macOS, and Linux. All data stays local on your machine.
+
+[The code resides on GitHub](https://github.com/smith-and-web/kindling)
+
 [**KeenWrite**](https://gitlab.com/DaveJarvis/keenwrite) (FREE, open source)
 
 A free, open-source, cross-platform desktop Markdown editor that can produce beautifully typeset PDFs. The editor has live preview, variables, TeX-based math, diagrams, spell check, dark modes, themes, document statistics, R integration, internationalization support, dockable tabs, and more.
