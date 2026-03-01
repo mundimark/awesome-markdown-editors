@@ -161,6 +161,12 @@ Ferrite is a fast, lightweight Markdown editor built with Rust and egui for a na
 
 A free, open source, cross-platform Markdown editor based on Milkdown. It can also be used to export to HTML and PDF documents.
 
+[**Inkwell**](https://github.com/4worlds4w-svg/inkwell) (FREE, open source)
+
+Inkwell is a portable, offline-first Markdown editor built with Rust and Tauri v2. A single executable (~3MB) with zero telemetry — no cloud, no account, data stays local. Features live preview, syntax highlighting, multiple themes, and cross-platform support (Windows, macOS, Linux).
+
+[The code resides on GitHub](https://github.com/4worlds4w-svg/inkwell)
+
 [**Kindling**](https://kindlingwriter.com) (FREE, open source)
 
 Kindling is a novel writing app that bridges outlining and drafting. Your outline's scene beats become expandable prompts inside a focused drafting space. Built with Rust and Tauri for Windows, macOS, and Linux. All data stays local on your machine.
