@@ -374,7 +374,7 @@ More / Articles
 ### Apple Mac OS X
 
 **LitSquare Ink MD**
-[Ink MD (LitSquare Ink MD)](https://github.com/thierryc/Ink-MD) - Native macOS Markdown editor (SwiftUI/AppKit, TextKit 2) with styled editing, workspace browsing, live preview (markdown-it + highlight.js + KaTeX), rich-text copy/export, themes, and an optional “Show Invisibles” overlay.
+[Ink MD (LitSquare Ink MD)](https://ink.litsquare.com) - Native macOS Markdown editor (SwiftUI/AppKit, TextKit 2) with styled editing, workspace browsing, live preview (markdown-it + highlight.js + KaTeX), rich-text copy/export, themes, and an optional “Show Invisibles” overlay.
 
 
 **MacDown**
