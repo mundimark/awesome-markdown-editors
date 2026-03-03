@@ -381,6 +381,10 @@ More / Articles
 (web: [`macdown.uranusjr.com`](http://macdown.uranusjr.com)) -
 open source Markdown editor inspired by Mou, with live preview of extended markdown syntaxes
 
+[**mdnb**](https://mdnb.app) (FREE)
+
+mdnb is a free, native macOS app built in Swift (not Electron or Tauri). Files are stored as plain .mdfiles & support wikilinks, tags, task lists & mermaid diagrams. Full text search & a command palette make it easier than ever to find your notes. Over 20 built in themes make your notes look better than ever. Use Claude Code or Codex CLI in the built in Ghostty terminal. Sync your notes with git, iCloud or Google Drive.
+
 More / Articles
 
 - [The Best Markdown Editors for Mac](https://sitepoint.com/the-best-markdown-editors-for-mac) by Adrian Try, SitePoint, July 2017 -- incl. Ulysses ($44.99), Quiver ($9.99), LightPaper ($16.49), MWeb ($14.99), Texts ($19), Byword ($11.99), IA Writer ($9.99), Typora ($$, Free in beta), Caret ($25), Focused ($29.99), Bear (Free, Bear Pro subscription $1.49/month), Mou ($$, Free in beta),  MacDown (FREE, open source), Haroopad ($$, Donationware)
