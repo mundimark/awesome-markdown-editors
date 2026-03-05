@@ -47,6 +47,10 @@ Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI a
 (web: [`stackedit.io`](https://stackedit.io),
  github: [`benweet/stackedit`](https://github.com/benweet/stackedit))
 
+**Markups**
+(web: [`markups.vercel.app`](https://markups.vercel.app),
+ github: [`Nir-Bhay/markups`](https://github.com/Nir-Bhay/markups)) - A modern, high-performance web-based Markdown editor with Monaco Editor integration, real-time preview, and multiple professional themes.
+
 **Dillinger.io**
 (web: [`dillinger.io`](http://dillinger.io/),
  github: [`joemccann/dillinger`](https://github.com/joemccann/dillinger))
