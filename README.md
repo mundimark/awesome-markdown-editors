@@ -115,6 +115,9 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 (web: [`taskade.com`](https://taskade.com),
  github: [`taskade/taskade`](https://github.com/taskade/taskade)) - Collaborative workspace with a built-in Markdown editor, real-time collaboration, AI writing assistance, and structured task management. Supports multiple views including lists, boards, and mind maps.
 
+**BeginThings**
+(web: [`beginthings.com`](https://beginthings.com/)) - Online Markdown editor with live preview — plus 90+ free browser-based developer tools including JSON formatter, regex tester, base64 encoder, image compressor, and more. No login required.
+
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
