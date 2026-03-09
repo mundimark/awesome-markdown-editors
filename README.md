@@ -155,6 +155,11 @@ Deepdwn is an offline-only, feature-rich markdown editor for Windows, Mac and Li
 
 Supports image drag and drop, charts and diagrams, sheet music and tabs, table auto-formatting, tags and categories, and more.
 
+
+[**AnySlate**](https://anyslate.io) (FREE, with paid plans)
+
+AnySlate is a modern, cross-platform Markdown editor built with Go and React for macOS, Windows, Linux, and the web. Features real-time collaboration, AI-powered writing assistance with MCP (Model Context Protocol) support, inline linking, native file embedding, and cloud sync. No proprietary formats - just structured Markdown.
+
 [**Ferrite**](https://getferrite.dev) (FREE, open source @ github [`OlaProeis/Ferrite`](https://github.com/OlaProeis/Ferrite))
 
 Ferrite is a fast, lightweight Markdown editor built with Rust and egui for a native, responsive experience on Windows, Linux, and macOS. Features include WYSIWYG editing with live preview, native MermaidJS diagram rendering (11 diagram types), split view with dual editable panes, multi-format support (Markdown, JSON, CSV, YAML, TOML), Git integration with visual status indicators, semantic minimap, syntax highlighting for 100+ languages, 25+ color themes, multi-encoding file support, workspace mode with file tree and search, and Zen mode for distraction-free writing.
