@@ -375,6 +375,12 @@ More / Articles
 
 - An easy pre-built Setup is provided.
 
+
+**MDLook**
+(web: [`mdlook.com`](https://mdlook.com),
+ github: [`r1qdj0/MDLook`](https://github.com/r1qdj0/MDLook)) -
+Portable, fully offline Markdown editor for Windows. No install, no internet, no Electron — uses WebView2 at just 42 MB total. Features split-pane editing with live preview, dark mode, KaTeX math, Mermaid diagrams, syntax highlighting, and export to HTML. MIT licensed.
+
 ### Apple Mac OS X
 
 **LitSquare Ink MD**
