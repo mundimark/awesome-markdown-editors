@@ -135,7 +135,7 @@ Editors designed to be used by developers for use in websites and web apps.
 - Effortless Frutjam UI Integration
 - Actively Maintenaning
 
-**Wysimark** (web: [`wysimark.com`](https://wysimark.com/), github: [`portive/wysimark`](https://github.com/portive/wysimark)) - The WYSIWYG editor for Markdown with integrations for React, Vue and Plain JavaScript. Supports CommonMark and GFM specs. Features tables, check lists, images, emojis and attachments. Comes with a modern interface and design. Features cloud based image uploads, attachments, and image resizing. MIT licensed.
+**Wysimark** (web: [`wysimark.com`](https://wysimark.com/), github: [`portive/wysimark`](https://github.com/portive/wysimark)) - The WYSIWYG editor for Markdown with integrations for React, Vue and Plain JavaScript. Supports CommonMark and GFM specs. Features tables, check lists, images, emojis and attachments. Comes with a modern interface and design. Features cloud based image uploads, attachments, and image resizing. 
 
 **Docs to Markdown Pro** (web: [Docs to Markdown Pro](https://www.docstomarkdown.pro), Google Workspace Marketplace Extension: [Docs to Markdown Pro Extension](https://workspace.google.com/marketplace/app/docs_to_markdown_pro/483386994804) Starts from 29$ per year) - This Google Docs editor add-on converts your Google Docs to Markdown format, including images. It integrates with GitHub and GitLab, allowing you to write collaboratively in Google Docs and commit your work directly as Markdown (including images) to your repositories, streamlining your workflow.
 
@@ -378,8 +378,8 @@ More / Articles
 
 **MDLook**
 (web: [`mdlook.com`](https://mdlook.com),
- github: [`r1qdj0/MDLook`](https://github.com/r1qdj0/MDLook)) -
-Portable, fully offline Markdown editor for Windows. No install, no internet, no Electron — uses WebView2 at just 42 MB total. Features split-pane editing with live preview, dark mode, KaTeX math, Mermaid diagrams, syntax highlighting, and export to HTML. MIT licensed.
+ github: [`djosci/MDLook`](https://github.com/djosci/MDLook)) -
+Portable, fully offline Markdown editor for Windows. No install, no internet, no Electron — uses WebView2 at just 42 MB total. Features split-pane editing with live preview, dark mode, KaTeX math, Mermaid diagrams, syntax highlighting, and export to HTML.
 
 ### Apple Mac OS X
 
