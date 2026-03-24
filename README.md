@@ -411,6 +411,10 @@ mxMarkEdit is a free software for Mac for writing texts and todo items in Markdo
 
 Free, open-source macOS editor with three-way merge for concurrent editing, auto-save, focus mode, git gutter markers, and PDF/HTML export. Built for workflows where multiple authors (including AI agents) edit the same files.
 
+[**Promptzy**](https://promptzy.app) (FREE)
+
+Free native macOS AI prompt & skills manager and lightweight Markdown editor. Organize prompts and .md files with collections, tags, and a distraction-free editor. Global shortcut for instant search and paste.
+
 ## Markdown Mobile Editors
 ### Android
 
