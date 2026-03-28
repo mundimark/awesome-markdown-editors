@@ -395,10 +395,13 @@ More / Articles
 
 - [The Best Markdown Editors for Mac](https://sitepoint.com/the-best-markdown-editors-for-mac) by Adrian Try, SitePoint, July 2017 -- incl. Ulysses ($44.99), Quiver ($9.99), LightPaper ($16.49), MWeb ($14.99), Texts ($19), Byword ($11.99), IA Writer ($9.99), Typora ($$, Free in beta), Caret ($25), Focused ($29.99), Bear (Free, Bear Pro subscription $1.49/month), Mou ($$, Free in beta),  MacDown (FREE, open source), Haroopad ($$, Donationware)
 
+<!--
+   note: github repo has no source only readme txt
 **MacMD Viewer**
 (web: [`macmdviewer.com`](https://macmdviewer.com),
  github: [`macmdviewer/MacMDViewer`](https://github.com/macmdviewer/MacMDViewer)) -
 Native macOS Markdown viewer (SwiftUI + WKWebView) with GitHub Flavored Markdown, Mermaid diagram rendering, syntax highlighting for 190+ languages, and a QuickLook extension for Finder preview.
+-->
 
 [**mdnb**](https://mdnb.app) (FREE)
 
