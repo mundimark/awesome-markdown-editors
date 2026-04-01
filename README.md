@@ -384,7 +384,7 @@ Portable, fully offline Markdown editor for Windows. No install, no internet, no
 ### Apple Mac OS X
 
 **LitSquare Ink MD**
-[Ink MD (LitSquare Ink MD)](https://ink.litsquare.com) - Native macOS Markdown editor (SwiftUI/AppKit, TextKit 2) with styled editing, workspace browsing, live preview (markdown-it + highlight.js + KaTeX), rich-text copy/export, themes, and an optional “Show Invisibles” overlay.
+[Ink MD (LitSquare Ink MD)](https://ink.litsquare.com) - Native macOS Markdown editor (SwiftUI/AppKit, TextKit 2) with styled editing, workspace browsing, live preview (markdown-it + highlight.js + KaTeX), rich-text copy/export, themes, and an optional "Show Invisibles" overlay.
 
 
 **MacDown**
@@ -407,13 +407,17 @@ Native macOS Markdown viewer (SwiftUI + WKWebView) with GitHub Flavored Markdown
 
 mdnb is a free, native macOS app built in Swift (not Electron or Tauri). Files are stored as plain .mdfiles & support wikilinks, tags, task lists & mermaid diagrams. Full text search & a command palette make it easier than ever to find your notes. Over 20 built in themes make your notes look better than ever. Use Claude Code or Codex CLI in the built in Ghostty terminal. Sync your notes with git, iCloud or Google Drive.
 
+**[MarkdownObserver](https://lars-pohlmann.de/markdownobserver/)** (open source @ github [`larspohlmann/markdownobserver`](https://github.com/larspohlmann/markdownobserver))
+
+Native macOS Markdown reader focused on fast preview and workspace workflows. Features file and folder watching with live change tracking, collapsible sidebar with subfolder grouping, and saveable folder favorites. Also available on the [App Store](https://apps.apple.com/app/id6760550501).
+
 [**Nota**](https://nota.md) ($29 for continued use)
 
 Pro writing app designed for local Markdown files. Nota is a beautiful and easy to use writing app that's also powerful and efficient. Its simple design enables a wide range of uses: from notes and wikis, to static blogs and websites, to articles and books. It works with local Markdown files to keep your data completely in your control.
 
 [**mxMarkEdit**](https://github.com/maxnd/mxMarkEdit)
 
-mxMarkEdit is a free software for Mac for writing texts and todo items in Markdown format and easily exporting them to other formats with Pandoc, provided that it’s installed in the system in use. In each document, it’s available an Excel-like grid useful to manage various sets of data, and also a file manager to search for a sentence in all the documents or spreadsheets contained in a folder. mxMarkEdit has been deeply influenced by Org-mode. Although it has far less functionalities and customisations than the latter, it’s a standard Mac app which benefits of the Apple spell checking and standard shortcuts.
+mxMarkEdit is a free software for Mac for writing texts and todo items in Markdown format and easily exporting them to other formats with Pandoc, provided that it's installed in the system in use. In each document, it's available an Excel-like grid useful to manage various sets of data, and also a file manager to search for a sentence in all the documents or spreadsheets contained in a folder. mxMarkEdit has been deeply influenced by Org-mode. Although it has far less functionalities and customisations than the latter, it's a standard Mac app which benefits of the Apple spell checking and standard shortcuts.
 
 **[SideMark](https://mipyip.com/products/sidemark)** (github: [`avanrossum/sidemark`](https://github.com/avanrossum/sidemark)) (Free, open source)
 
