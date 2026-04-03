@@ -443,6 +443,7 @@ Open source text & WYSIWYG markdown editor for iOS & iPadOS. Open & edit files a
 More / Articles
 
 - [How Writers & Bloggers Can Make the Most of Markdown in WordPress](https://sitepoint.com/writers-bloggers-can-make-markdown-wordpress) by Adrian Try, SitePoint, July 2017 -- Jetpack (free plugin), WP-Markdown (free), PrettyPress (free, pro version w/ shortcode previews for $10),  Markdown for WordPress and bbPress (free), Markdown QuickTags (free), Typewriter (free)
+- [TaleForge](https://www.tale-forge.com/) - Web-based writing platform with rich text editor (Tiptap), chapter management, and export to Markdown/EPUB/DOCX.
 
 
 
