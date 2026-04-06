@@ -11,6 +11,7 @@ A collection of awesome markdown editors and (pre)viewers
 for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts with markdown-based agent definitions (AGENT.md), multi-agent orchestration, and automated documentation. MIT licensed.
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
