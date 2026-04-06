@@ -9,6 +9,9 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 ## Markdown Online Editors
 
+**PDF2MD.pro**
+(web: [`pdf2md.pro`](https://pdf2md.pro/)), - Free online PDF to Markdown converter with browser-based processing for full privacy. Supports batch conversion, smart formatting detection, and live preview.
+
 
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
