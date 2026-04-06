@@ -84,6 +84,9 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 **PDF2MD.net**
 (web: [`pdf2md.net`](https://pdf2md.net/)), - Converts PDFs to Markdown with batch processing support, handling images and tables so larger document sets can be migrated in one pass.
 
+**PDF2MD.pro**
+(web: [`pdf2md.pro`](https://pdf2md.pro/)), - Free online PDF to Markdown converter with browser-based processing for full privacy. Supports batch conversion, smart formatting detection, and live preview.
+
 **MdToPdf.pro**
 (web: [`mdtopdf.pro`](https://www.mdtopdf.pro/)), - Exports Markdown to PDF using multiple themes, including GitHub-style and minimalist layouts, with options for typography and code block styling.
 
