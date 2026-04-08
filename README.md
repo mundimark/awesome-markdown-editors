@@ -42,6 +42,10 @@ github: [`barelyhuman/mark`](https://github.com/barelyhuman/mark)) - Simple Web 
 (web: [`holocron.so`](https://holocron.so/markdown-editor)),
 Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI agents integration, accept suggestions from guests (automatically opens GitHub PR).
 
+**Comment.io**
+(web: [`comment.io`](https://comment.io),
+ github: [`comment-io/comment.io`](https://github.com/comment-io/comment.io)) - Agent-native document editor. @mention an agent — it reads the doc and responds via webhook, autonomously. Humans and agents reading, commenting, and editing markdown together, with per-edit authorship tracking.
+
 **Minimalist Online Markdown Editor**
 (web: [`markdown.pioul.fr`](http://markdown.pioul.fr),
  github: [`pioul/Minimalist-Online-Markdown-Editor`](https://github.com/pioul/Minimalist-Online-Markdown-Editor))
