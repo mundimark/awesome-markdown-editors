@@ -1,4 +1,4 @@
-Awesome Markdown Series @ Mundi Mark
+Awesome Markdown Series
 
 # Awesome Markdown Editors & (Pre)viewers
 
