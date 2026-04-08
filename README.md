@@ -1,9 +1,4 @@
-Awesome Series @ Write Kit
-
-[Markdown (Syntax & Extensions, Documentation & Cheat Sheets, Libraries, ...)](https://github.com/writekit/awesome-markdown) •
-[Markdown Editors & (Pre)viewers](https://github.com/writekit/awesome-markdown-editors)  •
-[Books (Services, Hand-Written, Auto-Built w/ Open Data, ...)](https://github.com/writekit/awesome-books)
-
+Awesome Markdown Series @ Mundi Mark
 
 # Awesome Markdown Editors & (Pre)viewers
 
@@ -13,9 +8,14 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-note - as a new policy starting in 2026 - all new listing entries first get added to the [upcoming / what's new in 2026?](UPCOMING.md) page. 
-please add your listing here [UPCOMING.md](UPCOMING.md). thank you for your understanding. 
-ps: please, do NOT forget to add a link to your code / source on github. 
+---
+
+NOTE - As a new policy starting in 2026 - please add all new listing entries first to the [Upcoming / What's New in 2026?](UPCOMING.md) page. 
+thank you for your understanding. 
+ps: bonus - please, do NOT forget to add a link to your code / source on github. 
+
+---
+
 
 
 _Zen Writing - leaving you alone with your thoughts and your words_
