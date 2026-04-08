@@ -403,10 +403,6 @@ More / Articles
 Native macOS Markdown viewer (SwiftUI + WKWebView) with GitHub Flavored Markdown, Mermaid diagram rendering, syntax highlighting for 190+ languages, and a QuickLook extension for Finder preview.
 -->
 
-**[Glance](https://www.technol.io/en/glance)** (open source @ github [`baladi39/glance`](https://github.com/baladi39/glance))
-
-Native macOS Markdown viewer built with Tauri 2 (Rust + TypeScript). View-only — no editing, no cloud, no accounts. Features syntax highlighting via Shiki (100+ languages), mermaid diagram rendering, auto-generated table of contents, GFM task lists, file watching with auto-reload and change highlighting, and drag-and-drop file opening. Privacy-first: remote images blocked by default, zero telemetry. ~8 MB, launches instantly.
-
 [**mdnb**](https://mdnb.app) (FREE)
 
 mdnb is a free, native macOS app built in Swift (not Electron or Tauri). Files are stored as plain .mdfiles & support wikilinks, tags, task lists & mermaid diagrams. Full text search & a command palette make it easier than ever to find your notes. Over 20 built in themes make your notes look better than ever. Use Claude Code or Codex CLI in the built in Ghostty terminal. Sync your notes with git, iCloud or Google Drive.
