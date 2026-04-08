@@ -13,6 +13,9 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
+note - as a new policy starting in 2026 - all new listing entries first get added to the [upcoming / what's new in 2026?](UPCOMING.md) page. 
+please add your listing here [UPCOMING.md](UPCOMING.md). thank you for your understanding. 
+ps: please, do NOT forget to add a link to your code / source on github. 
 
 
 _Zen Writing - leaving you alone with your thoughts and your words_
