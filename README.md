@@ -1,4 +1,4 @@
-Awesome Markdown Series
+Awesome Markdown Series -  For Markdown History, Basics, Libraries and Building Blocks, see [Awesome Markdown (& Beyond) »](https://github.com/mundimark/awesome-markdown) 
 
 # Awesome Markdown Editors & (Pre)viewers
 
