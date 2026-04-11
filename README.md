@@ -8,14 +8,11 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
----
-
 > [!NOTE]
 >  As a new policy starting in 2026 - please add all new listing entries first to the [Upcoming / What's New in 2026?](UPCOMING.md) page.
 >  thank you for your understanding. 
 >  ps: bonus - please, do NOT forget to add a link to your code / source on github. 
 
----
 
 
 
