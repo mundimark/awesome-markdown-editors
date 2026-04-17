@@ -392,6 +392,10 @@ Portable, fully offline Markdown editor for Windows. No install, no internet, no
 (web: [`macdown.uranusjr.com`](http://macdown.uranusjr.com)) -
 open source Markdown editor inspired by Mou, with live preview of extended markdown syntaxes
 
+**MacMD Viewer**
+(web: [`macmdviewer.com`](https://macmdviewer.com)) ($9.99) -
+Native macOS Markdown viewer built with SwiftUI. Features Mermaid diagram rendering, QuickLook extension for Finder preview, syntax highlighting for 190+ languages, live reload, and dark mode support. Read-only viewer at just 2MB.
+
 More / Articles
 
 - [The Best Markdown Editors for Mac](https://sitepoint.com/the-best-markdown-editors-for-mac) by Adrian Try, SitePoint, July 2017 -- incl. Ulysses ($44.99), Quiver ($9.99), LightPaper ($16.49), MWeb ($14.99), Texts ($19), Byword ($11.99), IA Writer ($9.99), Typora ($$, Free in beta), Caret ($25), Focused ($29.99), Bear (Free, Bear Pro subscription $1.49/month), Mou ($$, Free in beta),  MacDown (FREE, open source), Haroopad ($$, Donationware)
