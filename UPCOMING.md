@@ -34,6 +34,10 @@ Editors designed to be used by developers for use in websites and web apps.
 
 ### Apple Mac OS X
 
+**[Slate](https://www.slatemd.app)** (Download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases))
+
+Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
+
 **[Glance](https://www.technol.io/en/glance)** (open source @ github [`baladi39/glance`](https://github.com/baladi39/glance))
 
 Native macOS Markdown viewer built with Tauri 2 (Rust + TypeScript). View-only — no editing, no cloud, no accounts. Features syntax highlighting via Shiki (100+ languages), mermaid diagram rendering, auto-generated table of contents, GFM task lists, file watching with auto-reload and change highlighting, and drag-and-drop file opening. Privacy-first: remote images blocked by default, zero telemetry. ~8 MB, launches instantly.
