@@ -34,6 +34,10 @@ Editors designed to be used by developers for use in websites and web apps.
 
 ### Apple Mac OS X
 
+**[Sly](https://github.com/waynevernon/sly)** (open source @ github [`waynevernon/sly`](https://github.com/waynevernon/sly))
+
+Markdown notes and tasks for macOS. Sly turns a folder of Markdown files into a keyboard-friendly writing and planning workspace with a rich text editor, Markdown source mode, task views, fast search, wikilinks, Mermaid diagrams, KaTeX math, Git support, optional AI helpers, and a CLI for terminal workflows.
+
 **[Slate](https://www.slatemd.app)** (Download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases))
 
 Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
