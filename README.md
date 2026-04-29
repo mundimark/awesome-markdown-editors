@@ -116,6 +116,9 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 (web: [`taskade.com`](https://taskade.com),
  github: [`taskade/taskade`](https://github.com/taskade/taskade)) - Collaborative workspace with a built-in Markdown editor, real-time collaboration, AI writing assistance, and structured task management. Supports multiple views including lists, boards, and mind maps.
 
+**lit-forge Markdown Preview**
+(web: [`lit-forge.com/markdown-preview`](https://lit-forge.com/markdown-preview)) - Real-time side-by-side Markdown to HTML preview. Supports GitHub Flavored Markdown (tables, checkboxes, code blocks). Browser-only, no signup, no data sent to server. Japanese UI.
+
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
