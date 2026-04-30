@@ -146,6 +146,9 @@ Editors designed to be used by developers for use in websites and web apps.
 
 ### Universal
 
+[**Binderus**](https://www.binderus.com) (FREE, open source frontend @ github [`binderus/binderus`](https://github.com/binderus/binderus))
+
+Binderus is a free local-first Markdown note-taking app with Notion-style WYSIWYG editing (no split-pane preview). Stores notes as plain `.md` files in a folder you choose, or in an encrypted libSQL database for passphrase-protected vaults. Features: slash commands, wikilinks/backlinks, tables, KaTeX math, Mermaid diagrams, drag-drop image embedding, ten built-in themes plus drop-in CSS custom themes (with `extends:` inheritance and "Export current theme as starter"), plugin system with sandboxed JS plugins (built-in Pomodoro, Word Count; official AI Chat plugin for any OpenAI-compatible LLM). Built with Tauri + Rust — ~9 MB installer, instant startup. Available for Windows (x64 + ARM64, installer + portable), macOS (Apple Silicon + Intel), and Linux (.deb).
 [**Caret**](https://caret.io/) ($29 for continued use)
 
 Features live preview, files sidebar, go to anything, advanced spell checker and a lot more.
