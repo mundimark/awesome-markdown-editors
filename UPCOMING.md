@@ -25,6 +25,10 @@ Editors designed to be used by developers for use in websites and web apps.
 
 ### Universal
 
+**[Binderus](https://www.binderus.com)** (open source frontend @ github [`binderus/binderus`](https://github.com/binderus/binderus))
+
+Local-first note-taking app with Notion-style WYSIWYG editing for plain text and Markdown files, Obsidian-style philosophy for local files, a plugin system with AI/LLM plugin, custom themes, and optional encrypted vaults. No cloud, no account, no subscription. ~9 MB, built with Tauri + Rust, works on Windows, Mac, and Linux.
+
 
 ### Linux
 
