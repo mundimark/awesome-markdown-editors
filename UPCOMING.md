@@ -28,6 +28,10 @@ Editors designed to be used by developers for use in websites and web apps.
 
 ### Linux
 
+**[qnote](https://github.com/Omibranch/qnote)** (open source @ github [`Omibranch/qnote`](https://github.com/Omibranch/qnote))
+
+Minimal frameless notepad for Linux built with Tauri 2 (Rust + TypeScript). Features Markdown editing with live preview, real PDF export via Typst, OCR via Tesseract, automatic version history with snapshots, dark/light themes, and custom fonts. Available on AUR.
+
 
 ### Microsoft Windows
 
