@@ -318,9 +318,6 @@ a minimal markdown editor
 (github: [`TadavomnisT/MDEditor`](https://github.com/TadavomnisT/MDEditor)) -
 MDEditor is a free and open-source Markdown editor that supports previewing and exporting to HTML, PDF, MediaWiki, and more. It also provides programming APIs and can be used as a web application or a cross-platform desktop app.
 
-**qnote**
-(github: [`Omibranch/qnote`](https://github.com/Omibranch/qnote)) -
-Minimal frameless notepad for Linux with Markdown support, PDF export via Typst, OCR, and automatic version history. Built with Tauri 2 and Rust. Available on AUR.
 
 
 More / Articles
