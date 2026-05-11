@@ -116,6 +116,9 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 (web: [`taskade.com`](https://taskade.com),
  github: [`taskade/taskade`](https://github.com/taskade/taskade)) - Collaborative workspace with a built-in Markdown editor, real-time collaboration, AI writing assistance, and structured task management. Supports multiple views including lists, boards, and mind maps.
 
+**Acento Markdown Preview**
+(web: [`acento.io/en/markdown-preview`](https://www.acento.io/en/markdown-preview/)) - Privacy-first Markdown previewer with side-by-side live render. Browser-only, no signup, available in 9 languages.
+
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
