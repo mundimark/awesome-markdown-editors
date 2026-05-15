@@ -58,6 +58,10 @@ Native macOS Markdown viewer built with Tauri 2 (Rust + TypeScript). View-only â
 
 Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). Browse any folder of Markdown files with tab-based navigation, auto-generated table of contents, syntax highlighting, Mermaid diagrams, GFM task lists, and footnotes. Switch into edit mode for in-place authoring with live preview, plus optional bring-your-own-key AI assistance for editing.
 
+**[Kuku](https://kuku.mom)** (open source @ github [`kuku-mom/kuku`](https://github.com/kuku-mom/kuku))
+
+Open-source local-first Markdown workspace for macOS. Kuku keeps notes as ordinary `.md` files in a local vault while adding search, backlinks, graph navigation, Second Brain workflows, AI-assisted edits, reviewable diffs, and optional encrypted sync.
+
 
 ## Markdown Mobile Editors
 
