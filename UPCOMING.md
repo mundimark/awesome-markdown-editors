@@ -62,6 +62,10 @@ Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). 
 
 Open-source local-first Markdown workspace for macOS. Kuku keeps notes as ordinary `.md` files in a local vault while adding search, backlinks, graph navigation, Second Brain workflows, AI-assisted edits, reviewable diffs, and optional encrypted sync.
 
+**[marka.md](https://markamd.vercel.app)** (open source @ github [`mattenarle10/markamd`](https://github.com/mattenarle10/markamd))
+
+Local-first macOS Markdown editor built with Tauri 2 (Rust + React 19) for organizing AI context files. Features an IDE-style folder sidebar with drag-to-move, ⌘⇧C copies clean Markdown to clipboard for pasting into Claude/ChatGPT/agents, live preview with Mermaid + KaTeX + Shiki syntax highlighting, ⌘K command palette, find/replace, reading mode, and 5 themes (Catppuccin family + matcha). Notarized macOS build with auto-updating via signed releases, ~12 MB bundle, MIT licensed.
+
 
 ## Markdown Mobile Editors
 
