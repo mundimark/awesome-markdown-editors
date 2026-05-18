@@ -1,0 +1,85 @@
+# Awesome Markdown Editors & (Pre)viewers  - What's News (Upcoming) in 2026?
+
+A collection of awesome markdown editors and (pre)viewers
+for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
+
+<!-- please, add your app, tool, library, service to the best matching category. thanks!
+  -->
+
+
+## Markdown Online Editors
+
+**PDF2MD.pro**
+(web: [`pdf2md.pro`](https://pdf2md.pro/)), - Free online PDF to Markdown converter with browser-based processing for full privacy. Supports batch conversion, smart formatting detection, and live preview.
+
+**MarkdownEdit**
+(web: [`markdownedit-silk.vercel.app`](https://markdownedit-silk.vercel.app)) - Free split-pane Markdown editor with live preview and syntax highlighting. No signup required. Features instant rendering and a clean, distraction-free interface.
+
+
+## WYSIWYG Markdown Editors for Integration in Web Apps
+
+Editors designed to be used by developers for use in websites and web apps.
+
+
+## Markdown Desktop Editors
+
+### Universal
+
+**[Binderus](https://www.binderus.com)** (open source frontend @ github [`binderus/binderus`](https://github.com/binderus/binderus))
+
+Local-first note-taking app with Notion-style WYSIWYG editing for plain text and Markdown files, Obsidian-style philosophy for local files, a plugin system with AI/LLM plugin, custom themes, and optional encrypted vaults. No cloud, no account, no subscription. ~9 MB, built with Tauri + Rust, works on Windows, Mac, and Linux.
+
+
+### Linux
+
+**[qnote](https://github.com/Omibranch/qnote)** (open source @ github [`Omibranch/qnote`](https://github.com/Omibranch/qnote))
+
+Minimal frameless notepad for Linux built with Tauri 2 (Rust + TypeScript). Features Markdown editing with live preview, real PDF export via Typst, OCR via Tesseract, automatic version history with snapshots, dark/light themes, and custom fonts. Available on AUR.
+
+
+### Microsoft Windows
+
+
+### Apple Mac OS X
+
+**[MacMD Viewer](https://macmdviewer.com)** ($19.99 one-time)
+
+Native macOS Markdown viewer in SwiftUI — read-only, pairs with your editor of choice. Renders GitHub Flavored Markdown via WKWebView, with Mermaid diagrams, syntax highlighting for 190+ languages, and a QuickLook extension (press Space on any `.md` file in Finder). Live file reload (~50ms refresh after disk write) makes it well-suited for previewing files written by AI agents like Claude Code, Cursor, or Copilot. 2 MB binary, native Apple Silicon, no Electron. macOS 14+.
+
+**[Sly](https://github.com/waynevernon/sly)** (open source @ github [`waynevernon/sly`](https://github.com/waynevernon/sly))
+
+Markdown notes and tasks for macOS. Sly turns a folder of Markdown files into a keyboard-friendly writing and planning workspace with a rich text editor, Markdown source mode, task views, fast search, wikilinks, Mermaid diagrams, KaTeX math, Git support, optional AI helpers, and a CLI for terminal workflows.
+
+**[Slate](https://www.slatemd.app)** (Download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases))
+
+Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
+
+**[Glance](https://www.technol.io/en/glance)** (open source @ github [`baladi39/glance`](https://github.com/baladi39/glance))
+
+Native macOS Markdown viewer built with Tauri 2 (Rust + TypeScript). View-only — no editing, no cloud, no accounts. Features syntax highlighting via Shiki (100+ languages), mermaid diagram rendering, auto-generated table of contents, GFM task lists, file watching with auto-reload and change highlighting, and drag-and-drop file opening. Privacy-first: remote images blocked by default, zero telemetry. ~8 MB, launches instantly.
+
+**[MarkViewer](https://markviewer.com)** (Download @ github [`SeungbinBaik/markviewer-releases`](https://github.com/SeungbinBaik/markviewer-releases))
+
+Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). Browse any folder of Markdown files with tab-based navigation, auto-generated table of contents, syntax highlighting, Mermaid diagrams, GFM task lists, and footnotes. Switch into edit mode for in-place authoring with live preview, plus optional bring-your-own-key AI assistance for editing.
+
+**[Kuku](https://kuku.mom)** (open source @ github [`kuku-mom/kuku`](https://github.com/kuku-mom/kuku))
+
+Open-source local-first Markdown workspace for macOS. Kuku keeps notes as ordinary `.md` files in a local vault while adding search, backlinks, graph navigation, Second Brain workflows, AI-assisted edits, reviewable diffs, and optional encrypted sync.
+
+**[marka.md](https://markamd.vercel.app)** (open source @ github [`mattenarle10/markamd`](https://github.com/mattenarle10/markamd))
+
+Local-first macOS Markdown editor built with Tauri 2 (Rust + React 19) for organizing AI context files. Features an IDE-style folder sidebar with drag-to-move, ⌘⇧C copies clean Markdown to clipboard for pasting into Claude/ChatGPT/agents, live preview with Mermaid + KaTeX + Shiki syntax highlighting, ⌘K command palette, find/replace, reading mode, and 5 themes (Catppuccin family + matcha). Notarized macOS build with auto-updating via signed releases, ~12 MB bundle, MIT licensed.
+
+
+## Markdown Mobile Editors
+
+### Android
+
+### Apple iOS/iPhone
+
+
+## Meta
+
+**License**
+
+The awesome list is released under [the Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/), meaning it is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
