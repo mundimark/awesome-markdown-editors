@@ -10,8 +10,11 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 > [!NOTE]
 >  As a new policy starting in 2026 - please add all new listing entries first to the [Upcoming / What's New in 2026?](UPCOMING.md) page.
->  thank you for your understanding. 
->  ps: bonus - please, do NOT forget to add a link to your code / source on github. 
+>  thank you for your understanding.
+> 
+>  ps: bonus - please, do NOT forget to add a link to your code / source on github / gitlab / codeberg or whatnot.
+>  if no source code is available, please add yourself to [the Commercial Edition](COMMERCIAL.md) page -
+>   no matter if the basic usage is free or you only have ads or such. 
 
 
 
