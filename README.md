@@ -391,9 +391,9 @@ Portable, fully offline Markdown editor for Windows. No install, no internet, no
 (web: [`macdown.uranusjr.com`](http://macdown.uranusjr.com)) -
 open source Markdown editor inspired by Mou, with live preview of extended markdown syntaxes
 
-**MacMD Viewer**
-(web: [`macmdviewer.com`](https://macmdviewer.com)) ($9.99) -
-Native macOS Markdown viewer built with SwiftUI. Features Mermaid diagram rendering, QuickLook extension for Finder preview, syntax highlighting for 190+ languages, live reload, and dark mode support. Read-only viewer at just 2MB.
+**[MacMD Viewer](https://macmdviewer.com)** ($19.99 one-time)
+
+Native macOS Markdown viewer in SwiftUI — read-only, pairs with your editor of choice. Renders GitHub Flavored Markdown via WKWebView, with Mermaid diagrams, syntax highlighting for 190+ languages, and a QuickLook extension (press Space on any `.md` file in Finder). Live file reload (~50ms refresh after disk write) makes it well-suited for previewing files written by AI agents like Claude Code, Cursor, or Copilot. 2 MB binary, native Apple Silicon, no Electron. macOS 14+.
 
 More / Articles
 
