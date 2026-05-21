@@ -29,8 +29,8 @@ _Zen Writing - leaving you alone with your thoughts and your words_
  github: [`SantiagoBobrik/markvim`](https://github.com/SantiagoBobrik/markvim)) - A minimalist Markdown editor with built-in Vim keybindings, live preview, and shareable links.
 
 **Markon**
-(web: [`getmarkon.com`](https://getmarkon.com),
-github: [`getmarkon/markon`](https://github.com/getmarkon/markon)) - Minimal distraction-free live Markdown editor
+(web: [`metaory.github.io/markon`](https://metaory.github.io/markon/),
+github: [`metaory/markon`](https://github.com/metaory/markon)) - Minimal distraction-free live Markdown editor
 
 **Mark**
 (web: [`mark.barelyhuman.dev`](https://mark.barelyhuman.dev),
