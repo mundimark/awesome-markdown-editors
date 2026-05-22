@@ -1,9 +1,9 @@
 # Awesome Markdown Editors & (Pre)viewers - The Commercial Edition
 
-<!--
 Note - If no source code is available,  please add yourself to the Commercial Edition page here - 
 no matter if the basic usage is free or you only have ads or such.
--->
+
+
 
 ## Markdown Online Editors
 
