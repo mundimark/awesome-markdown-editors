@@ -9,6 +9,10 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 ## Markdown Online Editors
 
+**Comment.io**
+(web: [`comment.io`](https://comment.io),
+ github: [`comment-io/comment.io`](https://github.com/comment-io/comment.io)) - Agent-native document editor. @mention an agent — it reads the doc and responds via webhook, autonomously. Humans and agents reading, commenting, and editing markdown together, with per-edit authorship tracking.
+
 **PDF2MD.pro**
 (web: [`pdf2md.pro`](https://pdf2md.pro/)), - Free online PDF to Markdown converter with browser-based processing for full privacy. Supports batch conversion, smart formatting detection, and live preview.
 
