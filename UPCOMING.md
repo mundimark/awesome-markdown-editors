@@ -25,6 +25,10 @@ Local-first note-taking app with Notion-style WYSIWYG editing for plain text and
 (web: [`mdhero.app`](https://mdhero.app)), open source @ github [`vaibhavuk-dev/mdhero`](https://github.com/vaibhavuk-dev/mdhero)) -
 Reading-first native Markdown viewer for macOS and Windows with a lightweight editor mode. Built with Tauri 2 + SvelteKit, ~8 MB — vs. 100-200 MB for Electron-based alternatives. Renders KaTeX math, Mermaid diagrams, and syntax-highlighted code via highlight.js (~25 languages). Features tab-based navigation with persisted edit state, table-of-contents sidebar, pinned project folders, Vim keybindings (j/k/gg/G), source-line scroll sync between viewer/raw/editor modes, Open URL fetcher for GitHub/GitLab/Bitbucket files, an LLM paste mode that auto-unescapes `\n` and `\"` from ChatGPT/Claude output, and an optional Close-on-Escape mode for file-manager viewer usage. Press Cmd+E to edit, Cmd+S to save. MIT licensed. No user tracking — anonymous update checks send only OS family and version.
 
+**MD Preview**
+(web: [`vorojar.github.io/md-preview`](https://vorojar.github.io/md-preview/), open source @ github [`vorojar/md-preview`](https://github.com/vorojar/md-preview)) -
+Ultra-lightweight cross-platform Markdown preview app built with Rust and the system WebView. Preview-first, no Electron or bundled browser, with GitHub Flavored Markdown, syntax highlighting, KaTeX math, Mermaid diagrams, dark mode, print support, live reload, and a small inline edit mode for quick fixes. Ships signed and notarized macOS DMG plus Windows and Linux builds.
+
 
 ### Linux
 
