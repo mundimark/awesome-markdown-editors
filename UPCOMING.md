@@ -59,6 +59,10 @@ Open-source local-first Markdown workspace for macOS. Kuku keeps notes as ordina
 (web: [`markamd.vercel.app`](https://markamd.vercel.app), open source @ github [`mattenarle10/markamd`](https://github.com/mattenarle10/markamd)) - 
 Local-first macOS Markdown editor built with Tauri 2 (Rust + React 19) for organizing AI context files. Features an IDE-style folder sidebar with drag-to-move, ⌘⇧C copies clean Markdown to clipboard for pasting into Claude/ChatGPT/agents, live preview with Mermaid + KaTeX + Shiki syntax highlighting, ⌘K command palette, find/replace, reading mode, and 5 themes (Catppuccin family + matcha). Notarized macOS build with auto-updating via signed releases, ~12 MB bundle, MIT licensed.
 
+**Markup**
+(open source @ github [`oratis/Markup`](https://github.com/oratis/Markup)) -
+Reader-first native macOS Markdown editor built with Tauri 2 (Rust + system WebView, ~88 MB RAM). Renders your `.md` like a clean web page and you edit on demand — WYSIWYG via Milkdown, or raw source. Includes a vault with wikilinks, backlinks and a graph view, Tantivy full-text search (a 10k-file vault indexes in ~1s), KaTeX math, Mermaid diagrams, three themes (light/dark/sepia), and one-click MD→HTML export (a clean, self-contained page). MIT licensed.
+
 
 ## Markdown Mobile Editors
 
