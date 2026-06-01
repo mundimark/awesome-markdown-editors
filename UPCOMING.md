@@ -33,6 +33,10 @@ Reading-first native Markdown viewer for macOS and Windows with a lightweight ed
 (web: [`vorojar.github.io/md-preview`](https://vorojar.github.io/md-preview/), open source @ github [`vorojar/md-preview`](https://github.com/vorojar/md-preview)) -
 Ultra-lightweight cross-platform Markdown preview app built with Rust and the system WebView. Preview-first, no Electron or bundled browser, with GitHub Flavored Markdown, syntax highlighting, KaTeX math, Mermaid diagrams, dark mode, print support, live reload, and a small inline edit mode for quick fixes. Ships signed and notarized macOS DMG plus Windows and Linux builds.
 
+**Noteriv**
+(web: [`noteriv.com`](https://www.noteriv.com), open source @ github [`thejacedev/Noteriv`](https://github.com/thejacedev/Noteriv)) -
+Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organizes `.md` files into vaults with wiki-links, backlinks, a force-directed graph view, kanban board, daily notes, full-text search, KaTeX math, Mermaid diagrams, and a `[TOC]` widget. Extensible via a plugin API and custom CSS themes, with Git and WebDAV sync. Cross-platform (Linux, macOS, Windows), MIT licensed.
+
 
 ### Linux
 
