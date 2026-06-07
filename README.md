@@ -273,9 +273,6 @@ Joplin is a free, open source note taking and to-do application, which can handl
 
 Octarine is a lightweight, privacy-focused markdown note-taking app built for speed and simplicity. At under 30MB, it offers a clean WYSIWYG editor and stores notes locally as plain markdown files, keeping your data entirely in your control. It features properties, views for displaying notes as tables, and optional AI integrations with multiple providers. Built with Tauri for fast, native performance on Mac, Windows, and Linux.
 
-[**Huiyu MD**](https://github.com/huiyu9144/Huiyu-MD) (FREE, open source)
-
-A minimal, lightning-fast Markdown reader for Windows & macOS. Built with Tauri 2.0 (Rust + React). Features dark/light themes, Ctrl+scroll zoom (25%-400%), KaTeX math formulas, code highlighting with copy button, drag & drop, and right-click context menu with Buy Me a Coffee. Only ~5MB, starts instantly, zero white flash.
 
 [**Stik**](https://stik.ink) (FREE, open source)
 
