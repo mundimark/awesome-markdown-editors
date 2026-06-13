@@ -344,6 +344,8 @@ Obsidian is the private and flexible writing app that adapts to the way you thin
 Obsidian stores notes on your device, so you can access them quickly, even offline. No one else can read them, not even us.
 
 **Markdown Monster**
+
+**Slate** (web: [github.com/MiaAI-Lab/Slate](https://github.com/MiaAI-Lab/Slate)) - Local-first, OLED-friendly text editor for Windows built with Tauri 2 (Rust) and Svelte 5. Features live Markdown preview, multi-tab editing, true-black OLED theme, and zero telemetry. Free and open source (MIT). The ~6MB installer is a fraction of the size of Electron-based alternatives.
 (web: [`markdownmonster.west-wind.com`](https://markdownmonster.west-wind.com/)) -
 Markdown is everywhere these days and it's used for all sorts of different purposes. Wouldn't it be nice if you have an editor that can keep up with all of those scenarios?
 
