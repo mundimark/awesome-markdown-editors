@@ -31,6 +31,10 @@ Cross-platform native Markdown viewer and editor built with Tauri 2 (Rust + Reac
 (open source @ github [huiyu9144/Huiyu-MD](https://github.com/huiyu9144/Huiyu-MD)) -
 Minimal, lightning-fast Markdown reader for Windows & macOS. Built with Tauri 2.0 (Rust + React). Features dark/light themes with auto-persist, Ctrl+scroll zoom (25%-400%), KaTeX math formula rendering, code blocks with syntax highlighting and one-click copy, drag & drop file opening, auto file association, and a right-click context menu. Only ~5 MB, starts instantly (< 0.3s), zero white flash. macOS builds are code-signed and notarized by Apple.
 
+**Markra**
+(web: [`editor.markra.app`](https://editor.markra.app/), open source @ github [`murongg/markra`](https://github.com/murongg/markra)) -
+Local-first WYSIWYG Markdown editor for plain `.md` files with source mode, AI edit preview, multi-provider AI settings, and cross-platform Tauri desktop builds. AGPL-3.0 licensed.
+
 MDHero**
 (web: [`mdhero.app`](https://mdhero.app)), open source @ github [`vaibhavuk-dev/mdhero`](https://github.com/vaibhavuk-dev/mdhero)) -
 Reading-first native Markdown viewer for macOS and Windows with a lightweight editor mode. Built with Tauri 2 + SvelteKit, ~8 MB — vs. 100-200 MB for Electron-based alternatives. Renders KaTeX math, Mermaid diagrams, and syntax-highlighted code via highlight.js (~25 languages). Features tab-based navigation with persisted edit state, table-of-contents sidebar, pinned project folders, Vim keybindings (j/k/gg/G), source-line scroll sync between viewer/raw/editor modes, Open URL fetcher for GitHub/GitLab/Bitbucket files, an LLM paste mode that auto-unescapes `\n` and `\"` from ChatGPT/Claude output, and an optional Close-on-Escape mode for file-manager viewer usage. Press Cmd+E to edit, Cmd+S to save. MIT licensed. No user tracking — anonymous update checks send only OS family and version.
