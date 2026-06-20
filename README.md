@@ -1,4 +1,4 @@
-Awesome Markdown Series -  For Basics & History, Libraries & Building Blocks, see [Awesome Markdown (& Beyond) »](https://github.com/mundimark/awesome-markdown) 
+﻿Awesome Markdown Series -  For Basics & History, Libraries & Building Blocks, see [Awesome Markdown (& Beyond) Â»](https://github.com/mundimark/awesome-markdown) 
 
 # Awesome Markdown Editors & (Pre)viewers
 
@@ -72,7 +72,7 @@ Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI a
  see https://github.com/mundimark/awesome-markdown-editors/issues/67
  **LetsMarkdown.com**
 (web: [`LetsMarkdown.com`](https://letsmarkdown.com/),
-github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com)) - 👨‍💻👩‍💻 Fast, minimal web editor that makes markdown editing collaborative and accessible to everyone.
+github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com)) - ðŸ‘¨â€ðŸ’»ðŸ‘©â€ðŸ’» Fast, minimal web editor that makes markdown editing collaborative and accessible to everyone.
 -->
 
 **Typo**
@@ -123,7 +123,7 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 
 Editors designed to be used by developers for use in websites and web apps.
 
-**Markdown Text Editor (Open Source)**: (web: [Markdown Editor](https://frutjam.com/plugins/markdown-editor) github: [nezanuha/markdown-text-editor](https://github.com/nezanuha/markdown-text-editor)) - A native `<textarea>` turns into an advanced Markdown editor while still functioning like a standard textarea, allowing developers to submit its content through a normal form, retrieve the Markdown value using JavaScript via `id`, `name`, or any selector, and set the value directly on the same textarea—automatically updating and synchronizing the content inside the editor. 
+**Markdown Text Editor (Open Source)**: (web: [Markdown Editor](https://frutjam.com/plugins/markdown-editor) github: [nezanuha/markdown-text-editor](https://github.com/nezanuha/markdown-text-editor)) - A native `<textarea>` turns into an advanced Markdown editor while still functioning like a standard textarea, allowing developers to submit its content through a normal form, retrieve the Markdown value using JavaScript via `id`, `name`, or any selector, and set the value directly on the same textareaâ€”automatically updating and synchronizing the content inside the editor. 
 
 **Features**:
 
@@ -144,6 +144,8 @@ Editors designed to be used by developers for use in websites and web apps.
 **Docs to Markdown Pro** (web: [Docs to Markdown Pro](https://www.docstomarkdown.pro), Google Workspace Marketplace Extension: [Docs to Markdown Pro Extension](https://workspace.google.com/marketplace/app/docs_to_markdown_pro/483386994804) Starts from 29$ per year) - This Google Docs editor add-on converts your Google Docs to Markdown format, including images. It integrates with GitHub and GitLab, allowing you to write collaboratively in Google Docs and commit your work directly as Markdown (including images) to your repositories, streamlining your workflow.
 
 **Umo Editor** (web:[Umo Editor Playground](https://www.umodoc.com/en/demo?pane=hide), Documentation: [Umo Editor Documentation](https://editor.umodoc.com/en/docs), Github: [umodoc/editor](https://github.com/umodoc/editor)) - Umo Editor is open-source document editor based on Vue3 and Tiptap. Umo Editor provides comprehensive document editing capabilities and AI creation features, supports pagination, supports Markdown syntax, offers basic rich text editing functions, allows for the insertion of various node types in multiple formats, provides a variety of practical tools, and supports setting page styles. It also supports exporting in various formats, printing and print preview, block-level document editing, adding custom extensions, multi-language settings, and a dark theme.
+
+- [Markdown Tools Online](https://markdowntoolsonline.com/) - Free online Markdown converter toolkit with 16 browser-based tools including preview, PDF export, and table generation. ![Globe][globe]
 
 ## Markdown Desktop Editors
 
@@ -169,7 +171,7 @@ A free, open source, cross-platform Markdown editor based on Milkdown. It can al
 
 [**Inkwell**](https://github.com/4worlds4w-svg/inkwell) (one time license to buy for paid component, open source @ github [`4worlds4w-svg/inkwell`](https://github.com/4worlds4w-svg/inkwell))
 
-Inkwell is a portable, offline-first Markdown editor built with Rust and Tauri v2. A single executable (~3MB) with zero telemetry — no cloud, no account, data stays local. Features live preview, syntax highlighting, multiple themes, and cross-platform support (Windows, macOS, Linux).
+Inkwell is a portable, offline-first Markdown editor built with Rust and Tauri v2. A single executable (~3MB) with zero telemetry â€” no cloud, no account, data stays local. Features live preview, syntax highlighting, multiple themes, and cross-platform support (Windows, macOS, Linux).
 
 
 [**Kindling**](https://kindlingwriter.com) (FREE, open source @ github [`smith-and-web/kindling`](https://github.com/smith-and-web/kindling))
@@ -276,7 +278,7 @@ Octarine is a lightweight, privacy-focused markdown note-taking app built for sp
 
 [**Stik**](https://stik.ink) (FREE, open source)
 
-Stik is an instant thought capture app for macOS. Press a global hotkey and a post-it note appears — type your thought, close it, done. Notes are stored as plain markdown files in `~/Documents/Stik/`, organized into folders. Built with Tauri 2.0 (Rust + React) for native performance. Features include semantic search via on-device NLP, markdown editing with live preview, and image support.
+Stik is an instant thought capture app for macOS. Press a global hotkey and a post-it note appears â€” type your thought, close it, done. Notes are stored as plain markdown files in `~/Documents/Stik/`, organized into folders. Built with Tauri 2.0 (Rust + React) for native performance. Features include semantic search via on-device NLP, markdown editing with live preview, and image support.
 
 [The code resides on GitHub](https://github.com/0xMassi/stik_app)
 
@@ -288,7 +290,7 @@ Markdown files into preview and convert them into one PDF.
 
 [**Scratch**](https://www.ericli.io/scratch) (FREE, open source)
 
-Scratch is a lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support. Notes are stored as plain .md files — no cloud, no account required. Integrates with local CLI tools like Claude Code and Codex for AI-powered editing. Features include a command palette, keyboard-first navigation, git integration, and customizable themes. Built with Tauri for native performance on Mac, Windows, and Linux.
+Scratch is a lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support. Notes are stored as plain .md files â€” no cloud, no account required. Integrates with local CLI tools like Claude Code and Codex for AI-powered editing. Features include a command palette, keyboard-first navigation, git integration, and customizable themes. Built with Tauri for native performance on Mac, Windows, and Linux.
 
 [The code resides on GitHub](https://github.com/erictli/scratch)
 
@@ -385,7 +387,7 @@ More / Articles
 **MDLook**
 (web: [`mdlook.com`](https://mdlook.com),
  github: [`djosci/MDLook`](https://github.com/djosci/MDLook)) -
-Portable, fully offline Markdown editor for Windows. No install, no internet, no Electron — uses WebView2 at just 42 MB total. Features split-pane editing with live preview, dark mode, KaTeX math, Mermaid diagrams, syntax highlighting, and export to HTML.
+Portable, fully offline Markdown editor for Windows. No install, no internet, no Electron â€” uses WebView2 at just 42 MB total. Features split-pane editing with live preview, dark mode, KaTeX math, Mermaid diagrams, syntax highlighting, and export to HTML.
 
 ### Apple Mac OS X
 
@@ -428,6 +430,8 @@ mxMarkEdit is a free software for Mac for writing texts and todo items in Markdo
 **[SideMark](https://mipyip.com/products/sidemark)** (github: [`avanrossum/sidemark`](https://github.com/avanrossum/sidemark)) (Free, open source)
 
 Free, open-source macOS editor with three-way merge for concurrent editing, auto-save, focus mode, git gutter markers, and PDF/HTML export. Built for workflows where multiple authors (including AI agents) edit the same files.
+
+- [Markdown Tools Online](https://markdowntoolsonline.com/) - Free online Markdown converter toolkit with 16 browser-based tools including preview, PDF export, and table generation. ![Globe][globe]
 
 ## Markdown Mobile Editors
 ### Android
