@@ -13,6 +13,10 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 (web: [`mkdn.review`](https://mkdn.review/?url=https%3A%2F%2Fraw.githubusercontent.com%2Foubakiou%2Fmdxg-redline%2Frefs%2Fheads%2Fmain%2FREADME.md), open source @ github [`oubakiou/mdxg-redline`](https://github.com/oubakiou/mdxg-redline)) -
 Read-only Markdown (pre)viewer with inline review comments, distributed as a single standalone HTML file (also runnable via `npx mdxg-redline`). Implements the MDXG Viewer profile: Word/Pages-style stacked virtual pages, page navigation and outline, in-document search, and left-hand WASD keyboard navigation. Renders Shiki syntax highlighting (~235 languages), Mermaid diagrams, KaTeX math, and GitHub Flavored Markdown footnotes, with smartphone support. Select any text range to leave a comment; comments export as structured JSON keyed by headingPath and sourceLine, so an LLM agent can apply each one back to the exact lines. The standalone/CLI build makes no network requests (CSP connect-src 'none'); an optional online edition at mkdn.review fetches Markdown from an allowlisted public raw URL via a `?url=` parameter. MIT licensed.
 
+**UnfoldCMS**
+(web: [`unfoldcms.com`](https://unfoldcms.com), open source @ github [`hpakdaman/unfoldcms`](https://github.com/hpakdaman/unfoldcms)) -
+Self-hosted CMS with a built-in Markdown editor. Built on Laravel 12, React 19, shadcn/ui, Tailwind v4, and Inertia 2. Features a WYSIWYG/source Markdown editor for content authoring, REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt. MIT licensed.
+
 
 
 ## Markdown Desktop Editors
