@@ -57,6 +57,9 @@ Minimal frameless notepad for Linux built with Tauri 2 (Rust + TypeScript). Feat
 
 ### Microsoft Windows
 
+**Markdown Studio**
+(open source @ github [`Financialnews-ops/markdown-studio-by-htny`](https://github.com/Financialnews-ops/markdown-studio-by-htny)) -
+Desktop Markdown editor for Windows with live preview and independently toggleable editor/preview panes. Built with Electron, parsing via marked and HTML sanitized with DOMPurify. Includes a formatting toolbar (headings, bold, italic, strikethrough, inline code, quotes, ordered/unordered lists, links, images, tables) and one-click export to PDF, DOCX (Word), and Obsidian-flavored Markdown, plus PDF text import. Fully offline — documents stay in a local `Documents/MarkdownStudio` folder. Ships an NSIS installer via signed-tag GitHub Releases. MIT licensed.
 
 ### Apple Mac OS X
 
