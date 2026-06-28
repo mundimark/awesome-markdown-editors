@@ -17,6 +17,17 @@ Read-only Markdown (pre)viewer with inline review comments, distributed as a sin
 
 ## Markdown Desktop Editors
 
+### Editor Plugins
+
+**Markdown Table Editor**
+(web: [`markdowntableeditor.krot.name`](https://markdowntableeditor.krot.name/),
+ JetBrains Marketplace: [`Markdown Table Editor`](https://plugins.jetbrains.com/plugin/32159-markdown-table-editor),
+ open source @ github [`krotname/IdeaMarkdownTableEditor`](https://github.com/krotname/IdeaMarkdownTableEditor),
+ [`krotname/NppMarkdownTableEditor`](https://github.com/krotname/NppMarkdownTableEditor)) -
+Open-source plugins for editing Markdown pipe tables inside JetBrains IDEs and Notepad++.
+Features include table alignment, row and column operations, sorting, width fitting, CSV/TSV conversion,
+escaped pipe handling, Unicode/CJK width support, release ZIPs, tests, and CI.
+
 ### Universal
 
 **Binderus** 
