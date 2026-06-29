@@ -95,6 +95,10 @@ Local-first macOS Markdown editor built with Tauri 2 (Rust + React 19) for organ
 (open source @ github [`oratis/Markup`](https://github.com/oratis/Markup)) -
 Reader-first native macOS Markdown editor built with Tauri 2 (Rust + system WebView, ~88 MB RAM). Renders your `.md` like a clean web page and you edit on demand — WYSIWYG via Milkdown, or raw source. Includes a vault with wikilinks, backlinks and a graph view, Tantivy full-text search (a 10k-file vault indexes in ~1s), KaTeX math, Mermaid diagrams, three themes (light/dark/sepia), and one-click MD→HTML export (a clean, self-contained page). MIT licensed.
 
+**Edmund**
+(open source @ github [`I7T5/Edmund`](https://github.com/I7T5/Edmund)) -
+Minimal, native macOS Markdown editor with live preview — built with AppKit + TextKit 2 (~15 MB), not Electron or a webview. Works directly with your existing `.md` files: no vault, no enforced folder structure. Renders as you type, hiding syntax delimiters outside the active block. Supports GitHub Flavored Markdown plus opt-in highlights, `[[wikilinks]]`, footnotes, Obsidian-style callouts and comments, and inline/display math via SwiftMath. Keyboard-first, fully offline, auto-updating via Sparkle, Apache 2.0 licensed.
+
 
 ## Markdown Mobile Editors
 
