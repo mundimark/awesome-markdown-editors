@@ -58,6 +58,10 @@ Ultra-lightweight cross-platform Markdown preview app built with Rust and the sy
 (web: [`noteriv.com`](https://www.noteriv.com), open source @ github [`thejacedev/Noteriv`](https://github.com/thejacedev/Noteriv)) -
 Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organizes `.md` files into vaults with wiki-links, backlinks, a force-directed graph view, kanban board, daily notes, full-text search, KaTeX math, Mermaid diagrams, and a `[TOC]` widget. Extensible via a plugin API and custom CSS themes, with Git and WebDAV sync. Cross-platform (Linux, macOS, Windows), MIT licensed.
 
+**Xiangzi MD**
+(open source @ github [`AttackingXiang/xiangzi-md`](https://github.com/AttackingXiang/xiangzi-md)) -
+Local-first WYSIWYG Markdown editor for macOS and Windows. Edits plain `.md` files with workspace tabs, full-text search, a command palette, source mode, Mermaid and KaTeX, flexible local image storage, rich clipboard copy, and HTML/PDF/PNG/JPEG export. Built with Tauri 2, Rust, React, and Milkdown. MIT licensed.
+
 
 ### Linux
 
