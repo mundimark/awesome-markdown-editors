@@ -107,6 +107,15 @@ Minimal, native macOS Markdown editor with live preview — built with AppKit + 
 ### Apple iOS/iPhone
 
 
+## Misc
+
+**MDPR**
+(open source @ github [`ch040602/MdPr`](https://github.com/ch040602/MdPr),
+ npm: [`@mdpresent/cli`](https://www.npmjs.com/package/@mdpresent/cli),
+ optional Codex skill @ github [`ch040602/mdpr-skill`](https://github.com/ch040602/mdpr-skill)) -
+Open-source Markdown presentation renderer/exporter for turning `.md` decks into editable PPTX, HTML, PDF, previews, and visual review artifacts. Supports themes, layout hints, charts, tables, diagrams, icon search, and deterministic rendering without requiring an LLM; the optional `mdpr-skill` repository adds Codex-assisted semantic hints and visual review reports.
+
+
 ## Meta
 
 **License**
