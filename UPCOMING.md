@@ -99,6 +99,10 @@ Reader-first native macOS Markdown editor built with Tauri 2 (Rust + system WebV
 (open source @ github [`I7T5/Edmund`](https://github.com/I7T5/Edmund)) -
 Minimal, native macOS Markdown editor with live preview — built with AppKit + TextKit 2 (~15 MB), not Electron or a webview. Works directly with your existing `.md` files: no vault, no enforced folder structure. Renders as you type, hiding syntax delimiters outside the active block. Supports GitHub Flavored Markdown plus opt-in highlights, `[[wikilinks]]`, footnotes, Obsidian-style callouts and comments, and inline/display math via SwiftMath. Keyboard-first, fully offline, auto-updating via Sparkle, Apache 2.0 licensed.
 
+**Everseq**
+(open source @ github [`alkalim/Everseq`](https://github.com/alkalim/Everseq)) -
+Open-source local-first Markdown outliner for macOS. Everseq stores notes as ordinary `.md` files while adding block trees, page and block references, embeds, queries, backlinks, daily notes, and full-text search. Built with Swift, AppKit, and SwiftUI; AGPL-3.0 licensed.
+
 
 ## Markdown Mobile Editors
 
