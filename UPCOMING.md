@@ -110,7 +110,7 @@ Open-source local-first Markdown outliner for macOS. Everseq stores notes as ord
 
 **OATS**
 (web: [`ariso.ai`](https://ariso.ai), open source @ github [`ariso-ai/oats`](https://github.com/ariso-ai/oats)) -
-Open-source macOS menu bar meeting-notes app that records conversations, creates live transcripts with speaker labels, and generates Markdown notes and summaries. Runs through a free cloud backend or fully offline on Apple Silicon Macs. MIT licensed.
+Open-source local-first macOS meeting-notes app that records conversations, creates live transcripts with speaker labels, and generates Markdown notes and summaries. Runs through a free cloud backend or fully offline on Apple Silicon Macs. MIT licensed.
 
 
 ## Markdown Mobile Editors
