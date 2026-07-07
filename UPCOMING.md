@@ -9,6 +9,11 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 ## Markdown Online Editors
 
+**markupmarkdown**
+(web: [`mumd.metavert.io`](https://mumd.metavert.io), open source @ github [`jonradoff/markupmarkdown`](https://github.com/jonradoff/markupmarkdown)) -
+"Google Docs for Markdown" — collaborative editor and review tool for Markdown files: anchored comment threads on any text selection, suggested changes with one-click apply, review states (approve / request changes), document checks, and GitHub round-trip (open any repo's `.md`, edit, push back as a PR). Includes an MCP server so AI agents can comment, suggest, and review through the same loop as humans. MIT licensed, built with Go + React.
+
+
 **MDXG Redline**
 (web: [`mkdn.review`](https://mkdn.review/?url=https%3A%2F%2Fraw.githubusercontent.com%2Foubakiou%2Fmdxg-redline%2Frefs%2Fheads%2Fmain%2FREADME.md), open source @ github [`oubakiou/mdxg-redline`](https://github.com/oubakiou/mdxg-redline)) -
 Read-only Markdown (pre)viewer with inline review comments, distributed as a single standalone HTML file (also runnable via `npx mdxg-redline`). Implements the MDXG Viewer profile: Word/Pages-style stacked virtual pages, page navigation and outline, in-document search, and left-hand WASD keyboard navigation. Renders Shiki syntax highlighting (~235 languages), Mermaid diagrams, KaTeX math, and GitHub Flavored Markdown footnotes, with smartphone support. Select any text range to leave a comment; comments export as structured JSON keyed by headingPath and sourceLine, so an LLM agent can apply each one back to the exact lines. The standalone/CLI build makes no network requests (CSP connect-src 'none'); an optional online edition at mkdn.review fetches Markdown from an allowlisted public raw URL via a `?url=` parameter. MIT licensed.
