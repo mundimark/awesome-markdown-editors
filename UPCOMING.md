@@ -77,6 +77,11 @@ Minimal frameless notepad for Linux built with Tauri 2 (Rust + TypeScript). Feat
 (open source @ github [`Financialnews-ops/markdown-studio-by-htny`](https://github.com/Financialnews-ops/markdown-studio-by-htny)) -
 Desktop Markdown editor for Windows with live preview and independently toggleable editor/preview panes. Built with Electron, parsing via marked and HTML sanitized with DOMPurify. Includes a formatting toolbar (headings, bold, italic, strikethrough, inline code, quotes, ordered/unordered lists, links, images, tables) and one-click export to PDF, DOCX (Word), and Obsidian-flavored Markdown, plus PDF text import. Fully offline — documents stay in a local `Documents/MarkdownStudio` folder. Ships an NSIS installer via signed-tag GitHub Releases. MIT licensed.
 
+**Tinta**
+(web: [`tinta.cc`](https://tinta.cc), open source @ github [`oipoistar/tinta`](https://github.com/oipoistar/tinta)) -
+Fast, lightweight Markdown viewer and reader for Windows built with native C++ and Direct2D/DirectWrite for hardware-accelerated text rendering -- a single portable exe under 1 MB that cold-starts in ~200 ms, no Electron, no bundled browser, no installer. Designed as the double-click default for `.md` files: 10 themes (5 light, 5 dark incl. an OLED-friendly pure black), table of contents, folder browser, full-text search, rich tables, text selection, Ctrl+scroll zoom, drag & drop, and an edit mode with live preview. Installable via Scoop. MIT licensed.
+
+
 ### Apple Mac OS X
 
 **Sly**
