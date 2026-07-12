@@ -113,6 +113,10 @@ Minimal, native macOS Markdown editor with live preview — built with AppKit + 
 (open source @ github [`alkalim/Knopo`](https://github.com/alkalim/Knopo)) -
 Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordinary `.md` files while adding block trees, page and block references, embeds, queries, backlinks, daily notes, and full-text search. Built with Swift, AppKit, and SwiftUI; AGPL-3.0 licensed.
 
+**OATS**
+(web: [`ariso.ai`](https://ariso.ai), open source @ github [`ariso-ai/oats`](https://github.com/ariso-ai/oats)) -
+Open-source local-first macOS meeting-notes app that records conversations, creates live transcripts with speaker labels, and generates Markdown notes and summaries. Runs through a free cloud backend or fully offline on Apple Silicon Macs. MIT licensed.
+
 
 ## Markdown Mobile Editors
 
