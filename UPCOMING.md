@@ -113,6 +113,10 @@ Minimal, native macOS Markdown editor with live preview — built with AppKit + 
 (open source @ github [`alkalim/Knopo`](https://github.com/alkalim/Knopo)) -
 Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordinary `.md` files while adding block trees, page and block references, embeds, queries, backlinks, daily notes, and full-text search. Built with Swift, AppKit, and SwiftUI; AGPL-3.0 licensed.
 
+**OpenMarkdown**
+(web: [`openmarkdown.dev`](https://openmarkdown.dev)) -
+Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
+
 
 ## Markdown Mobile Editors
 
