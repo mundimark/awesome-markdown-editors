@@ -73,6 +73,12 @@ Minimal frameless notepad for Linux built with Tauri 2 (Rust + TypeScript). Feat
 
 ### Microsoft Windows
 
+**MannyMarker**  
+(open source @ github [`PaulCoughlin/mannymarker`](https://github.com/PaulCoughlin/mannymarker)  
+A small, fast, portable standalone native Windows markdown editor. You edit a rendered view - headings look like headings, bold looks bold - but the file on disk is always plain .md. No server, no browser tab, no terminal. Deliberately kept minimal: open, edit, save.  
+Tauri 2, Edge WebView2, TipTap, Vite + vanilla TypeScript.
+
+
 **Markdown Studio**
 (open source @ github [`Financialnews-ops/markdown-studio-by-htny`](https://github.com/Financialnews-ops/markdown-studio-by-htny)) -
 Desktop Markdown editor for Windows with live preview and independently toggleable editor/preview panes. Built with Electron, parsing via marked and HTML sanitized with DOMPurify. Includes a formatting toolbar (headings, bold, italic, strikethrough, inline code, quotes, ordered/unordered lists, links, images, tables) and one-click export to PDF, DOCX (Word), and Obsidian-flavored Markdown, plus PDF text import. Fully offline — documents stay in a local `Documents/MarkdownStudio` folder. Ships an NSIS installer via signed-tag GitHub Releases. MIT licensed.
