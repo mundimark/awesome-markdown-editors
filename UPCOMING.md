@@ -20,6 +20,15 @@ Read-only Markdown (pre)viewer with inline review comments, distributed as a sin
 
 
 
+## Markdown Renderer Libraries for Integration in Web Apps
+
+**Markstream**
+(web: [`markstream.simonhe.me`](https://markstream.simonhe.me/),
+ playground: [`markstream-vue.simonhe.me`](https://markstream-vue.simonhe.me/),
+ open source @ github [`Simon-He95/markstream-vue`](https://github.com/Simon-He95/markstream-vue)) -
+Streaming Markdown renderer for AI chat interfaces that progressively renders incomplete Markdown while a response is arriving. Provides packages for Vue, React, Svelte, and Angular, plus Nuxt and Next.js integration documentation. Supports Mermaid diagrams, KaTeX math, Shiki or Monaco code rendering, safe HTML, SSR, and long responses. MIT licensed.
+
+
 ## Markdown Desktop Editors
 
 ### Editor Plugins
