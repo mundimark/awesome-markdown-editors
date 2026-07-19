@@ -11,7 +11,7 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 **Bangle.io**
 (web: [`app.bangle.io`](https://app.bangle.io/), open source @ github [`bangle-io/bangle-io`](https://github.com/bangle-io/bangle-io)) -
-Local-first WYSIWYG note-taking that keeps your notes as portable Markdown. No account required.
+A simple yet powerful Markdown-based note-taking app with WYSIWYG editing and local-first storage.
 
 
 **markupmarkdown**
