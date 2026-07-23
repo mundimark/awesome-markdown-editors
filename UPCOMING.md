@@ -9,6 +9,9 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 ## Markdown Online Editors
 
+**LiteNoter**
+(web: [`litenoter.com/tools/free-markdown-editor/`](https://litenoter.com/tools/free-markdown-editor/)) - Free browser-based visual Markdown editor for headings, lists, and tables, with export to Markdown, HTML, and PDF. Document processing stays in the browser and requires no account.
+
 **markupmarkdown**
 (web: [`mumd.metavert.io`](https://mumd.metavert.io), open source @ github [`jonradoff/markupmarkdown`](https://github.com/jonradoff/markupmarkdown)) -
 "Google Docs for Markdown" — collaborative editor and review tool for Markdown files: anchored comment threads on any text selection, suggested changes with one-click apply, review states (approve / request changes), document checks, and GitHub round-trip (open any repo's `.md`, edit, push back as a PR). Includes an MCP server so AI agents can comment, suggest, and review through the same loop as humans. MIT licensed, built with Go + React.
