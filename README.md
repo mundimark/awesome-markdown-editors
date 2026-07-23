@@ -24,6 +24,9 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 
 ## Markdown Online Editors
 
+**Markdown Tools Editor**
+(web: [`markdowntools.io/editor`](https://www.markdowntools.io/editor)) - Free online Markdown editor with live preview, syntax highlighting, KaTeX math, and Mermaid diagrams; runs entirely in the browser, no signup required.
+
 **Markvim**
 (web: [`markvim.xyz`](https://markvim.xyz),
  github: [`SantiagoBobrik/markvim`](https://github.com/SantiagoBobrik/markvim)) - A minimalist Markdown editor with built-in Vim keybindings, live preview, and shareable links.
