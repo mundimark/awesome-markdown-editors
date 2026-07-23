@@ -274,6 +274,11 @@ Joplin is a free, open source note taking and to-do application, which can handl
 Octarine is a lightweight, privacy-focused markdown note-taking app built for speed and simplicity. At under 30MB, it offers a clean WYSIWYG editor and stores notes locally as plain markdown files, keeping your data entirely in your control. It features properties, views for displaying notes as tables, and optional AI integrations with multiple providers. Built with Tauri for fast, native performance on Mac, Windows, and Linux.
 
 
+[**ScribeDog**](https://github.com/snooky234/scribedog) (FREE, open source)
+
+ScribeDog is a private, WYSIWYG Markdown editor with built-in AI writing assistance. Select any passage to have a model rewrite, extend, translate, or grammar-check it — or dictate by voice, entirely offline via whisper.cpp. AI runs fully local through Ollama, Jan.ai, or LM Studio; cloud providers (OpenAI, Anthropic, Mistral) are strictly opt-in with your own API key. Every AI suggestion streams in as a live preview next to your text to accept, discard, or refine. Imports Word, PDF, and HTML offline, exports notes or whole folders to PDF, DOCX, ODT, or HTML. Built with Tauri 2 for Windows and Linux. MIT-licensed, no telemetry, no account. Interface available in 10 languages.
+
+
 [**Stik**](https://stik.ink) (FREE, open source)
 
 Stik is an instant thought capture app for macOS. Press a global hotkey and a post-it note appears — type your thought, close it, done. Notes are stored as plain markdown files in `~/Documents/Stik/`, organized into folders. Built with Tauri 2.0 (Rust + React) for native performance. Features include semantic search via on-device NLP, markdown editing with live preview, and image support.
