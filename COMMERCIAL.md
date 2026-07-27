@@ -36,6 +36,14 @@ no matter if the basic usage is free or you only have ads or such.
 
 ## Markdown Desktop Editors
 
+### Universal
+
+**OpenFiles**
+(web: [`openfiles.pansysoft.app`](https://openfiles.pansysoft.app),
+releases & issue tracker @ github [`pansysoft/openfiles.desktop`](https://github.com/pansysoft/openfiles.desktop)) (FREE, proprietary) -
+AI-native desktop file manager for macOS and Windows that opens and edits 350+ file formats. Its Markdown workspace includes WYSIWYG and source modes, GitHub Flavored Markdown, a live table of contents, syntax highlighting, local images and links, Mermaid, Graphviz, PlantUML, KaTeX, and HTML export. An integrated file-aware AI assistant helps generate, analyze, and revise content without leaving the desktop workflow.
+
+
 ### Apple Mac OS X
 
 **PrettyMD**
