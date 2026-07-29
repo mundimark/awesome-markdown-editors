@@ -38,6 +38,9 @@ no matter if the basic usage is free or you only have ads or such.
 
 ### Apple Mac OS X
 
+**Glance**
+(web: [`glance.md`](https://glance.md), releases & issues @ github [`maging-studio/glance`](https://github.com/maging-studio/glance)) (free to read; $9.99 one-time to edit) - Native macOS Markdown viewer and Quick Look extension in SwiftUI — no Electron, no WebView. Press Space on any `.md` file in Finder and it renders. LaTeX math and Mermaid diagrams are drawn natively with Core Graphics when the document opens, so nothing is fetched from a CDN to typeset them, plus syntax-highlighted fenced code and pretty-printed JSON/YAML. Find-in-file (⌘F), tabs (⌘T), pinch-zoom around the pointer, and print/PDF export (⌘P / ⇧⌘E) paginated on real block boundaries, so lines, table rows and diagrams are never sliced in half. Reading is free forever, with no account. Glance Pro (14-day trial, no card) adds editing in place — click any block in the rendered page and type, with inline formatting, table cells, editable Mermaid source, and a `⌘\` raw-Markdown split view whose scroll, cursor and selection stay in sync with the rendered page. ~10 MB, Apple Silicon, signed and notarized, auto-updating via Sparkle. Also on Homebrew (`brew tap maging-studio/tap`). macOS 14+.
+
 **PrettyMD**
 (web: [`prettymd.app`](https://prettymd.app)) ($19 one-time) - Simple, beautiful desktop app for reading and reviewing the Markdown your AI writes. Built for the `.md` files produced by AI tools like ChatGPT, Claude, and coding agents — clean typography, GitHub Flavored Markdown, and a calm reading view instead of raw text. One-time purchase, no subscription. Available for macOS (Apple Silicon) and Windows.
 
