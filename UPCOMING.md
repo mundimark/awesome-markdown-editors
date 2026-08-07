@@ -132,6 +132,10 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 (web: [`openmarkdown.dev`](https://openmarkdown.dev)) -
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
+**Glyph (macOS)**
+(web: [`glyphformac.com`](https://glyphformac.com/), open source @ github [`SidhuK/Glyph`](https://github.com/SidhuK/Glyph)) (paid, one-time purchase; 7-day trial) -
+Offline-first Markdown notes app for macOS with local file storage, search, tasks, and optional AI tools. AGPL-3.0 licensed.
+
 
 ## Markdown Mobile Editors
 
