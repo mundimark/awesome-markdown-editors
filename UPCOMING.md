@@ -24,6 +24,11 @@ A simple yet powerful Markdown-based note-taking app with WYSIWYG editing and lo
 Read-only Markdown (pre)viewer with inline review comments, distributed as a single standalone HTML file (also runnable via `npx mdxg-redline`). Implements the MDXG Viewer profile: Word/Pages-style stacked virtual pages, page navigation and outline, in-document search, and left-hand WASD keyboard navigation. Renders Shiki syntax highlighting (~235 languages), Mermaid diagrams, KaTeX math, and GitHub Flavored Markdown footnotes, with smartphone support. Select any text range to leave a comment; comments export as structured JSON keyed by headingPath and sourceLine, so an LLM agent can apply each one back to the exact lines. The standalone/CLI build makes no network requests (CSP connect-src 'none'); an optional online edition at mkdn.review fetches Markdown from an allowlisted public raw URL via a `?url=` parameter. MIT licensed.
 
 
+**Skim**
+(web: [`skim.md`](https://skim.md), open source @ github [`skim-md/skim`](https://github.com/skim-md/skim)) -
+A free, open-source Chrome and Firefox extension that turns any local or online Markdown file into a clean, readable page: live reload as the file changes on disk, KaTeX math, Mermaid diagrams, a table of contents sidebar, and a "Copy for AI" button that turns the rendered page back into clean Markdown. No account, no paywall, no telemetry.
+
+
 
 ## Markdown Desktop Editors
 
