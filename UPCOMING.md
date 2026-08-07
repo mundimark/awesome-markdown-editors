@@ -9,6 +9,10 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 ## Markdown Online Editors
 
+**Easy Markdown Editor**
+(web: [`easymarkdowneditor.com`](https://easymarkdowneditor.com), open source @ github [`krishnakrmahto/easymarkdowneditor`](https://github.com/krishnakrmahto/easymarkdowneditor)) -
+Free browser-based Markdown editor and viewer with live preview, GitHub Flavored Markdown, syntax-highlighted code blocks, and inline Mermaid diagram rendering. Documents are stored in browser localStorage only — no account, no server upload. One-click export to a standalone HTML file with diagrams embedded as SVGs for offline viewing. Built with Astro + React.
+
 **Bangle.io**
 (web: [`app.bangle.io`](https://app.bangle.io/), open source @ github [`bangle-io/bangle-io`](https://github.com/bangle-io/bangle-io)) -
 A simple yet powerful Markdown-based note-taking app with WYSIWYG editing and local-first storage.
