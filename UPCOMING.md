@@ -99,6 +99,10 @@ Fast, lightweight Markdown viewer and reader for Windows built with native C++ a
 
 ### Apple Mac OS X
 
+**Nodes**
+(web: [`nodes-web.com`](https://nodes-web.com), open source @ github [`nodes-app/swift-markdown-engine`](https://github.com/nodes-app/swift-markdown-engine)) -
+Native Markdown editor and notes app for macOS. Plain files on your Mac, no account, no sync server, no cloud. Headers, lists, tables, code blocks, and LaTeX, built on our open source Markdown engine written in Swift. Connect notes with `[[wikilinks]]` that follow renames, organize with tags instead of folders, and search by word or by meaning across the library. Visualize your notes as a graph, a timeline, or a growing tree. PDFs and images open as notes. An optional private assistant for tags, descriptions, and reminders runs entirely on your Mac. Nothing is uploaded and it works with Wi-Fi off. Free to try (16 nodes, 4 tags); paid tiers lift the caps and add import, export, library backup, and the agent.
+
 **Sly**
 (open source @ github [`waynevernon/sly`](https://github.com/waynevernon/sly)) -
 Markdown notes and tasks for macOS. Sly turns a folder of Markdown files into a keyboard-friendly writing and planning workspace with a rich text editor, Markdown source mode, task views, fast search, wikilinks, Mermaid diagrams, KaTeX math, Git support, optional AI helpers, and a CLI for terminal workflows.
