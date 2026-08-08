@@ -6,6 +6,8 @@ no matter if the basic usage is free or you only have ads or such.
 
 
 ## Markdown Online Editors
+**Text to Confluence**
+(web: [`texttoconfluence.com`](https://www.texttoconfluence.com/)) - Free browser-based editor for preparing plain text and Markdown as Confluence-ready rich text.
 
 
 **Markdown Writer**
