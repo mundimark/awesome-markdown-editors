@@ -133,6 +133,11 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
 
+**Imark**
+(open source @ github [`migsilva89/imark`](https://github.com/migsilva89/imark)) -
+Native macOS Markdown reader built with Swift and AppKit (~13 MB, not Electron). Reader-first: it never edits your prose. Comments are the one thing it writes, and they go into the `.md` file itself as HTML comments, so a note survives being emailed, committed, or opened elsewhere while staying invisible in every other renderer. Ships a Quick Look extension so `.md` files preview with the space bar in the Finder, follows the file while you edit it in another editor, and renders Mermaid, KaTeX and GitHub Flavored Markdown offline. Includes a Claude Code / Codex skill that hands a document to the reader and blocks until you press Approve or Request Changes, then feeds your margin notes back to the agent — no server, no port, nothing installed on the other side. MIT licensed, signed and notarized.
+
+
 ## Markdown Mobile Editors
 
 ### Android
