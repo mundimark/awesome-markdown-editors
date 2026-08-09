@@ -434,6 +434,10 @@ mxMarkEdit is a free software for Mac for writing texts and todo items in Markdo
 
 Free, open-source macOS editor with three-way merge for concurrent editing, auto-save, focus mode, git gutter markers, and PDF/HTML export. Built for workflows where multiple authors (including AI agents) edit the same files.
 
+[**SeqLog**](https://seqlog.com) (FREE)
+
+Native macOS outliner that keeps every note as a plain Markdown file in a folder you own, with no database and no proprietary format. Daily journal plus pages, `[[wikilinks]]` with backlinks, Git built in for history with inline diffs and per-file revert, ripgrep-backed full text search, and a command palette. Opens an existing Logseq vault in place, since it uses the same `journals/` and `pages/` layout. Written in Swift on AppKit, not Electron.
+
 ## Markdown Mobile Editors
 ### Android
 
