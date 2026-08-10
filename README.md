@@ -171,6 +171,10 @@ A free, open source, cross-platform Markdown editor based on Milkdown. It can al
 
 Inkwell is a portable, offline-first Markdown editor built with Rust and Tauri v2. A single executable (~3MB) with zero telemetry — no cloud, no account, data stays local. Features live preview, syntax highlighting, multiple themes, and cross-platform support (Windows, macOS, Linux).
 
+[**SimpleMark**](https://github.com/StevenRidder/simplemark) (FREE, open source @ github [`StevenRidder/simplemark`](https://github.com/StevenRidder/simplemark))
+
+SimpleMark is a local-first Markdown reader for documents your agents write. Always rendered, always your file: Mermaid, Vega-Lite, Graphviz, math, tables, and terminal evidence on one calm page, with byte-faithful corrections and native file watching. Pre-alpha macOS app built with Tauri.
+
 
 [**Kindling**](https://kindlingwriter.com) (FREE, open source @ github [`smith-and-web/kindling`](https://github.com/smith-and-web/kindling))
 
