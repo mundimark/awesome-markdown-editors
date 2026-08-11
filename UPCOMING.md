@@ -132,6 +132,10 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 (web: [`openmarkdown.dev`](https://openmarkdown.dev)) -
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
+**OATS**
+(web: [`ariso.ai`](https://ariso.ai), open source @ github [`ariso-ai/oats`](https://github.com/ariso-ai/oats)) -
+Open-source local-first macOS meeting-notes app that records conversations, creates live transcripts with speaker labels, and generates Markdown notes and summaries. Runs through a free cloud backend or fully offline on Apple Silicon Macs. MIT licensed.
+
 
 ## Markdown Mobile Editors
 
