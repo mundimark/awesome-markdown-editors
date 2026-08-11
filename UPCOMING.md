@@ -9,6 +9,8 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 ## Markdown Online Editors
 
+**md-editor** (web: [felipecarrillo100.github.io/md-editor](https://felipecarrillo100.github.io/md-editor/) , github: [felipecarrillo100/md-editor](https://github.com/felipecarrillo100/md-editor) ) - A privacy-first, serverless Markdown editor featuring live preview, real-time math and diagram rendering, and high-fidelity PDF/HTML export. Client-side link sharing enables seamless collaboration without sending document data to a server.
+
 **Bangle.io**
 (web: [`app.bangle.io`](https://app.bangle.io/), open source @ github [`bangle-io/bangle-io`](https://github.com/bangle-io/bangle-io)) -
 A simple yet powerful Markdown-based note-taking app with WYSIWYG editing and local-first storage.
