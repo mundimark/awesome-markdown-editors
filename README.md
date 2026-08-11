@@ -193,6 +193,10 @@ A Markdown equivalent to Notepad. A lightweight, performance-focused Markdown vi
 
 Nimbalyst is an AI-native workspace built on top of Claude Code that supports Markdown editing alongside code, diagrams, mockups, spreadsheets, and more. It features a Lexical-based rich text editor with live preview, AI chat with multi-provider support (Claude Code, Codex, local models). WYSIWYG Markdown editor. See AI's changes as red/green diffs, review and approve. Integrated mermaid editing. 
 
+[**NoteGen**](https://notegen.top/) (FREE, open source @ github [`codexu/note-gen`](https://github.com/codexu/note-gen))
+
+NoteGen is a cross-platform, local-first Markdown note-taking app for capturing scattered information and organizing it into structured notes with AI. Written notes remain ordinary Markdown files in a user-selected workspace.
+
 [**Splitmark**](https://splitmark.app/) (FREE, open source, Paid Syncing Option)
 
 A free, open-source CLI-based Markdown editor with a focus on speed and efficiency. It features a file explorer, live preview, keybindings, and a distraction-free mode. Splitmark is designed for users who prefer keyboard navigation and minimalistic interfaces. It offers a paid option for end-to-end encrypted cloud syncing across devices with access to a web editor.
