@@ -47,6 +47,9 @@ Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI a
 (web: [`markdown.pioul.fr`](http://markdown.pioul.fr),
  github: [`pioul/Minimalist-Online-Markdown-Editor`](https://github.com/pioul/Minimalist-Online-Markdown-Editor))
 
+**Persona**
+(github: [`jayamitkatariya/personacli`](https://github.com/jayamitkatariya/personacli)) - Local-first personal workspace with notes, tasks, and AI chat. Plain Markdown files, no accounts, no cloud.
+
 **StackEdit**
 (web: [`stackedit.io`](https://stackedit.io),
  github: [`benweet/stackedit`](https://github.com/benweet/stackedit))
