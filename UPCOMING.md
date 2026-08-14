@@ -72,6 +72,10 @@ Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organi
 (web: [`3xian.github.io/PinkDown`](https://3xian.github.io/PinkDown/), open source @ github [`3xian/PinkDown`](https://github.com/3xian/PinkDown)) -
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
 
+**VividMark**
+(web: [`scottli139.github.io/vividmark`](https://scottli139.github.io/vividmark/), open source @ github [`scottli139/vividmark`](https://github.com/scottli139/vividmark)) -
+Free, open-source, Typora-like WYSIWYG Markdown editor for Windows, macOS and Linux, built with Tauri 2 (Rust + React 19). Four view modes (WYSIWYG via Milkdown/ProseMirror, CodeMirror 6 source, split with sync scrolling, preview), KaTeX math, PlantUML diagrams, admonitions (callouts), task lists, and tables. Native menubar, Typora-style multi-window (SDI), dark mode, i18n (English / Chinese), PDF export, and one-click export of an opened docs folder as a deployable static site (mkdocs-style navigation, zero external dependencies). MkDocs-ready. MIT licensed.
+
 
 ### Linux
 
