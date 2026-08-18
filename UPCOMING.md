@@ -133,6 +133,11 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
 
+**Downright**
+(web: [`downright.cc`](https://downright.cc/), open source @ github [`ezzy1630/Downright`](https://github.com/ezzy1630/Downright)) -
+Free, MIT-licensed native macOS Markdown reader and editor built with AppKit and TextKit. Works with ordinary Markdown files without a vault or account, keeps source text authoritative while rendering, adds Quick Look and Finder thumbnails, and safely handles external rewrites from editors and coding agents. Requires macOS 14+.
+
+
 ## Markdown Mobile Editors
 
 ### Android
