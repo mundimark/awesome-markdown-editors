@@ -14,6 +14,11 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 A simple yet powerful Markdown-based note-taking app with WYSIWYG editing and local-first storage.
 
 
+**MarkGleam**
+(web: [`markgleam.com`](https://markgleam.com/en/), source @ github [`chess99/MarkGleam`](https://github.com/chess99/MarkGleam)) -
+Local-first Markdown visual workspace with live preview and PNG, WebP, SVG, and PDF export, plus GFM, code highlighting, KaTeX, Mermaid, and public README import.
+
+
 **markupmarkdown**
 (web: [`mumd.metavert.io`](https://mumd.metavert.io), open source @ github [`jonradoff/markupmarkdown`](https://github.com/jonradoff/markupmarkdown)) -
 "Google Docs for Markdown" — collaborative editor and review tool for Markdown files: anchored comment threads on any text selection, suggested changes with one-click apply, review states (approve / request changes), document checks, and GitHub round-trip (open any repo's `.md`, edit, push back as a PR). Includes an MCP server so AI agents can comment, suggest, and review through the same loop as humans. MIT licensed, built with Go + React.
