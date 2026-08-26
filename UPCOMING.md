@@ -96,6 +96,11 @@ Desktop Markdown editor for Windows with live preview and independently toggleab
 (web: [`tinta.cc`](https://tinta.cc), open source @ github [`oipoistar/tinta`](https://github.com/oipoistar/tinta)) -
 Fast, lightweight Markdown viewer and reader for Windows built with native C++ and Direct2D/DirectWrite for hardware-accelerated text rendering -- a single portable exe under 1 MB that cold-starts in ~200 ms, no Electron, no bundled browser, no installer. Designed as the double-click default for `.md` files: 10 themes (5 light, 5 dark incl. an OLED-friendly pure black), table of contents, folder browser, full-text search, rich tables, text selection, Ctrl+scroll zoom, drag & drop, and an edit mode with live preview. Installable via Scoop. MIT licensed.
 
+**ViewMD**
+(open source @ github [FXGears/viewmd](https://github.com/FXGears/viewmd)) -
+Read-only Markdown viewer for Windows. 758 KB single exe, sub-100ms cold start, dark theme, GitHub-width rendering. Rust + WebView2, no Electron, no bundled browser, no installer, no settings, no internet, no telemetry. Double-click a .md file, read it, close it. GPL-3.0 licensed.
+
+
 
 ### Apple Mac OS X
 
