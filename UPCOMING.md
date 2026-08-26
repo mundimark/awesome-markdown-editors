@@ -73,6 +73,11 @@ Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organi
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
 
 
+**Quillite Markdown**
+(web: [`qm.ssssa.cn`](https://qm.ssssa.cn/), open source @ github [`liuhang798/quillite-markdown`](https://github.com/liuhang798/quillite-markdown)) -
+Reading-first Markdown editor built with Go and Wails for Windows, macOS, and Linux. Works with ordinary local files and offers live split-view editing, visual tables, editable Mermaid flowcharts/state diagrams/mind maps, KaTeX math, and DOCX/HTML/PDF/image export. Includes Chinese and English interfaces. MIT licensed.
+
+
 ### Linux
 
 **qnote** 
