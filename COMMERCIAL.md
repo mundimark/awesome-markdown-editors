@@ -36,6 +36,12 @@ no matter if the basic usage is free or you only have ads or such.
 
 ## Markdown Desktop Editors
 
+### Universal
+
+**Inkdrop**
+(web: [`www.inkdrop.app`](https://www.inkdrop.app/)) ($9.98/mo) - AI-native Markdown note-taking app for developers, available on macOS, Windows, Linux, iOS, and Android. A built-in MCP server, agent-friendly note templates, and in-editor AI (inline assistant and Next Edit Suggestions) support. Renders code blocks, Mermaid diagrams, and KaTeX math; organizes with nestable notebooks, tags, note statuses, and full-text search; hackable to its core with a TypeScript plugin API, themes, vim keybindings, and a local HTTP server. End-to-end encrypted sync works out of the box across all platforms. Since 2016.
+
+
 ### Apple Mac OS X
 
 **PrettyMD**
