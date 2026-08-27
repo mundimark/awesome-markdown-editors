@@ -132,6 +132,10 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 (web: [`openmarkdown.dev`](https://openmarkdown.dev)) -
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
+**PX7 Markdown Viewer**
+(web: [`markdown.px7.digital/markdown-viewer`](https://markdown.px7.digital/markdown-viewer/), Homebrew: [`px7digital/tap/px7-markdown-viewer`](https://github.com/px7digital/homebrew-tap/blob/main/Casks/px7-markdown-viewer.rb)) -
+Free native macOS viewer and source editor for local `.md` files. It renders CommonMark and GitHub Flavored Markdown, resolves images from the file's folder, and adds a Quick Look extension for rendered Finder previews. Press Command-E to edit the source and Command-S to save it in place. Signed and notarized, no account or cloud service, macOS 14+.
+
 
 ## Markdown Mobile Editors
 
