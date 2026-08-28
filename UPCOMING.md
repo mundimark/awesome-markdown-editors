@@ -132,6 +132,10 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 (web: [`openmarkdown.dev`](https://openmarkdown.dev)) -
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
+**Markout**
+(open source @ github [`maxmilian/markout`](https://github.com/maxmilian/markout)) -
+Native macOS Markdown editor for Apple Silicon, built with SwiftUI + TextKit + WKWebView — a spiritual successor to the unmaintained MacDown. Split editor with live GitHub Flavored Markdown preview (cmark-gfm), editor to preview scroll sync, syntax highlighting with switchable editor and preview themes plus custom CSS, KaTeX math, Mermaid diagrams, table of contents generation, image paste/drop, find & replace, and export to standalone HTML or PDF. The highlight, math and diagram engines are vendored, so the preview renders fully offline with no CDN or network access. Installable via Homebrew (`brew install --cask maxmilian/tap/markout`), MIT licensed.
+
 
 ## Markdown Mobile Editors
 
