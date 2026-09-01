@@ -39,6 +39,12 @@ Features include table alignment, row and column operations, sorting, width fitt
 escaped pipe handling, Unicode/CJK width support, release ZIPs, tests, and CI.
 
 ### Universal
+**Legend Text**
+(web: [`alegend.io`](https://alegend.io)) (free) - Keyboard-native desktop Markdown editor
+for Windows and macOS. Points at any folder of `.md` files and leaves them exactly as they are:
+no schema, no database, no import step, no proprietary format. Built with Tauri 2 (Rust), not
+Electron. Tearable tabs, a live graph of the links between your notes, and one-click import from
+an existing markdown vault. Free, and the free feature set only grows.
 
 **Binderus** 
 (web: [`binderus.com`](https://www.binderus.com), open source frontend @ github [`binderus/binderus`](https://github.com/binderus/binderus)) -
