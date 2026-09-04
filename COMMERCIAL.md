@@ -26,6 +26,9 @@ no matter if the basic usage is free or you only have ads or such.
 **md0**
 (web: [`md0.io`](https://md0.io)) - Free suite of online Markdown tools. Includes a live editor with split-pane preview, WYSIWYG editor, table editor, and a full set of converters (Markdown to HTML, PDF, DOCX, CSV, Excel), generators (table, README, TOC), and a formatter. No login required for any tool.
 
+**MDFK Online**
+(web: [`md.mdfk.app`](https://md.mdfk.app)) - Free online Markdown editor with live preview, Mermaid diagrams, LaTeX math, syntax highlighting, and GFM tables. Export to PDF, Word, HTML, or PNG. No install or sign-up required. Available in 8 languages.
+
 
 ## Markdown CMS
 
@@ -58,3 +61,5 @@ Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). 
 (web: [`slatemd.app`](https://www.slatemd.app), download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases)) - 
 Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
 
+**MDFK**
+(web: [`mdfk.app`](https://mdfk.app)) (free) - Lightweight cross-platform Markdown viewer for macOS and Windows. Double-click any `.md` file to open it locally — renders GFM tables, code syntax highlighting, KaTeX math, Mermaid diagrams, callouts, and front matter. Export to PDF or HTML. No registration, no file uploads. Available in 8 languages.
