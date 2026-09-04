@@ -23,6 +23,8 @@ A simple yet powerful Markdown-based note-taking app with WYSIWYG editing and lo
 (web: [`mkdn.review`](https://mkdn.review/?url=https%3A%2F%2Fraw.githubusercontent.com%2Foubakiou%2Fmdxg-redline%2Frefs%2Fheads%2Fmain%2FREADME.md), open source @ github [`oubakiou/mdxg-redline`](https://github.com/oubakiou/mdxg-redline)) -
 Read-only Markdown (pre)viewer with inline review comments, distributed as a single standalone HTML file (also runnable via `npx mdxg-redline`). Implements the MDXG Viewer profile: Word/Pages-style stacked virtual pages, page navigation and outline, in-document search, and left-hand WASD keyboard navigation. Renders Shiki syntax highlighting (~235 languages), Mermaid diagrams, KaTeX math, and GitHub Flavored Markdown footnotes, with smartphone support. Select any text range to leave a comment; comments export as structured JSON keyed by headingPath and sourceLine, so an LLM agent can apply each one back to the exact lines. The standalone/CLI build makes no network requests (CSP connect-src 'none'); an optional online edition at mkdn.review fetches Markdown from an allowlisted public raw URL via a `?url=` parameter. MIT licensed.
 
+**MDFK Online**
+(web: [`md.mdfk.app`](https://md.mdfk.app)) - Free online Markdown editor with live preview, Mermaid diagrams, LaTeX math, syntax highlighting, and GFM tables. Export to PDF, Word, HTML, or PNG. No install or sign-up required — write and preview Markdown instantly in the browser. Available in 8 languages.
 
 
 ## Markdown Desktop Editors
@@ -72,6 +74,8 @@ Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organi
 (web: [`3xian.github.io/PinkDown`](https://3xian.github.io/PinkDown/), open source @ github [`3xian/PinkDown`](https://github.com/3xian/PinkDown)) -
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
 
+**MDFK**
+(web: [`mdfk.app`](https://mdfk.app)) - Free, lightweight Markdown viewer for macOS and Windows. Double-click any `.md` or `README.md` file to open it — local rendering with GFM tables, code syntax highlighting, KaTeX math, Mermaid diagrams, callouts, and front matter. Export to PDF or HTML. No registration, no file uploads, privacy-first. Available in 8 languages.
 
 ### Linux
 
