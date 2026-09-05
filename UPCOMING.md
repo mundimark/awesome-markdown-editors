@@ -25,6 +25,11 @@ Read-only Markdown (pre)viewer with inline review comments, distributed as a sin
 
 
 
+
+**Markdown Tools**
+(web: [`markdowntools.io`](https://www.markdowntools.io); commercial / no public source — also listed in COMMERCIAL.md) - Free browser Markdown suite: editor, Markdown↔PDF, Markdown to HTML, table generator, Word and README tools. No signup.
+
+
 ## Markdown Desktop Editors
 
 ### Editor Plugins
