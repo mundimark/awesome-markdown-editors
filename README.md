@@ -149,6 +149,10 @@ Editors designed to be used by developers for use in websites and web apps.
 
 ### Universal
 
+[**Quillpane**](https://quillpane.shreyam1008.com.np/) (FREE, open source)
+
+A local, offline Markdown notepad and file viewer for Windows, macOS, and Linux, with split-pane editing and preview. Formerly Markpad; [source code](https://github.com/shreyam1008/markpad).
+
 [**Caret**](https://caret.io/) ($29 for continued use)
 
 Features live preview, files sidebar, go to anything, advanced spell checker and a lot more.
