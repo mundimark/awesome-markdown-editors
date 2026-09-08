@@ -64,6 +64,10 @@ Reading-first native Markdown viewer for macOS and Windows with a lightweight ed
 (web: [`vorojar.github.io/md-preview`](https://vorojar.github.io/md-preview/), open source @ github [`vorojar/md-preview`](https://github.com/vorojar/md-preview)) -
 Ultra-lightweight cross-platform Markdown preview app built with Rust and the system WebView. Preview-first, no Electron or bundled browser, with GitHub Flavored Markdown, syntax highlighting, KaTeX math, Mermaid diagrams, dark mode, print support, live reload, and a small inline edit mode for quick fixes. Ships signed and notarized macOS DMG plus Windows and Linux builds.
 
+**nibeditor**
+(web: [`nibeditor.com`](https://nibeditor.com), open source @ github [`lxorb/nibeditor`](https://github.com/lxorb/nibeditor)) -
+Fast, lightweight Markdown editor with inline live preview (WYSIWYG) that renders as you type, built with Tauri 2 (Rust + Svelte). Runs on Windows (x64/arm64), macOS (universal) and Linux (x64/arm64), or in the browser with no install. Organizes notes into "spaces" (each just a folder of `.md` files) with tabs, a file tree and clipboard image paste. Syncs across desktop and mobile, publishes any file as an online blog in one click, and ships an MCP server so your LLM can read and write your notes. Installable via Scoop, Homebrew, Nix, `.deb`, `.rpm` or AppImage. Free, AGPL-3.0 licensed.
+
 **Noteriv**
 (web: [`noteriv.com`](https://www.noteriv.com), open source @ github [`thejacedev/Noteriv`](https://github.com/thejacedev/Noteriv)) -
 Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organizes `.md` files into vaults with wiki-links, backlinks, a force-directed graph view, kanban board, daily notes, full-text search, KaTeX math, Mermaid diagrams, and a `[TOC]` widget. Extensible via a plugin API and custom CSS themes, with Git and WebDAV sync. Cross-platform (Linux, macOS, Windows), MIT licensed.
