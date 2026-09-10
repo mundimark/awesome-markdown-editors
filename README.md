@@ -386,6 +386,10 @@ More / Articles
 
 - An easy pre-built Setup is provided.
 
+**PrettyReMark**
+(gitlab: [`DerellLicht/pretty-mark`](https://gitlab.com/DerellLicht/pretty-mark),
+ web: [`derelllicht.42web.io/PrettyReMark.html`](https://derelllicht.42web.io/PrettyReMark.html)) -
+PrettyReMark is a standalone Windows tabbed Markdown viewer with sidebar, derived from PrettyMark under the MIT license.
 
 **MDLook**
 (web: [`mdlook.com`](https://mdlook.com),
