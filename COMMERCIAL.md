@@ -36,6 +36,12 @@ no matter if the basic usage is free or you only have ads or such.
 
 ## Markdown Desktop Editors
 
+### Universal
+
+**Constly**
+(web: [`constly.com`](https://constly.com)) (free to use, optional one-time licence) - WYSIWYG Markdown editor for Microsoft Windows, Apple macOS and Linux, built with Tauri 2 (Rust + TypeScript). Markdown renders in place as you type and the raw marks show only on the line the cursor is on. Plain text stays the document: saving touches only the bytes you changed, so line endings, byte-order mark and trailing whitespace survive, and Markdown you did not edit is never re-wrapped, reordered or normalised. Tables are an editable grid that reflows to aligned pipes on exit. KaTeX math, Mermaid diagrams, command palette, workspace search, document outline, focus and typewriter modes, modal Vim with a status bar, and a git gutter diff against HEAD. Offline by default: no account, no telemetry, and remote images stay unloaded until you allow them. Exports to PDF, self-contained HTML, Word, ODT, RTF, LaTeX and EPUB.
+
+
 ### Apple Mac OS X
 
 **PrettyMD**
