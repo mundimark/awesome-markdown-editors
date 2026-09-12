@@ -108,6 +108,10 @@ Markdown notes and tasks for macOS. Sly turns a folder of Markdown files into a 
 Native macOS Markdown viewer built with Tauri 2 (Rust + TypeScript). View-only — no editing, no cloud, no accounts. Features syntax highlighting via Shiki (100+ languages), mermaid diagram rendering, auto-generated table of contents, GFM task lists, file watching with auto-reload and change highlighting, and drag-and-drop file opening. Privacy-first: remote images blocked by default, zero telemetry. ~8 MB, launches instantly.
 
 
+**JustMD**
+(web: [`justmd.nuta.life`](https://justmd.nuta.life/), open source @ github [`yuraist/just-md`](https://github.com/yuraist/just-md)) -
+Free, MIT-licensed Markdown editor for macOS 14 or later, built with Swift and AppKit. Edits ordinary local `.md` files and hides syntax outside the active line. Includes a rendered reading mode, clickable task lists, themes, autosave, and printing to PDF.
+
 **Kuku**
 (web: [`kuku.mom`](https://kuku.mom), open source @ github [`kuku-mom/kuku`](https://github.com/kuku-mom/kuku)) -
 Open-source local-first Markdown workspace for macOS. Kuku keeps notes as ordinary `.md` files in a local vault while adding search, backlinks, graph navigation, Second Brain workflows, AI-assisted edits, reviewable diffs, and optional encrypted sync.
