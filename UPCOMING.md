@@ -52,6 +52,9 @@ Cross-platform native Markdown viewer and editor built with Tauri 2 (Rust + Reac
 (open source @ github [huiyu9144/Huiyu-MD](https://github.com/huiyu9144/Huiyu-MD)) -
 Minimal, lightning-fast Markdown reader for Windows & macOS. Built with Tauri 2.0 (Rust + React). Features dark/light themes with auto-persist, Ctrl+scroll zoom (25%-400%), KaTeX math formula rendering, code blocks with syntax highlighting and one-click copy, drag & drop file opening, auto file association, and a right-click context menu. Only ~5 MB, starts instantly (< 0.3s), zero white flash. macOS builds are code-signed and notarized by Apple.
 
+[**markdown-proxy**](https://github.com/patakuti/markdown-proxy) (FREE, open source) -
+A single-binary HTTP proxy for viewing Markdown files in a browser (Go, no runtime dependencies). Renders local and remote Markdown — including GitHub/GitLab URLs — as HTML with GFM, Mermaid and server-side PlantUML diagrams, KaTeX math, syntax highlighting, and switchable CSS themes. Unlike single-pane IDE previewers, any number of files can be opened in separate browser tabs at once. Also supports live reload for local files, directory listings, line-anchor links (`file.md:12`), and a token-authenticated remote mode for sharing docs with a team. Works on Linux, macOS, and Windows.
+
 **Markra**
 (web: [`editor.markra.app`](https://editor.markra.app/), open source @ github [`murongg/markra`](https://github.com/murongg/markra)) -
 Local-first WYSIWYG Markdown editor for plain `.md` files with source mode, AI edit preview, multi-provider AI settings, and cross-platform Tauri desktop builds. AGPL-3.0 licensed.
