@@ -24,6 +24,10 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 
 ## Markdown Online Editors
 
+**localmd**
+(web: [`localmd.app`](https://localmd.app),
+ github: [`whitefoxx/localmd`](https://github.com/whitefoxx/localmd)) - Browser-only Markdown knowledge base that edits a folder on your own disk (File System Access API; Chrome/Edge): live-rendered editing, `[[wikilinks]]`, backlinks and a graph view, plus a built-in AI agent that reads the PDFs and EPUBs in the folder and cites the exact paragraph. No backend, no account; open source (MIT).
+
 **Markvim**
 (web: [`markvim.xyz`](https://markvim.xyz),
  github: [`SantiagoBobrik/markvim`](https://github.com/SantiagoBobrik/markvim)) - A minimalist Markdown editor with built-in Vim keybindings, live preview, and shareable links.
