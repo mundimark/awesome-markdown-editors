@@ -72,6 +72,10 @@ Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organi
 (web: [`3xian.github.io/PinkDown`](https://3xian.github.io/PinkDown/), open source @ github [`3xian/PinkDown`](https://github.com/3xian/PinkDown)) -
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
 
+**Markview**
+(open source @ github [`szdytom/markview`](https://github.com/szdytom/markview)) -
+Fast native Markdown reader for Linux, Windows and macOS: no browser, no WebView and no JavaScript, and the first readable frame stays around 80 ms from a 10 KiB note to a 1 MiB book. Publication-quality typography, with whole-paragraph Knuth-Plass line breaking, hyphenation, bounded justification, CJK punctuation conventions for SC, TC and JP, and inline and display LaTeX set with KaTeX fonts carried inside the binary. Small: ~11-15 MB install and tens of megabytes of resident memory. Read-only, so it does not edit or save; links to other `.md` files open as tabs and an edited file is watched and repainted in place. MIT licensed, written in Rust with wgpu.
+
 
 ### Linux
 
