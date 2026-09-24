@@ -36,6 +36,12 @@ no matter if the basic usage is free or you only have ads or such.
 
 ## Markdown Desktop Editors
 
+### Editor Plugins
+
+**Markdown Preview Plus**
+(web: [`plugins.jetbrains.com/plugin/34045-markdown-preview-plus`](https://plugins.jetbrains.com/plugin/34045-markdown-preview-plus)) (free, paid export) -
+Markdown preview plugin for JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm and the rest). Opens as an extra tab beside the editor, renders in the bundled browser engine (JCEF) with GitHub Flavored Markdown, tables, task lists and Mermaid diagrams, follows the active IDE colour scheme in light and dark, updates as you type from the open document rather than the file on disk, and keeps the scroll position across tab switches and restarts. Mermaid is bundled, so nothing is downloaded and no content leaves the machine. It also detects and repairs a lost `.md` file association. Free for the whole preview; exporting to PDF or a single self-contained HTML file, copying with formatting, printing and custom stylesheets are the paid tier.
+
 ### Apple Mac OS X
 
 **PrettyMD**
