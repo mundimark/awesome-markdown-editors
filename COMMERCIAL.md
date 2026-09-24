@@ -38,6 +38,9 @@ no matter if the basic usage is free or you only have ads or such.
 
 ### Apple Mac OS X
 
+**Inkstone**
+(web: [`inkstone.md`](https://inkstone.md)) ($29.99 one-time, free 14-day trial) - Native macOS WYSIWYG Markdown editor built with SwiftUI and an embedded ProseMirror/Milkdown editor, not Electron. Renders Markdown as you type and edits plain `.md` files in place in any folder, including those written by coding agents, and reloads them live when other programs change them. Supports GitHub Flavored Markdown (tables, task lists, footnotes, strikethrough), syntax-highlighted code blocks, KaTeX math, YAML front matter, `[[wikilinks]]` across folders (compatible with Obsidian vaults), per-file version history, focus and typewriter modes, and tabs and split panes. No database, no account. macOS 14+.
+
 **PrettyMD**
 (web: [`prettymd.app`](https://prettymd.app)) ($19 one-time) - Simple, beautiful desktop app for reading and reviewing the Markdown your AI writes. Built for the `.md` files produced by AI tools like ChatGPT, Claude, and coding agents — clean typography, GitHub Flavored Markdown, and a calm reading view instead of raw text. One-time purchase, no subscription. Available for macOS (Apple Silicon) and Windows.
 
