@@ -27,6 +27,10 @@ no matter if the basic usage is free or you only have ads or such.
 (web: [`md0.io`](https://md0.io)) - Free suite of online Markdown tools. Includes a live editor with split-pane preview, WYSIWYG editor, table editor, and a full set of converters (Markdown to HTML, PDF, DOCX, CSV, Excel), generators (table, README, TOC), and a formatter. No login required for any tool.
 
 
+**nTilia**
+(web: [`ntilia.com`](https://ntilia.com)) - Offline-first Markdown field notebook for journalists, humanitarians and researchers. Capture notes, audio, photos and GPS on-device with Missions and a local vault; Pro includes on-device Whisper transcription; when online, approve-first AI edits; publish a bilingual FR/EN journal or deposit a Zenodo DOI. Free + Pro/Pro+/Newsroom.
+
+
 ## Markdown CMS
 
 
