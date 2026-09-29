@@ -27,6 +27,10 @@ no matter if the basic usage is free or you only have ads or such.
 (web: [`md0.io`](https://md0.io)) - Free suite of online Markdown tools. Includes a live editor with split-pane preview, WYSIWYG editor, table editor, and a full set of converters (Markdown to HTML, PDF, DOCX, CSV, Excel), generators (table, README, TOC), and a formatter. No login required for any tool.
 
 
+**Markdown Bench**
+(web: [`markdownbench.com`](https://markdownbench.com)) - Free, no-account Markdown tools that run entirely in the browser: live editor with toolbar, shortcuts and scroll sync; `.md` file viewer; table generator (paste from Excel or Google Sheets, undo/redo, share a table by link); HTML and rich text to Markdown. Exports a real Word `.docx` (heading styles, numbered lists, tables), PDF with paper-size control, HTML and plain text. Nothing is uploaded, and the page shows a live count of outside network requests.
+
+
 ## Markdown CMS
 
 
