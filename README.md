@@ -115,6 +115,11 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
   **MD2PDF.cc**
  (web: [`md2pdf.cc`](https://md2pdf.cc/)), - A privacy-first, client-side Markdown to PDF converter with KaTeX & Mermaid support.
 
+ **MDTool**
+(web: [`mdtool.dev`](https://www.mdtool.dev),
+ github: [`usmankhan045/mdtool`](https://github.com/usmankhan045/mdtool)) - Free, open-source, client-side Markdown editor and converter. Exports vector PDF (with Mermaid diagrams and syntax highlighting), Word .docx with native Heading 1–6 styles, HTML and plain text; also converts Word and HTML back to Markdown. No signup, no uploads.
+
+
 **Taskade**
 (web: [`taskade.com`](https://taskade.com),
  github: [`taskade/taskade`](https://github.com/taskade/taskade)) - Collaborative workspace with a built-in Markdown editor, real-time collaboration, AI writing assistance, and structured task management. Supports multiple views including lists, boards, and mind maps.
