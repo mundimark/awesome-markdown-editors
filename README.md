@@ -172,6 +172,10 @@ A free, open source, cross-platform Markdown editor based on Milkdown. It can al
 Inkwell is a portable, offline-first Markdown editor built with Rust and Tauri v2. A single executable (~3MB) with zero telemetry — no cloud, no account, data stays local. Features live preview, syntax highlighting, multiple themes, and cross-platform support (Windows, macOS, Linux).
 
 
+[**iureditor**](https://github.com/ellaguno/iureditor) (FREE, open source)
+
+WYSIWYG markdown editor for Windows, Mac and Linux built with Tauri and TipTap: edit markdown as rich text with tabs, live Mermaid diagrams, LaTeX formulas, footnotes and a table of contents, and export to PDF, DOCX and HTML.
+
 [**Kindling**](https://kindlingwriter.com) (FREE, open source @ github [`smith-and-web/kindling`](https://github.com/smith-and-web/kindling))
 
 Kindling is a novel writing app that bridges outlining and drafting. Your outline's scene beats become expandable prompts inside a focused drafting space. Built with Rust and Tauri for Windows, macOS, and Linux. All data stays local on your machine.
