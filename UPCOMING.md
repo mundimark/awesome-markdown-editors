@@ -52,6 +52,10 @@ Cross-platform native Markdown viewer and editor built with Tauri 2 (Rust + Reac
 (open source @ github [huiyu9144/Huiyu-MD](https://github.com/huiyu9144/Huiyu-MD)) -
 Minimal, lightning-fast Markdown reader for Windows & macOS. Built with Tauri 2.0 (Rust + React). Features dark/light themes with auto-persist, Ctrl+scroll zoom (25%-400%), KaTeX math formula rendering, code blocks with syntax highlighting and one-click copy, drag & drop file opening, auto file association, and a right-click context menu. Only ~5 MB, starts instantly (< 0.3s), zero white flash. macOS builds are code-signed and notarized by Apple.
 
+**Markdific**
+(web: [`markdific.com`](https://markdific.com)) (free viewer; $12.99 one-time for editing and export) - Markdown viewer and editor for Mac, Windows and Linux. Opens `.md` files directly as formatted documents, with no library or workspace to set up. Renders tables, syntax-highlighted code, LaTeX math, Mermaid diagrams, and web, local and pasted images. Edit visually in WYSIWYG mode, or in split view with a live preview beside the Markdown source. Includes tabs, an outline sidebar, autosave, themes and fonts, presentation mode, and export to PDF, Word and HTML. On Mac, a Quick Look extension previews `.md` files in Finder.
+
+
 **Markra**
 (web: [`editor.markra.app`](https://editor.markra.app/), open source @ github [`murongg/markra`](https://github.com/murongg/markra)) -
 Local-first WYSIWYG Markdown editor for plain `.md` files with source mode, AI edit preview, multi-provider AI settings, and cross-platform Tauri desktop builds. AGPL-3.0 licensed.

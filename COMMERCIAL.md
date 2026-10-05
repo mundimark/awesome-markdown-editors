@@ -58,3 +58,10 @@ Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). 
 (web: [`slatemd.app`](https://www.slatemd.app), download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases)) - 
 Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
 
+
+### Universal
+
+**Markdific**
+(web: [`markdific.com`](https://markdific.com)) (free viewer; $12.99 one-time for editing and export) - Markdown viewer and editor for Mac, Windows and Linux. Opens `.md` files directly as formatted documents, with no library or workspace to set up. Renders tables, syntax-highlighted code, LaTeX math, Mermaid diagrams, and web, local and pasted images. Edit visually in WYSIWYG mode, or in split view with a live preview beside the Markdown source. Includes tabs, an outline sidebar, autosave, themes and fonts, presentation mode, and export to PDF, Word and HTML. On Mac, a Quick Look extension previews `.md` files in Finder.
+
+
