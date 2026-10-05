@@ -19,6 +19,10 @@ no matter if the basic usage is free or you only have ads or such.
 (web: [`pdf2md.pro`](https://pdf2md.pro/)), - Free online PDF to Markdown converter with browser-based processing for full privacy. Supports batch conversion, smart formatting detection, and live preview.
 
 
+**PDF to MD**
+(web: [`pdf-to-md.app`](https://pdf-to-md.app/)) - Converts text-based PDFs to editable Markdown locally in the browser, with preview, batch conversion, and ZIP downloads. Optional paid cloud OCR for scanned PDFs requires uploading files.
+
+
 **MarkdownEdit**
 (web: [`markdownedit-silk.vercel.app`](https://markdownedit-silk.vercel.app)) - Free split-pane Markdown editor with live preview and syntax highlighting. No signup required. Features instant rendering and a clean, distraction-free interface.
 
