@@ -41,6 +41,9 @@ no matter if the basic usage is free or you only have ads or such.
 **PrettyMD**
 (web: [`prettymd.app`](https://prettymd.app)) ($19 one-time) - Simple, beautiful desktop app for reading and reviewing the Markdown your AI writes. Built for the `.md` files produced by AI tools like ChatGPT, Claude, and coding agents — clean typography, GitHub Flavored Markdown, and a calm reading view instead of raw text. One-time purchase, no subscription. Available for macOS (Apple Silicon) and Windows.
 
+**Macaroni**
+(web: [`macaroni.noodledragon.studio`](https://macaroni.noodledragon.studio), Mac App Store: [`id6816400518`](https://apps.apple.com/app/id6816400518)) ($14.99 one-time) - Native macOS Markdown viewer built with AppKit, read-only. Open one file, or point it at a folder: it watches the whole tree, lists the files changed since you last read them, and shows a line-by-line diff of each against the version you last read, with no git involved. Renders GitHub Flavored Markdown with tables, task lists, footnotes, alerts, Mermaid diagrams, KaTeX math and highlighted code, all offline, plus a Quick Look extension for Finder. Made for reading what AI agents such as Claude Code, Cursor and Codex write into a project. Sandboxed, no networking code, no account, no telemetry. macOS 15+, Apple silicon and Intel.
+
 **MacMD Viewer** 
 (web: [`macmdviewer.com`](https://macmdviewer.com)) ($19.99 one-time) - Native macOS Markdown viewer in SwiftUI — read-only, pairs with your editor of choice. Renders GitHub Flavored Markdown via WKWebView, with Mermaid diagrams, syntax highlighting for 190+ languages, and a QuickLook extension (press Space on any `.md` file in Finder). Live file reload (~50ms refresh after disk write) makes it well-suited for previewing files written by AI agents like Claude Code, Cursor, or Copilot. 2 MB binary, native Apple Silicon, no Electron. macOS 14+.
 
