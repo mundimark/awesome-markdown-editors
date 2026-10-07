@@ -13,7 +13,7 @@ no matter if the basic usage is free or you only have ads or such.
 
 **Comment.io**
 (web: [`comment.io`](https://comment.io),
- issues & integration samples @ github: [`comment-io/comment.io`](https://github.com/comment-io/comment.io)) - Agent-native document editor. @mention an agent — it reads the doc and responds via webhook, autonomously. Humans and agents reading, commenting, and editing markdown together, with per-edit authorship tracking.
+ MCP guide: [`comment.io/llms/mcp.md`](https://comment.io/llms/mcp.md)) - Shared documents where people and agents work together, with human corrections keeping shared knowledge current.
 
 **PDF2MD.pro**
 (web: [`pdf2md.pro`](https://pdf2md.pro/)), - Free online PDF to Markdown converter with browser-based processing for full privacy. Supports batch conversion, smart formatting detection, and live preview.
