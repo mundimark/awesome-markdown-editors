@@ -72,6 +72,10 @@ Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organi
 (web: [`3xian.github.io/PinkDown`](https://3xian.github.io/PinkDown/), open source @ github [`3xian/PinkDown`](https://github.com/3xian/PinkDown)) -
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
 
+**Ritemark**
+(web: [`ritemark.app`](https://ritemark.app), open source @ github [`ProductoryHQ/ritemark-native`](https://github.com/ProductoryHQ/ritemark-native)) -
+Desktop Markdown writing app for macOS and Windows with a visual (WYSIWYG) editor for plain `.md` files in a local folder. The AI agent you already use (Claude Code, Codex or OpenCode) works directly in the same files, with a built-in terminal beside the document. Mermaid and draw.io diagrams, comments you can hand to the agent, and export to Word and PDF. MIT licensed.
+
 
 ### Linux
 
