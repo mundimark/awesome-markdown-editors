@@ -96,6 +96,10 @@ Desktop Markdown editor for Windows with live preview and independently toggleab
 (web: [`tinta.cc`](https://tinta.cc), open source @ github [`oipoistar/tinta`](https://github.com/oipoistar/tinta)) -
 Fast, lightweight Markdown viewer and reader for Windows built with native C++ and Direct2D/DirectWrite for hardware-accelerated text rendering -- a single portable exe under 1 MB that cold-starts in ~200 ms, no Electron, no bundled browser, no installer. Designed as the double-click default for `.md` files: 10 themes (5 light, 5 dark incl. an OLED-friendly pure black), table of contents, folder browser, full-text search, rich tables, text selection, Ctrl+scroll zoom, drag & drop, and an edit mode with live preview. Installable via Scoop. MIT licensed.
 
+**NeoText**
+(web: [`apps.microsoft.com/detail/9PG680TWN0LC`](https://apps.microsoft.com/detail/9PG680TWN0LC), open source @ github [`atukay/NeoText`](https://github.com/atukay/NeoText)) -
+A fast, lightweight native Windows Markdown and document workspace built with C# WinForms and WebView2. Features a multi-tabbed interface, distraction-free fullscreen mode (F11), typewriter scrolling, in-document find and replace, interactive tasklists, 100% offline KaTeX math rendering (59 local fonts), Prism.js syntax highlighting, and 20 built-in languages with zero Electron bloat (~7MB RAM). GPLv3 licensed.
+
 
 ### Apple Mac OS X
 
