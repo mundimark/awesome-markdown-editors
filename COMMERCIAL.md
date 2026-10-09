@@ -38,6 +38,9 @@ no matter if the basic usage is free or you only have ads or such.
 
 ### Apple Mac OS X
 
+**Return Editor**
+(web: [`returneditor.ai`](https://returneditor.ai/)) (free; Pro $39/month) - Desktop Markdown editor with built-in local AI for contracts and long documents. Marks clauses green/amber/red by risk, answers questions with citations to the exact section, and shows AI-drafted fixes as accept/reject diffs. Local semantic search over the Markdown files on disk, PDF and Word import, formulas and charts in documents. Files stay as plain `.md` on your disk. Free plan runs local AI (bundled llama.cpp server, GGUF models) with no account; Pro adds cloud AI by Anthropic. Built with Tauri 2 (Rust + web UI), not Electron. macOS 14+ (native Apple Silicon) and Windows 10/11 (x64).
+
 **PrettyMD**
 (web: [`prettymd.app`](https://prettymd.app)) ($19 one-time) - Simple, beautiful desktop app for reading and reviewing the Markdown your AI writes. Built for the `.md` files produced by AI tools like ChatGPT, Claude, and coding agents — clean typography, GitHub Flavored Markdown, and a calm reading view instead of raw text. One-time purchase, no subscription. Available for macOS (Apple Silicon) and Windows.
 
