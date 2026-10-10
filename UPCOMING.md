@@ -68,6 +68,10 @@ Ultra-lightweight cross-platform Markdown preview app built with Rust and the sy
 (web: [`noteriv.com`](https://www.noteriv.com), open source @ github [`thejacedev/Noteriv`](https://github.com/thejacedev/Noteriv)) -
 Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organizes `.md` files into vaults with wiki-links, backlinks, a force-directed graph view, kanban board, daily notes, full-text search, KaTeX math, Mermaid diagrams, and a `[TOC]` widget. Extensible via a plugin API and custom CSS themes, with Git and WebDAV sync. Cross-platform (Linux, macOS, Windows), MIT licensed.
 
+**Oleafly**
+(web: [`oleafly.com`](https://oleafly.com), open source @ github [`Oleafly/Oleafly`](https://github.com/Oleafly/Oleafly)) -
+Desktop editor for writing research papers, theses, reports and resumes in Markdown, LaTeX and Typst, with a live PDF preview. Includes a visual editor, a template gallery, Zotero citations, Git history, local proofreading and an optional AI assistant that works with your own model or API key (cloud or local, e.g. Ollama). Ships its own LaTeX engine (Tectonic), so no TeX install is needed. Built with Tauri (Rust + React/TypeScript). Works offline on macOS, Windows and Linux, with no account needed. AGPL-3.0 licensed.
+
 **PinkDown**
 (web: [`3xian.github.io/PinkDown`](https://3xian.github.io/PinkDown/), open source @ github [`3xian/PinkDown`](https://github.com/3xian/PinkDown)) -
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
