@@ -298,6 +298,10 @@ Scratch is a lightweight, offline-first markdown notes app with WYSIWYG editing 
 [The code resides on GitHub](https://github.com/erictli/scratch)
 
 
+[**Ashlr MD**](https://md.ashlr.ai) (FREE, open source @ github [`ashlrai/ashlr-md`](https://github.com/ashlrai/ashlr-md))
+
+Markdown reader and editor for macOS, Windows and Linux that opens any .md file rendered, with editing, export, optional on-device AI, and an MCP server for agent integration. Built with Tauri; MIT licensed.
+
 ### Linux
 
 **Retext**
