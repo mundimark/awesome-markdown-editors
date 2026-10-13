@@ -422,6 +422,10 @@ mdnb is a free, native macOS app built in Swift (not Electron or Tauri). Files a
 
 Native macOS Markdown reader focused on fast preview and workspace workflows. Features file and folder watching with live change tracking, collapsible sidebar with subfolder grouping, and saveable folder favorites. Also available on the [App Store](https://apps.apple.com/app/id6760550501).
 
+[**MarkRead**](https://markread.cn/en/)
+
+Native, read-only Markdown reader for Mac, iPhone and iPad; free with optional Pro. Pages lays documents out in 1–4 columns side by side, Stack collapses them into a pile, and Scroll is one click away; headings never end a page and long code blocks break between lines. Available on the [App Store](https://apps.apple.com/us/app/markread-markdown-reader/id6803164224?platform=mac).
+
 [**Nota**](https://nota.md) ($29 for continued use)
 
 Pro writing app designed for local Markdown files. Nota is a beautiful and easy to use writing app that's also powerful and efficient. Its simple design enables a wide range of uses: from notes and wikis, to static blogs and websites, to articles and books. It works with local Markdown files to keep your data completely in your control.
