@@ -72,6 +72,10 @@ Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organi
 (web: [`3xian.github.io/PinkDown`](https://3xian.github.io/PinkDown/), open source @ github [`3xian/PinkDown`](https://github.com/3xian/PinkDown)) -
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
 
+**writui**
+(web: [`writui.com`](https://writui.com/), open source @ github [`aakashns/writui`](https://github.com/aakashns/writui)) -
+Terminal Markdown writing app for macOS and Linux. Write in a password-encrypted local vault, see formatting as you type, save named versions, and export posts as `.md` files. MIT licensed.
+
 
 ### Linux
 
