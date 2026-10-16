@@ -99,6 +99,10 @@ Fast, lightweight Markdown viewer and reader for Windows built with native C++ a
 
 ### Apple Mac OS X
 
+**Glim**
+(open source @ github [`NeoPanic/Glim`](https://github.com/NeoPanic/Glim)) -
+Free, MIT-licensed macOS file viewer built with Rust and GPUI Kit. Reads Markdown with Mermaid diagrams, tables and LaTeX formulas, with source switching and basic text editing. Documents, images, JSON, CSV and source code can stay in the same workspace. Supports Apple Silicon and Intel.
+
 **Sly**
 (open source @ github [`waynevernon/sly`](https://github.com/waynevernon/sly)) -
 Markdown notes and tasks for macOS. Sly turns a folder of Markdown files into a keyboard-friendly writing and planning workspace with a rich text editor, Markdown source mode, task views, fast search, wikilinks, Mermaid diagrams, KaTeX math, Git support, optional AI helpers, and a CLI for terminal workflows.
