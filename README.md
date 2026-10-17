@@ -67,6 +67,8 @@ Collaborative Markdown editor with GitHub sync, WYSIWYG rendering, hosting, AI a
 **HackMD**
 (web: [`hackmd.io`](http://hackmd.io/),
  github: [`HackMD`](https://github.com/hackmdio)) - Allows collaboration and more UI options. Link to Github is maintained.
+**MySkills.info**
+(web: [`myskills.info`](https://myskills.info)) - Browser-based Markdown editor with one-click PDF export. No account, no upload, runs entirely client-side.
 
 <!--
  see https://github.com/mundimark/awesome-markdown-editors/issues/67
