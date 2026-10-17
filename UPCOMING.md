@@ -154,3 +154,7 @@ Open-source Markdown presentation renderer/exporter for turning `.md` decks into
 **License**
 
 The awesome list is released under [the Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/), meaning it is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+**TrailMark**
+(web: [`edelmarschneider.github.io/trailmark`](https://edelmarschneider.github.io/trailmark/), open source @ github [`EdelmarSchneider/trailmark`](https://github.com/EdelmarSchneider/trailmark)) -
+*Read what your AI writes. Write what it reads.* As software engineering shifts from typing code to planning, formalizing specifications, and directing AI agents, Markdown has become the shared language between human and machine—and TrailMark is the desktop IDE built for that workflow. It closes the gap between developers and any AI agent with live block-level highlights as files change on disk, removal markers, unread tracking across commits and git worktrees, section and tag search, inline passage comments, and an optional local MCP server so agents see what you are reading and resolve your feedback. At the same time, it opens any standalone `.md` file as a book-like page (tables, task lists, Mermaid diagrams, KaTeX math, ~190 highlighted languages, image/audio/video viewer), offers block-preserving Visual (WYSIWYG) and Source editing, and keeps self-saving notes for drafting prompts and maturing ideas. Built with Tauri 2 (Rust + Svelte 5) for Windows, macOS, and Linux; dual-licensed MIT/Apache-2.0.
