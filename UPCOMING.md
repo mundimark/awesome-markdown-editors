@@ -40,6 +40,10 @@ escaped pipe handling, Unicode/CJK width support, release ZIPs, tests, and CI.
 
 ### Universal
 
+**Backtickle**
+(web: [`masud90.github.io/backtickle`](https://masud90.github.io/backtickle/), open source @ github [`masud90/backtickle`](https://github.com/masud90/backtickle)) -
+Markdown reader and editor with the source on the left and the formatted document on the right. Detects six flavors (CommonMark, GFM, Obsidian, Pandoc, Quarto / R Markdown, MDX); renders KaTeX math, Mermaid and Graphviz diagrams, BibTeX/CSL citations and callouts; exports to HTML, PDF and Word (through Pandoc). Never runs anything inside a document and makes no network requests of its own. Built with Tauri 2, Svelte 5 and CodeMirror 6; works on macOS, Windows and Linux. MIT licensed.
+
 **Binderus** 
 (web: [`binderus.com`](https://www.binderus.com), open source frontend @ github [`binderus/binderus`](https://github.com/binderus/binderus)) -
 Local-first note-taking app with Notion-style WYSIWYG editing for plain text and Markdown files, Obsidian-style philosophy for local files, a plugin system with AI/LLM plugin, custom themes, and optional encrypted vaults. No cloud, no account, no subscription. ~9 MB, built with Tauri + Rust, works on Windows, Mac, and Linux.
