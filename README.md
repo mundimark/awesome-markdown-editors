@@ -119,6 +119,10 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 (web: [`taskade.com`](https://taskade.com),
  github: [`taskade/taskade`](https://github.com/taskade/taskade)) - Collaborative workspace with a built-in Markdown editor, real-time collaboration, AI writing assistance, and structured task management. Supports multiple views including lists, boards, and mind maps.
 
+**md2pdf**
+(web: [`md2pdf.marcopontili.com`](https://md2pdf.marcopontili.com),
+ github: [`marcop135/md2pdf`](https://github.com/marcop135/md2pdf)) - Offline Markdown to PDF editor (PWA) with GitHub-flavored Markdown, syntax highlighting, Mermaid, and live preview on desktop and phone. Nothing is uploaded.
+
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
