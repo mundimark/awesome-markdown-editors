@@ -27,6 +27,10 @@ no matter if the basic usage is free or you only have ads or such.
 (web: [`md0.io`](https://md0.io)) - Free suite of online Markdown tools. Includes a live editor with split-pane preview, WYSIWYG editor, table editor, and a full set of converters (Markdown to HTML, PDF, DOCX, CSV, Excel), generators (table, README, TOC), and a formatter. No login required for any tool.
 
 
+**ToolKnit Markdown Editor**
+(web: [`toolknit.com/tools/markdown-editor.html`](https://toolknit.com/tools/markdown-editor.html)) - Browser-based split-pane editor with live preview, local draft storage, Markdown file download and rendered HTML copying.
+
+
 ## Markdown CMS
 
 
