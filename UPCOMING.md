@@ -99,6 +99,11 @@ Fast, lightweight Markdown viewer and reader for Windows built with native C++ a
 
 ### Apple Mac OS X
 
+**Pinto Notes**
+(web: [`pintonotes.com`](https://pintonotes.com), open source @ github [`pinto-notes/pinto-notes`](https://github.com/pinto-notes/pinto-notes)) -
+Native Mac notes app that works like Apple Notes, with markdown underneath and formatted text on screen: headings, checklists, tables, links and [[wiki links]]. Imports Apple Notes, Evernote, Google Keep and markdown or text folders from Obsidian, Bear, Joplin and others. ChatGPT, Claude and other AI assistants can search, read and edit notes through an MCP server, with every change kept and undoable. Notes are encrypted. MIT licensed.
+
+
 **Sly**
 (open source @ github [`waynevernon/sly`](https://github.com/waynevernon/sly)) -
 Markdown notes and tasks for macOS. Sly turns a folder of Markdown files into a keyboard-friendly writing and planning workspace with a rich text editor, Markdown source mode, task views, fast search, wikilinks, Mermaid diagrams, KaTeX math, Git support, optional AI helpers, and a CLI for terminal workflows.
