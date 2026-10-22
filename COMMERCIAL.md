@@ -26,6 +26,8 @@ no matter if the basic usage is free or you only have ads or such.
 **md0**
 (web: [`md0.io`](https://md0.io)) - Free suite of online Markdown tools. Includes a live editor with split-pane preview, WYSIWYG editor, table editor, and a full set of converters (Markdown to HTML, PDF, DOCX, CSV, Excel), generators (table, README, TOC), and a formatter. No login required for any tool.
 
+**Markdown File Viewer**
+(web: [`markdownfileviewer.com`](https://markdownfileviewer.com)) - Free, client-side Markdown file viewer: open, paste or drag a .md file and see it rendered as formatted HTML in any browser. Also converts Markdown to HTML and shows the README of any public GitHub repo. No install, no account.
 
 ## Markdown CMS
 
