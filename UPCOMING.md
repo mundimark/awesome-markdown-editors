@@ -88,6 +88,10 @@ A small, fast, portable standalone native Windows markdown editor. You edit a re
 Tauri 2, Edge WebView2, TipTap, Vite + vanilla TypeScript.
 
 
+**Mark**
+(open source @ github [`xronocode/mark`](https://github.com/xronocode/mark)) -
+A native WYSIWYG Markdown editor for macOS and Windows, made for working alongside AI agents: read and edit the files they write while they write them, and diff a note against the version you opened. Free and open source (MIT), in the Mac App Store too.
+
 **Markdown Studio**
 (open source @ github [`Financialnews-ops/markdown-studio-by-htny`](https://github.com/Financialnews-ops/markdown-studio-by-htny)) -
 Desktop Markdown editor for Windows with live preview and independently toggleable editor/preview panes. Built with Electron, parsing via marked and HTML sanitized with DOMPurify. Includes a formatting toolbar (headings, bold, italic, strikethrough, inline code, quotes, ordered/unordered lists, links, images, tables) and one-click export to PDF, DOCX (Word), and Obsidian-flavored Markdown, plus PDF text import. Fully offline â€” documents stay in a local `Documents/MarkdownStudio` folder. Ships an NSIS installer via signed-tag GitHub Releases. MIT licensed.
@@ -111,6 +115,10 @@ Native macOS Markdown viewer built with Tauri 2 (Rust + TypeScript). View-only â
 **Kuku**
 (web: [`kuku.mom`](https://kuku.mom), open source @ github [`kuku-mom/kuku`](https://github.com/kuku-mom/kuku)) -
 Open-source local-first Markdown workspace for macOS. Kuku keeps notes as ordinary `.md` files in a local vault while adding search, backlinks, graph navigation, Second Brain workflows, AI-assisted edits, reviewable diffs, and optional encrypted sync.
+
+**Mark**
+(open source @ github [`xronocode/mark`](https://github.com/xronocode/mark)) -
+A native WYSIWYG Markdown editor for macOS and Windows, made for working alongside AI agents: read and edit the files they write while they write them, and diff a note against the version you opened. Free and open source (MIT), in the Mac App Store too.
 
 **marka.md**
 (web: [`markamd.vercel.app`](https://markamd.vercel.app), open source @ github [`mattenarle10/markamd`](https://github.com/mattenarle10/markamd)) - 
