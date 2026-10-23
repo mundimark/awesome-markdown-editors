@@ -58,3 +58,9 @@ Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). 
 (web: [`slatemd.app`](https://www.slatemd.app), download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases)) - 
 Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
 
+
+
+**MarkdownCafe**
+(web: [`getapps.cafe/app/markdowncafe`](https://getapps.cafe/app/markdowncafe)) -
+Desktop Markdown editor for macOS and Windows. Type on the left and the formatted page renders on the right, scrolling in sync. Open a single file or a whole folder of notes, browse it from the sidebar and search every file at once. Notes stay as plain .md files where you already keep them.
+
