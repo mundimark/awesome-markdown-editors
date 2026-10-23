@@ -185,6 +185,10 @@ KeenWrite simplifies using variables in documents. Variables are useful for char
 
 See the [tutorials]([https://www.youtube.com/watch?v=u_dFd6UhdV8](https://www.youtube.com/playlist?list=PLB-WIt1cZYLm1MMx2FBG9KWzPIoWZMKu_)) for details.
 
+[**Knovum**](https://github.com/madebyzan/knovum) (FREE, source-available @ github [`madebyzan/knovum`](https://github.com/madebyzan/knovum))
+
+Knovum is a local-first desktop AI knowledge workspace and Markdown editor built with Tauri 2 and Vue 3. Spread notes, PDFs, web captures, audio recordings, and media on an infinite spatial canvas. Features bidirectional JSON Canvas (.canvas) import/export, typed knowledge relations with health auditing, and 12 on-device AI capabilities including local Whisper speech-to-text. Available for macOS and Windows.
+
 [**Markpad**](https://markpad.sftwr.dev/) (FREE, open source)
 
 A Markdown equivalent to Notepad. A lightweight, performance-focused Markdown viewer and general text editor built with Tauri. It uses the Monaco editor engine to provide a native-feeling desktop experience with full support for GitHub formatting and LaTeX math. It's a fast and minimal application designed to be your default viewer for all `.md` files. Features real-time split view, syntax highlighting, Mermaid diagrams, command palette shortcuts and more. Available on macOS, Linux, and Windows.
