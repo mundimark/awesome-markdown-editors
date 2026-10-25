@@ -99,6 +99,10 @@ Fast, lightweight Markdown viewer and reader for Windows built with native C++ a
 
 ### Apple Mac OS X
 
+**MostlyText**
+(web: [`mostlytext.app`](https://mostlytext.app), open source @ github [`Joncallim/macdown_2`](https://github.com/Joncallim/macdown_2)) -
+Native macOS Markdown editor rewritten in Swift as a fork and successor of MacDown. Source-only alpha requiring macOS 26, Xcode 26, and XcodeGen; no prebuilt download is available. Currently opens as MacDown 2. MIT licensed.
+
 **Sly**
 (open source @ github [`waynevernon/sly`](https://github.com/waynevernon/sly)) -
 Markdown notes and tasks for macOS. Sly turns a folder of Markdown files into a keyboard-friendly writing and planning workspace with a rich text editor, Markdown source mode, task views, fast search, wikilinks, Mermaid diagrams, KaTeX math, Git support, optional AI helpers, and a CLI for terminal workflows.
