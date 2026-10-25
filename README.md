@@ -430,6 +430,10 @@ Pro writing app designed for local Markdown files. Nota is a beautiful and easy 
 
 mxMarkEdit is a free software for Mac for writing texts and todo items in Markdown format and easily exporting them to other formats with Pandoc, provided that it's installed in the system in use. In each document, it's available an Excel-like grid useful to manage various sets of data, and also a file manager to search for a sentence in all the documents or spreadsheets contained in a folder. mxMarkEdit has been deeply influenced by Org-mode. Although it has far less functionalities and customisations than the latter, it's a standard Mac app which benefits of the Apple spell checking and standard shortcuts.
 
+[**OpenTypora**](https://github.com/SingleTime/opentypora) (FREE, open source)
+
+Native macOS Markdown editor written from scratch: a Swift/AppKit shell around a WKWebView, with a plain HTML/CSS/JS frontend and no Electron and no npm anywhere in the build (5.8 MB bundle). Markdown markers stay out of the DOM while you edit, so `**bold**` renders as bold text and the asterisks appear only when the caret enters that span; code, links, math and tables deliberately fall back to source view, since hiding a URL or a TeX expression would make it uneditable. Saves are byte-exact, so opening and re-saving a file never produces a spurious diff. Also covers KaTeX math, Mermaid and flowchart diagrams, 33-language syntax highlighting, tables with in-place editing and draggable row/column handles, workspace search, tabs that restore undo history, on-device translation, and export to HTML, PDF, PNG, DOCX, ODT, ePub, LaTeX, RTF, RST, MediaWiki, Textile, OPML and RevealJS.
+
 **[SideMark](https://mipyip.com/products/sidemark)** (github: [`avanrossum/sidemark`](https://github.com/avanrossum/sidemark)) (Free, open source)
 
 Free, open-source macOS editor with three-way merge for concurrent editing, auto-save, focus mode, git gutter markers, and PDF/HTML export. Built for workflows where multiple authors (including AI agents) edit the same files.
