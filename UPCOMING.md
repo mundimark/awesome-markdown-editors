@@ -38,6 +38,18 @@ Open-source plugins for editing Markdown pipe tables inside JetBrains IDEs and N
 Features include table alignment, row and column operations, sorting, width fitting, CSV/TSV conversion,
 escaped pipe handling, Unicode/CJK width support, release ZIPs, tests, and CI.
 
+**MDZip for VS Code**
+(VS Code Marketplace: [`mdzip-project.mdzip-vscode`](https://marketplace.visualstudio.com/items?itemName=mdzip-project.mdzip-vscode),
+ Open VSX: [`mdzip-project/mdzip-vscode`](https://open-vsx.org/extension/mdzip-project/mdzip-vscode),
+ open source @ github [`mdzip-project/mdzip-vscode`](https://github.com/mdzip-project/mdzip-vscode)) -
+Opens and edits MDZip (`.mdz`) files, a Markdown document and its images in one ZIP archive with a defined structure and entry point, in VS Code, VSCodium and Cursor, with a live preview and images pasted straight into the file. Includes an MCP server so AI agents can read and change `.mdz` files.
+
+
+**MDZip for Obsidian**
+(Obsidian community plugin: [`mdzip`](https://community.obsidian.md/plugins/mdzip), open source @ github [`mdzip-project/mdzip-obsidian`](https://github.com/mdzip-project/mdzip-obsidian)) -
+Opens MDZip (`.mdz`) files in your vault and edits them in Obsidian's own editor. Pasted images stay inside the file.
+
+
 ### Universal
 
 **Binderus** 
@@ -71,6 +83,11 @@ Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organi
 **PinkDown**
 (web: [`3xian.github.io/PinkDown`](https://3xian.github.io/PinkDown/), open source @ github [`3xian/PinkDown`](https://github.com/3xian/PinkDown)) -
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
+
+
+**MDZip Studio**
+(web: [`mdzip.org/studio.html`](https://mdzip.org/studio.html), open source @ github [`mdzip-project/mdzip-studio`](https://github.com/mdzip-project/mdzip-studio)) -
+Markdown editor for Windows and Linux that saves a document together with its images in one MDZip (`.mdz`) file, a standard ZIP archive with a defined structure and entry point, so the pictures don't go missing when you email, upload or archive it, and any MDZip app opens the same document. Also edits plain `.md` files. Source, split and live preview views; pasted and dragged-in images are stored inside the document; Mermaid diagrams, syntax highlighting, footnotes and task lists; print and PDF export; copy as formatted text for Word or email. A portable version runs without installing, and on Windows `.mdz` files preview in File Explorer. Apache-2.0 licensed, built with Angular + Electron.
 
 
 ### Linux
