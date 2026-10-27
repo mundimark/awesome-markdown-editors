@@ -297,6 +297,10 @@ Scratch is a lightweight, offline-first markdown notes app with WYSIWYG editing 
 
 [The code resides on GitHub](https://github.com/erictli/scratch)
 
+[**Yang-MarkD**](https://github.com/xiaojunyang0805/Yang-MarkD) (FREE, open source @ github [`xiaojunyang0805/Yang-MarkD`](https://github.com/xiaojunyang0805/Yang-MarkD))
+
+A 3 MB portable, read-only Markdown viewer built with Tauri v2, aimed at reading AI-generated documents. Renders box-drawing diagrams on a true character grid (CJK-aware, so Chinese labels stay aligned), loads local SVG/PNG images relative to the `.md` file, and handles mixed Chinese/English text and GFM tables. Table of contents sidebar, light/dark theme, raw/rich toggle, PDF export, `.md` file association. Available for Windows and Linux.
+
 
 ### Linux
 
