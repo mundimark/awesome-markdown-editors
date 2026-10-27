@@ -54,6 +54,10 @@ Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). 
 (web: [`getmd.ma`](https://getmd.ma)) (free) - Native macOS Markdown viewer built with SwiftUI — read-only, focused on viewing not editing. Renders GitHub Flavored Markdown with Mermaid diagrams, syntax highlighting, table of contents sidebar, and Git history browsing. Tabbed interface for multiple files, inline image rendering, and dark mode. Built for developers who need a fast, lightweight way to read README files, documentation, and AI-generated Markdown. Native Apple Silicon, no Electron. macOS 14+.
 
 
+**Nice.md**
+(web: [`nicemd.app`](https://nicemd.app), [Mac App Store](https://apps.apple.com/app/id6808556797)) (free to read, $4.99 one-time to edit) - Native macOS Markdown viewer and editor. Opens folders of `.md` files with Quick Look previews in Finder, renders Mermaid diagrams and math, and reloads live as other apps or AI agents write to the file.
+
+
 **Slate**
 (web: [`slatemd.app`](https://www.slatemd.app), download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases)) - 
 Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
