@@ -38,6 +38,10 @@ no matter if the basic usage is free or you only have ads or such.
 
 ### Apple Mac OS X
 
+**LocArk**
+(web: [`locark.com`](https://locark.com/)) (freemium, proprietary) -
+Local-first personal workspace with free Markdown notes, password records, and Inbox on macOS, Windows, iPhone, iPad, and Android. New workspaces are locally encrypted; core features work offline, and creating kanban boards and mind maps requires Pro.
+
 **PrettyMD**
 (web: [`prettymd.app`](https://prettymd.app)) ($19 one-time) - Simple, beautiful desktop app for reading and reviewing the Markdown your AI writes. Built for the `.md` files produced by AI tools like ChatGPT, Claude, and coding agents — clean typography, GitHub Flavored Markdown, and a calm reading view instead of raw text. One-time purchase, no subscription. Available for macOS (Apple Silicon) and Windows.
 
