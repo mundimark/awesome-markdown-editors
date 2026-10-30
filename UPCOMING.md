@@ -52,6 +52,10 @@ Cross-platform native Markdown viewer and editor built with Tauri 2 (Rust + Reac
 (open source @ github [huiyu9144/Huiyu-MD](https://github.com/huiyu9144/Huiyu-MD)) -
 Minimal, lightning-fast Markdown reader for Windows & macOS. Built with Tauri 2.0 (Rust + React). Features dark/light themes with auto-persist, Ctrl+scroll zoom (25%-400%), KaTeX math formula rendering, code blocks with syntax highlighting and one-click copy, drag & drop file opening, auto file association, and a right-click context menu. Only ~5 MB, starts instantly (< 0.3s), zero white flash. macOS builds are code-signed and notarized by Apple.
 
+**LeanMark**
+(web: [`abooodbah.github.io/leanmark`](https://abooodbah.github.io/leanmark/), open source @ github [`abooodbah/leanmark`](https://github.com/abooodbah/leanmark)) -
+Read-only Markdown viewer for Windows, Linux and macOS. Renders GitHub Flavored Markdown, local images and Mermaid diagrams offline, using the system web view (WebView2, WebKitGTK or WKWebView) instead of Electron. Raw HTML is disabled and remote images and navigation are blocked. Opens files as tabs on Windows. No telemetry. MIT licensed.
+
 **Markra**
 (web: [`editor.markra.app`](https://editor.markra.app/), open source @ github [`murongg/markra`](https://github.com/murongg/markra)) -
 Local-first WYSIWYG Markdown editor for plain `.md` files with source mode, AI edit preview, multi-provider AI settings, and cross-platform Tauri desktop builds. AGPL-3.0 licensed.
