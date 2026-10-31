@@ -394,6 +394,10 @@ Portable, fully offline Markdown editor for Windows. No install, no internet, no
 
 ### Apple Mac OS X
 
+[**Cloister Ink**](https://apps.apple.com/us/app/cloister-ink-markdown-editor/id6789028541) ($59.99, 7-day free trial)
+
+Markdown editor for Mac, available on the Mac App Store. Try it free for 7 days, then unlock it with a one-time purchase. No subscription, no ads, no analytics.
+
 **LitSquare Ink MD**
 [Ink MD (LitSquare Ink MD)](https://ink.litsquare.com) - Native macOS Markdown editor (SwiftUI/AppKit, TextKit 2) with styled editing, workspace browsing, live preview (markdown-it + highlight.js + KaTeX), rich-text copy/export, themes, and an optional "Show Invisibles" overlay.
 
