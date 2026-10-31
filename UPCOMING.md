@@ -73,6 +73,10 @@ Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organi
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
 
 
+**Marked-text-down**
+(open source @ github [`Radi0Glitch/Marked-text-down`](https://github.com/Radi0Glitch/Marked-text-down)) -
+Native WYSIWYG Markdown editor for Windows and Linux, written in C++ on SDL3 (no Electron, no embedded browser). Edits formatted text directly; formulas, diagrams (Mermaid, PlantUML, DOT) and charts are visual blocks. Supports GFM and CommonMark dialects, zoom, find and replace, a heading outline, autosave, and export to DOCX, PDF, HTML, ODT and EPUB through Pandoc. MIT licensed.
+
 ### Linux
 
 **qnote** 
