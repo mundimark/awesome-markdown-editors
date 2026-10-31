@@ -58,3 +58,7 @@ Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). 
 (web: [`slatemd.app`](https://www.slatemd.app), download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases)) - 
 Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
 
+
+
+**Markio**
+(web: [`markio.korchasa.dev`](https://markio.korchasa.dev), Mac App Store [`Markio: Markdown Viewer`](https://apps.apple.com/app/id6781874190)) ($1.99 one-time) - Native macOS Markdown viewer — read-only, typeset with CoreText instead of a web view, so long documents open instantly. Renders GitHub Flavored Markdown with Mermaid diagrams, formulas, tables and front matter, and ships a Quick Look extension (press Space on a `.md` file in Finder). Reloads in place when the file changes on disk and keeps your reading position; exports to PDF and prints. macOS 14+.
