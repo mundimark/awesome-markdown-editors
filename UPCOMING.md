@@ -132,6 +132,10 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 (web: [`openmarkdown.dev`](https://openmarkdown.dev)) -
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
+**Splat**
+(open source @ github [`sventmueller/splat`](https://github.com/sventmueller/splat)) -
+Ultrafast native Markdown editor for macOS that keeps Git diffs clean: an edit in the rendered preview becomes the smallest change to the source, so untouched lines stay byte-for-byte identical. About 25 ms per keystroke in a 10 MB document, since only the affected paragraphs are parsed and laid out again. Real AppKit windows, tabs, Versions, Auto Save, dictation and VoiceOver, with no Electron and no web view for the text; written in Rust through objc2, a 10 MB download. Interface in 35 languages, with right-to-left Hebrew and Arabic and input methods for Chinese and Japanese. Reads CommonMark, GFM, GitHub alerts, Obsidian, Pandoc and Typora syntax and embedded HTML; renders LaTeX with a visual formula editor and Mermaid, Graphviz and PlantUML offline, without Java; exports to PDF, self-contained HTML and Word. Signed and notarized, for macOS 14 or later on Apple Silicon. MIT or Apache-2.0.
+
 
 ## Markdown Mobile Editors
 
