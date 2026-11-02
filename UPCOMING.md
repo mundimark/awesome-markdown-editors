@@ -9,6 +9,18 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 ## Markdown Online Editors
 
+**MarkDawn Writer**
+(web: [`diegocano-dev.github.io/markdawn-apps/writer`](https://diegocano-dev.github.io/markdawn-apps/writer/), open source @ github [`diegocano-dev/markdawn-apps`](https://github.com/diegocano-dev/markdawn-apps)) -
+Word-like WYSIWYG editor with a familiar ribbon that saves only clean Markdown, so you never see the syntax while writing. Live Markdown side panel, tables, task lists, code blocks, six document themes, dark mode, collapsible headings, PDF export and copy-for-Word. A single dependency-free HTML file; English and Spanish UI.
+
+**MarkDawn Slides**
+(web: [`diegocano-dev.github.io/markdawn-apps/slides`](https://diegocano-dev.github.io/markdawn-apps/slides/), open source @ github [`diegocano-dev/markdawn-apps`](https://github.com/diegocano-dev/markdawn-apps)) -
+PowerPoint-like slide editor that saves decks as Markdown: free-form text boxes, 90+ shapes, connectors, charts and tables with their real data, Mermaid flowcharts and a presentation mode. A single HTML file.
+
+**MarkDawn Mind**
+(web: [`diegocano-dev.github.io/markdawn-apps/mind`](https://diegocano-dev.github.io/markdawn-apps/mind/), open source @ github [`diegocano-dev/markdawn-apps`](https://github.com/diegocano-dev/markdawn-apps)) -
+XMind-like mind map editor that saves maps as plain nested Markdown lists. Keyboard-first (Tab for a child topic, Enter for a sibling), organic and tree layouts, notes, tasks, relations, outline/OPML import and a live Markdown panel. A single HTML file; English and Spanish UI.
+
 **Bangle.io**
 (web: [`app.bangle.io`](https://app.bangle.io/), open source @ github [`bangle-io/bangle-io`](https://github.com/bangle-io/bangle-io)) -
 A simple yet powerful Markdown-based note-taking app with WYSIWYG editing and local-first storage.
