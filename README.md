@@ -24,6 +24,10 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 
 ## Markdown Online Editors
 
+**Sarala**
+(web: [`web.sarala.solancer.com`](https://web.sarala.solancer.com),
+github: [`solancer/sarala`](https://github.com/solancer/sarala)) - Open-source WYSIWYG Markdown editor that renders in place with no preview pane. Runs in the browser with no account or server, and includes math and Mermaid and D2 diagrams
+
 **Markvim**
 (web: [`markvim.xyz`](https://markvim.xyz),
  github: [`SantiagoBobrik/markvim`](https://github.com/SantiagoBobrik/markvim)) - A minimalist Markdown editor with built-in Vim keybindings, live preview, and shareable links.
@@ -202,6 +206,12 @@ A free, open-source CLI-based Markdown editor with a focus on speed and efficien
 Obsidian.md is a powerful and versatile note-taking app that utilizes Markdown to create and link notes seamlessly, forming a personal knowledge base. It allows users to visualize their notes as a graph, making it easy to see connections and relationships between ideas. With its extensive plugin system, Obsidian can be customized to fit various workflows, from academic research to personal journaling. 
 
 [Get more information here.](https://publish.obsidian.md/hub/00+-+Start+here)
+
+[**Sarala**](https://sarala.solancer.com) (FREE, open source)
+
+WYSIWYG Markdown editor for macOS, Windows and Linux that renders each block in place as you type, with no preview pane. Includes Mermaid and D2 diagrams, KaTeX math, an AI assistant and offline voice typing, and edits plain Markdown files in place.
+
+[The code resides on GitHub](https://github.com/solancer/sarala)
 
 [**Tangent**](https://www.tangentnotes.com/) (FREE, open source) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 
