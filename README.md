@@ -239,6 +239,10 @@ Free open source plain-text file markdown note-taking with Nextcloud / ownCloud 
 
 Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.
 
+[**Markdown OKF-Schema Studio**](https://marketplace.visualstudio.com/items?itemName=GaetanSemet.markdown-okf-schema-studio) (FREE, open source @ github [`gsemet/markdown-okf-schema-studio`](https://github.com/gsemet/markdown-okf-schema-studio))
+
+Markdown OKF-Schema Studio is a visual Markdown editor for VS Code: you read a clean rendered page and click any block to edit its source, and only that block changes, so diffs stay clean. It renders CommonMark, GitHub Flavored Markdown, Sphinx MyST (grids, cards, tabs, admonitions, figures, list tables) and OKF front matter as a schema-aware properties table. Features Mermaid and PlantUML diagrams (no Java), Vega-Lite charts, a Notion-style slash menu, rich paste from Word or Google Docs, marks for blocks changed since the last Git commit, comment threads stored next to the document, and Cream, Dark and White themes. It also ships an agent skill that teaches AI coding agents to write Markdown that renders well in it.
+
 [**Zettlr**](https://www.zettlr.com/) (FREE, open source)
 
 Zettlr ships with a lot of features helpful in writing markdown. It is especially aimed at writing research papers in the arts and humanities (and therefore offers writing aids such as automatic footnote insertion and in-place editing, or a global search). Nonetheless it also supports LaTeX and code highlighting, which makes it interesting for developers as well. It features a file tree, plenty of exporting options and even supports whole projects (exporting multiple markdown files at once), live preview directly in the editor, and some Zettelkasten functionalities that enables the linking of files. Tags can also be used to sort your work.
