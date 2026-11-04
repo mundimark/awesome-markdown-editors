@@ -82,6 +82,10 @@ Minimal frameless notepad for Linux built with Tauri 2 (Rust + TypeScript). Feat
 
 ### Microsoft Windows
 
+**Duru**
+(open source @ github [`git-Harrison/Duru`](https://github.com/git-Harrison/Duru)) -
+Lightweight Markdown viewer and editor for Windows that also opens JSON (collapsible tree view), YAML (syntax colors) and plain text. A ~2.5 MB per-user installer (no admin rights), built in C# on .NET Framework with Edge WebView2 for rendering. Features a table of contents, dark/light themes, drag & drop, multiple open documents in a sidebar, auto-reload when the file changes on disk, and a quick edit mode (Ctrl+E to edit, Ctrl+S to save). UI in English, Korean, Japanese, Chinese and Spanish. MIT licensed.
+
 **MannyMarker**  
 (open source @ github [`PaulCoughlin/mannymarker`](https://github.com/PaulCoughlin/mannymarker)  
 A small, fast, portable standalone native Windows markdown editor. You edit a rendered view - headings look like headings, bold looks bold - but the file on disk is always plain .md. No server, no browser tab, no terminal. Deliberately kept minimal: open, edit, save.  
