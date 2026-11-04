@@ -133,6 +133,11 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
 
+**Loam**
+(web: [`loam.md`](https://loam.md), open source @ github [`Azilone/Loam.md`](https://github.com/Azilone/Loam.md)) -
+Native macOS Markdown notebook (Swift, SwiftUI + AppKit, MIT) where every feature is a plugin. Notes are plain CommonMark + GFM files with YAML frontmatter in a folder on your disk, with wikilinks and backlinks, a graph view, tasks, calendar, boards and mind maps as plugins, and a CLI plus a plugin SDK so your own AI agent can build what is missing.
+
+
 ## Markdown Mobile Editors
 
 ### Android
