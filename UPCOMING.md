@@ -101,6 +101,7 @@ Fast, lightweight Markdown viewer and reader for Windows built with native C++ a
 
 **Abyss**
 (web: [`abyss.md`](https://abyss.md)) (free) - Native macOS Markdown editor (AppKit) that styles the Markdown source in place as you type. Notes stay plain .md files in a folder you choose, synced through your own iCloud Drive. Wikilinks with autocomplete, JSON Canvas boards, workspaces encrypted on disk that unlock with Touch ID, a timed full-screen Focus Session, Quick Open, and export to PDF, HTML, RTF and DOCX. Also on iPhone and iPad as Abyss Writer. macOS 15+, Apple silico
+
 **Sly**
 (open source @ github [`waynevernon/sly`](https://github.com/waynevernon/sly)) -
 Markdown notes and tasks for macOS. Sly turns a folder of Markdown files into a keyboard-friendly writing and planning workspace with a rich text editor, Markdown source mode, task views, fast search, wikilinks, Mermaid diagrams, KaTeX math, Git support, optional AI helpers, and a CLI for terminal workflows.
