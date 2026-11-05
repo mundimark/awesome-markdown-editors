@@ -38,6 +38,9 @@ no matter if the basic usage is free or you only have ads or such.
 
 ### Apple Mac OS X
 
+**Abyss**
+(web: [`abyss.md`](https://abyss.md)) (free) - Native macOS Markdown editor (AppKit) that styles the Markdown source in place as you type. Notes stay plain .md files in a folder you choose, synced through your own iCloud Drive. Wikilinks with autocomplete, JSON Canvas boards, workspaces encrypted on disk that unlock with Touch ID, a timed full-screen Focus Session, Quick Open, and export to PDF, HTML, RTF and DOCX. Also on iPhone and iPad as Abyss Writer. macOS 15+, Apple silicon.
+
 **PrettyMD**
 (web: [`prettymd.app`](https://prettymd.app)) ($19 one-time) - Simple, beautiful desktop app for reading and reviewing the Markdown your AI writes. Built for the `.md` files produced by AI tools like ChatGPT, Claude, and coding agents — clean typography, GitHub Flavored Markdown, and a calm reading view instead of raw text. One-time purchase, no subscription. Available for macOS (Apple Silicon) and Windows.
 
