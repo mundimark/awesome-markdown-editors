@@ -132,6 +132,10 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 (web: [`openmarkdown.dev`](https://openmarkdown.dev)) -
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
+**MiaoYan**
+(web: [`miaoyan.app`](https://miaoyan.app/), open source @ github [`tw93/MiaoYan`](https://github.com/tw93/MiaoYan)) -
+Lightweight local-first Markdown notes app for macOS, written in Swift (not Electron). Notes are plain `.md` files in a folder you choose, edited in a split editor and preview with scroll sync. Supports LaTeX math, Mermaid, PlantUML and Markmap diagrams, wikilinks and backlinks, version history, slides from `---` separators, and a `miao` command-line tool. Requires macOS 12.0 or later; MIT licensed. Also on the App Store for Mac, iPhone and iPad (the iPhone and iPad apps are not open source).
+
 
 ## Markdown Mobile Editors
 
