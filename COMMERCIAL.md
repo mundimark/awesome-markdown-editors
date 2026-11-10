@@ -58,3 +58,7 @@ Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). 
 (web: [`slatemd.app`](https://www.slatemd.app), download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases)) - 
 Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
 
+
+**Valutorio**
+(web: [`valutorio.com`](https://valutorio.com), App Store: [`Valutorio`](https://apps.apple.com/app/apple-store/id6813081386?pt=128566770&ct=awesome-md-editors&mt=8)) -
+Native Mac and iPhone app for a folder of plain Markdown notes, with wikilinks, backlinks, search and daily notes. Opens an existing Obsidian vault in place. (free, optional paid sync)
