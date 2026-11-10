@@ -27,6 +27,11 @@ Read-only Markdown (pre)viewer with inline review comments, distributed as a sin
 
 ## Markdown Desktop Editors
 
+**mdPreview**
+(web: [`tahoeliu.github.io/mdPreview`](https://tahoeliu.github.io/mdPreview/), open source @ github [`tahoeliu/mdPreview`](https://github.com/tahoeliu/mdPreview)) -
+Free, open-source Markdown reader and editor for macOS 13+ (Apple silicon and Intel). Opens .md files as formatted pages, edits without Markdown knowledge, exports to PDF, Word (.docx), HTML and plain text. Offline, no account, MIT licence.
+
+
 ### Editor Plugins
 
 **Markdown Table Editor**
