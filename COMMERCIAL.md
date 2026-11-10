@@ -26,6 +26,9 @@ no matter if the basic usage is free or you only have ads or such.
 **md0**
 (web: [`md0.io`](https://md0.io)) - Free suite of online Markdown tools. Includes a live editor with split-pane preview, WYSIWYG editor, table editor, and a full set of converters (Markdown to HTML, PDF, DOCX, CSV, Excel), generators (table, README, TOC), and a formatter. No login required for any tool.
 
+**MarkdownPic**
+(web: [`markdownpic.com`](https://markdownpic.com)) - Free Markdown and text to image converter that runs entirely in the browser. Export long images, cards and carousels as PNG, JPEG or WebP with 12 themes, KaTeX and Mermaid support and CSV batch generation. No upload, no account.
+
 
 ## Markdown CMS
 
