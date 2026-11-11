@@ -197,6 +197,10 @@ Nimbalyst is an AI-native workspace built on top of Claude Code that supports Ma
 
 A free, open-source CLI-based Markdown editor with a focus on speed and efficiency. It features a file explorer, live preview, keybindings, and a distraction-free mode. Splitmark is designed for users who prefer keyboard navigation and minimalistic interfaces. It offers a paid option for end-to-end encrypted cloud syncing across devices with access to a web editor.
 
+[**Zeku**](https://zeku.dev) ($39 one time, 14-day free trial)
+
+Zeku is a desktop Markdown and MDX editor for Astro sites, built with Rust and Tauri for Windows, with macOS and Linux in beta. It opens a site's content folder, reads the content schema to build its frontmatter forms, and has live preview, an SEO check, and publishing through your own git. Files stay plain Markdown.
+
 [**Obsidian.md**](https://obsidian.md/) (FREE, Paid Syncing Options)
 
 Obsidian.md is a powerful and versatile note-taking app that utilizes Markdown to create and link notes seamlessly, forming a personal knowledge base. It allows users to visualize their notes as a graph, making it easy to see connections and relationships between ideas. With its extensive plugin system, Obsidian can be customized to fit various workflows, from academic research to personal journaling. 
