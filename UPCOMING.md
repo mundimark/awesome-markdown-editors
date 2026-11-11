@@ -72,6 +72,10 @@ Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organi
 (web: [`3xian.github.io/PinkDown`](https://3xian.github.io/PinkDown/), open source @ github [`3xian/PinkDown`](https://github.com/3xian/PinkDown)) -
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
 
+**Tisty**
+(web: [`tisty.app`](https://www.tisty.app/), open source @ github [`rgdevment/Tisty`](https://github.com/rgdevment/Tisty)) -
+Local-first Markdown notes, documents and tasks for Windows and macOS, built with Tauri 2 (Rust + React). Plain `.md` files on your own disk, one document per subject, with outlines, tables, diagrams and a local MCP server so AI agents (GitHub Copilot, Claude Code, Codex, Cursor) read only the section they need. No account, no telemetry. AGPL-3.0 licensed.
+
 
 ### Linux
 
