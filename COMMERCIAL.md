@@ -60,4 +60,4 @@ Super clean, focused, native macOS Markdown editor. Think in markdown. Reason wi
 
 
 **Wymark**
-(web: [`wymark.app`](https://wymark.app)) (free) - WYSIWYG Markdown editor for macOS with comments and track changes. Shows what changed since a saved version or a git commit, and lets you accept, reject and comment on each change. Files stay plain Markdown on your disk, and comments are stored as HTML comments. Follows GitHub's Markdown, with footnotes, alerts, math and Mermaid diagrams. Exports to Word (with comments and tracked changes) and PDF. Apple Silicon, macOS 26+.
+(web: [`wymark.app`](https://wymark.app)) (free) - WYSIWYG Markdown editor with comments and track changes. Follows GitHub's Markdown, including alerts, math and Mermaid diagrams, with a source view on its own or side by side. Every change shows as a diff, with accept and reject on each change, and the document can be compared against a saved version or a git commit. Comments are saved in the Markdown file itself, as HTML comments. Exports to Word with comments and tracked changes. A desktop application, and the `.md` file is what you sync and share.
