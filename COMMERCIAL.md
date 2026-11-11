@@ -58,3 +58,6 @@ Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). 
 (web: [`slatemd.app`](https://www.slatemd.app), download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases)) - 
 Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
 
+
+**Wymark**
+(web: [`wymark.app`](https://wymark.app)) (free) - WYSIWYG Markdown editor with comments and track changes. Follows GitHub's Markdown, including alerts, math and Mermaid diagrams, with a source view on its own or side by side. Every change shows as a diff, with accept and reject on each change, and the document can be compared against a saved version or a git commit. Comments are saved in the Markdown file itself, as HTML comments. Exports to Word with comments and tracked changes. A desktop application, and the `.md` file is what you sync and share.
