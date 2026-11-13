@@ -25,6 +25,14 @@ Read-only Markdown (pre)viewer with inline review comments, distributed as a sin
 
 
 
+## WYSIWYG Markdown Editors for Integration in Web Apps
+
+**OpenMarkdown Editor**
+(web: [`openmarkdown.dev/editor`](https://openmarkdown.dev/editor/), open source @ github [`OpenMarkdown-dev/OpenMarkdown-editor`](https://github.com/OpenMarkdown-dev/OpenMarkdown-editor), npm: [`@openmarkdown-dev/editor`](https://www.npmjs.com/package/@openmarkdown-dev/editor)) -
+Framework-free TypeScript live-preview Markdown editor built on CodeMirror 6, for embedding in websites and web apps. Tables are edited in place, with math, Mermaid diagrams, callouts and YAML properties. Lossless round-trip: open a Markdown file and save it without editing, and the file is byte-for-byte what it was. It's the editor from the OpenMarkdown app, released on its own. MIT licensed.
+
+
+
 ## Markdown Desktop Editors
 
 ### Editor Plugins
