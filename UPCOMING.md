@@ -72,6 +72,10 @@ Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organi
 (web: [`3xian.github.io/PinkDown`](https://3xian.github.io/PinkDown/), open source @ github [`3xian/PinkDown`](https://github.com/3xian/PinkDown)) -
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
 
+**rustmd**
+(open source @ github [`riverzhou/rustmd`](https://github.com/riverzhou/rustmd)) -
+Local-first notes app for Markdown, HTML, CSV, TXT and JSON, built with Rust + Tauri 2 for Windows, macOS (Apple Silicon) and Linux. HTML notes are edited as source and rendered as full pages in the built-in WebView (no external browser); Markdown gets MathJax, Mermaid and syntax highlighting; CSV/TXT get smart tables and JSON a collapsible inspector. Plain files, offline, no account, folder tree, full-text search, multi-vault view, UTF-8/GBK/GB18030 and HTML/PNG/PDF export.
+
 
 ### Linux
 
