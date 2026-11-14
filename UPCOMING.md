@@ -132,6 +132,11 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 (web: [`openmarkdown.dev`](https://openmarkdown.dev)) -
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
+**vsux**
+(web: [`vsux.sphrag.com`](https://vsux.sphrag.com/en/), open source @ github [`shadowDragons/vsux`](https://github.com/shadowDragons/vsux)) -
+Free, MIT-licensed native macOS workspace built with SwiftUI and AppKit. Edit local Markdown files with live side preview and a document outline alongside split terminals, a file browser, and Git tools. Requires macOS 14 or later on Apple Silicon; currently an ad-hoc signed preview, not notarized by Apple.
+
+
 
 ## Markdown Mobile Editors
 
