@@ -73,6 +73,10 @@ Local-first Markdown note-taking app built with Tauri 2 (Rust + Next.js). Organi
 Fast native split-pane Markdown editor and reader for Windows and macOS, built in Rust with egui. Features live preview, UTF-8 and UTF-16 decoding, drag-and-drop file opening, system font selection, and checksum-verified in-app updates. MIT licensed.
 
 
+**Rewrite**
+(web: [`samratduttaofficial.github.io/Rewrite`](https://samratduttaofficial.github.io/Rewrite/), source @ github [`SamratDuttaOfficial/Rewrite`](https://github.com/SamratDuttaOfficial/Rewrite)) -
+Desktop editor for Markdown, LaTeX and Word files with a live Markdown preview. Rewords a word, phrase or sentence and checks spelling and grammar without touching the Markdown markup. Exports to PDF, Word, OpenDocument, HTML, LaTeX and plain text. Free (MIT with the Commons Clause), built with Rust and GTK 4.
+
 ### Linux
 
 **qnote** 
