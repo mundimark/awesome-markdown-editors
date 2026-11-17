@@ -27,6 +27,10 @@ no matter if the basic usage is free or you only have ads or such.
 (web: [`md0.io`](https://md0.io)) - Free suite of online Markdown tools. Includes a live editor with split-pane preview, WYSIWYG editor, table editor, and a full set of converters (Markdown to HTML, PDF, DOCX, CSV, Excel), generators (table, README, TOC), and a formatter. No login required for any tool.
 
 
+**Birta Markdown Viewer**
+(web: [`birta.dev/tools/markdown-viewer`](https://birta.dev/tools/markdown-viewer)) - Free online viewer for .md files. Drop a file or paste Markdown and read it as a page with headings, tables, task lists and footnotes; switch to the Markdown view to edit, check it at phone width, and send it as a link that opens for 24 hours if someone else needs to read it. Runs in the browser, nothing is uploaded until you ask for a link, no account needed.
+
+
 ## Markdown CMS
 
 
