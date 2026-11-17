@@ -27,6 +27,10 @@ no matter if the basic usage is free or you only have ads or such.
 (web: [`md0.io`](https://md0.io)) - Free suite of online Markdown tools. Includes a live editor with split-pane preview, WYSIWYG editor, table editor, and a full set of converters (Markdown to HTML, PDF, DOCX, CSV, Excel), generators (table, README, TOC), and a formatter. No login required for any tool.
 
 
+**Boring Web Markdown to PDF**
+(web: [`boring-web.com/markdown-to-pdf`](https://boring-web.com/markdown-to-pdf)) - Free online Markdown editor with live preview, three themes, code highlighting and Mermaid diagrams, plus instant PDF download with selectable text. Runs in the browser — no upload, no signup.
+
+
 ## Markdown CMS
 
 
