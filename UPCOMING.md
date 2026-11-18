@@ -132,6 +132,11 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 (web: [`openmarkdown.dev`](https://openmarkdown.dev)) -
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
+**Musset**
+(web: [`musset.app`](https://musset.app/), open source @ github [`Musset-App/musset`](https://github.com/Musset-App/musset)) -
+Native Mac writing app for books. Each chapter is a plain Markdown file shown as you would read it, with the history kept in git. Chapters and scenes, versions and parallel drafts, manuscript formats, EPUB and DOCX export, an interface in six languages, and an optional AI editor that annotates but never writes for you. SwiftUI, GPL-3.0 licensed.
+
+
 
 ## Markdown Mobile Editors
 
