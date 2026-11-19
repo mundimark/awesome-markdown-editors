@@ -40,6 +40,10 @@ escaped pipe handling, Unicode/CJK width support, release ZIPs, tests, and CI.
 
 ### Universal
 
+**AgentEd**
+(web: [`agentedapp.com`](https://agentedapp.com/), open source @ github [`cgxopen/AgentEd`](https://github.com/cgxopen/AgentEd)) -
+Visual Markdown editor for ordinary local `.md` files, with YAML frontmatter editing in its own Metadata panel and a live token estimate counted offline. No account, no telemetry, works offline. Built with Tauri 2; each installer is under 5 MB. Windows x64 and macOS on Apple silicon, with an experimental Linux package; the installers are not signed. MIT licensed.
+
 **Binderus** 
 (web: [`binderus.com`](https://www.binderus.com), open source frontend @ github [`binderus/binderus`](https://github.com/binderus/binderus)) -
 Local-first note-taking app with Notion-style WYSIWYG editing for plain text and Markdown files, Obsidian-style philosophy for local files, a plugin system with AI/LLM plugin, custom themes, and optional encrypted vaults. No cloud, no account, no subscription. ~9 MB, built with Tauri + Rust, works on Windows, Mac, and Linux.
