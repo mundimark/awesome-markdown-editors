@@ -58,3 +58,5 @@ Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). 
 (web: [`slatemd.app`](https://www.slatemd.app), download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases)) - 
 Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
 
+**Glifa**
+(web: [`glifa.app`](https://glifa.app)) ($19.99 one-time, 15-day free trial) - Native macOS Markdown editor with live preview that you can ask for anything: select text, press ⇧⌘R and ask for a table, a diagram or a better sentence, and the change comes as a proposal you keep or undo. Uses the AI you already have (Claude Code, Codex, Apple Intelligence, a local model or your own API key). Plain `.md` files, TeX math, Mermaid, callouts, Obsidian vaults and Typora themes, plus a Quick Look extension. macOS 15+, Apple silicon.
