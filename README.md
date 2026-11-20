@@ -119,6 +119,8 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 (web: [`taskade.com`](https://taskade.com),
  github: [`taskade/taskade`](https://github.com/taskade/taskade)) - Collaborative workspace with a built-in Markdown editor, real-time collaboration, AI writing assistance, and structured task management. Supports multiple views including lists, boards, and mind maps.
 
+**Spunto** ([github](https://github.com/vitofico/spunto)) - Self-hosted Markdown notebook with shared notes and spaces, revision history, and an Android client for offline editing.
+
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
