@@ -27,6 +27,10 @@ no matter if the basic usage is free or you only have ads or such.
 (web: [`md0.io`](https://md0.io)) - Free suite of online Markdown tools. Includes a live editor with split-pane preview, WYSIWYG editor, table editor, and a full set of converters (Markdown to HTML, PDF, DOCX, CSV, Excel), generators (table, README, TOC), and a formatter. No login required for any tool.
 
 
+**mdPretty**
+(web: [`mdpretty.com`](https://mdpretty.com)) - Free online Markdown editor with a paginated live preview that saves professionally designed PDFs: tables and code blocks that break cleanly across pages, syntax highlighting, color emoji, and an optional cover page and table of contents. Runs in the browser (files are not uploaded), no sign-up.
+
+
 ## Markdown CMS
 
 
