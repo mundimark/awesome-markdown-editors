@@ -28,7 +28,7 @@ no matter if the basic usage is free or you only have ads or such.
 
 
 **mdPretty**
-(web: [`mdpretty.com`](https://mdpretty.com)) - Free online Markdown editor with a paginated live preview that saves professionally designed PDFs: tables and code blocks that break cleanly across pages, syntax highlighting, color emoji, and an optional cover page and table of contents. Runs in the browser (files are not uploaded), no sign-up.
+(web: [`mdpretty.com`](https://mdpretty.com)) - Free online Markdown editor with a paginated live preview that downloads professionally designed PDFs: tables and code blocks that break cleanly across pages, syntax highlighting, color emoji, bookmarks, and an optional cover page and table of contents. No sign-up; 3 clean PDFs a day, then with a small "Made with mdPretty" line.
 
 
 ## Markdown CMS
