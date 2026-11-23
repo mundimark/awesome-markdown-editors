@@ -133,6 +133,11 @@ Open-source local-first Markdown outliner for macOS. Knopo stores notes as ordin
 Fast, local-first Markdown editor for macOS, built with Rust and Tauri (not Electron). Plain `.md` files on disk — no account, no telemetry, no lock-in. Ships an MCP server so your coding agent can open a file and rewrite one section at a time in place, keeping your cursor and scroll put, so you and your agent write in the same file without stepping on each other. Universal binary, signed and notarized; free.
 
 
+**Liubai (留白)**
+(web: [`liubai.echovic.com`](https://liubai.echovic.com/en/), open source @ github [`echoVic/liubai`](https://github.com/echoVic/liubai)) -
+Mac-first Markdown editor that works on ordinary `.md` files instead of a vault: unsaved writing stays as a local draft, tables and images are edited in place, and KaTeX math, Mermaid diagrams, GitHub alerts, folded details and footnotes are supported. Full-text search, `[[wiki links]]` with backlinks, 25 themes, focus mode and three view modes; exports to PDF, Word (.docx), HTML and a Markdown ZIP. Signed and notarized universal build for macOS 13 or later, MIT licensed.
+
+
 ## Markdown Mobile Editors
 
 ### Android
