@@ -27,6 +27,10 @@ no matter if the basic usage is free or you only have ads or such.
 (web: [`md0.io`](https://md0.io)) - Free suite of online Markdown tools. Includes a live editor with split-pane preview, WYSIWYG editor, table editor, and a full set of converters (Markdown to HTML, PDF, DOCX, CSV, Excel), generators (table, README, TOC), and a formatter. No login required for any tool.
 
 
+**Best Latest Apps Markdown Editor**
+(web: [`bestlatestapps.com/tools/markdown-editor`](https://bestlatestapps.com/tools/markdown-editor/)) - Free online Markdown editor with a live formatted preview beside the text. Copy the HTML or download the .md file; the preview is sanitized with DOMPurify. No sign-up; the site shows ads.
+
+
 ## Markdown CMS
 
 
