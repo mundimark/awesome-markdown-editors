@@ -36,6 +36,12 @@ no matter if the basic usage is free or you only have ads or such.
 
 ## Markdown Desktop Editors
 
+### Universal
+
+**Trieste**
+(web: [`trieste.app`](https://trieste.app)) ($79 one-time, 30-day trial) - Desktop IDE for macOS, Windows and Linux with GitHub-style Markdown reading and editing, KaTeX math, PDF reading and a notes graph, built for working with AI coding agents (Claude Code, Codex, OpenCode, Antigravity). Each agent is tied to a folder of Markdown notes it keeps up to date, so the next session picks up the work.
+
+
 ### Apple Mac OS X
 
 **PrettyMD**
