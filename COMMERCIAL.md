@@ -36,6 +36,12 @@ no matter if the basic usage is free or you only have ads or such.
 
 ## Markdown Desktop Editors
 
+### Microsoft Windows
+
+**AutoMD**
+(web: [`automd.macnie.com`](https://automd.macnie.com)) (free) - Local, ad-free Windows Markdown reader and lightweight editor. Freeware by 东林先生（侯哥）; current version 3.0.5.
+
+
 ### Apple Mac OS X
 
 **PrettyMD**
