@@ -52,6 +52,10 @@ Cross-platform native Markdown viewer and editor built with Tauri 2 (Rust + Reac
 (open source @ github [huiyu9144/Huiyu-MD](https://github.com/huiyu9144/Huiyu-MD)) -
 Minimal, lightning-fast Markdown reader for Windows & macOS. Built with Tauri 2.0 (Rust + React). Features dark/light themes with auto-persist, Ctrl+scroll zoom (25%-400%), KaTeX math formula rendering, code blocks with syntax highlighting and one-click copy, drag & drop file opening, auto file association, and a right-click context menu. Only ~5 MB, starts instantly (< 0.3s), zero white flash. macOS builds are code-signed and notarized by Apple.
 
+**Jiyue**
+(open source @ github [`limitcool/jiyue`](https://github.com/limitcool/jiyue)) -
+Local-first Markdown notes app for Windows, macOS, and Linux built natively with Rust and GPUI (plus an Android companion in Flutter sharing the Rust core). Opens plain `.md` folders and Obsidian vaults without touching `.obsidian`, with live preview, native LaTeX math and Mermaid diagrams, wikilinks, knowledge graph, CJK full-text search, local version history, and optional S3/WebDAV sync. MIT or Apache-2.0 licensed.
+
 **Markra**
 (web: [`editor.markra.app`](https://editor.markra.app/), open source @ github [`murongg/markra`](https://github.com/murongg/markra)) -
 Local-first WYSIWYG Markdown editor for plain `.md` files with source mode, AI edit preview, multi-provider AI settings, and cross-platform Tauri desktop builds. AGPL-3.0 licensed.
