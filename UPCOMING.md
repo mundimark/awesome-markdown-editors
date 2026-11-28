@@ -14,6 +14,11 @@ for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 A simple yet powerful Markdown-based note-taking app with WYSIWYG editing and local-first storage.
 
 
+**DocLoom**
+(web: [`mojtabahasani.github.io/DocLoom`](https://mojtabahasani.github.io/DocLoom/), open source @ github [`mojtabahasani/DocLoom`](https://github.com/mojtabahasani/DocLoom), standalone download: [`DocLoom.html`](https://mojtabahasani.github.io/DocLoom/DocLoom.html)) -
+Offline-first Markdown & bidirectional (`EN`/`FA`, `LTR`/`RTL`) document studio compiled into a single self-contained HTML file (`< 900 KB` with inlined WOFF2 fonts) or installable PWA. Features automatic per-block script direction detection across headings, lists, callouts, and tables while preserving inline code runs, client-side OOXML `.docx` export, 9 document themes, presentation deck mode, and zero-dependency parsers for legacy binary `.xls` (`OLE2`/`BIFF8`) spreadsheets and FastReport coordinate XML (`.fp3`). MIT licensed, backed by 407 unit tests and Playwright/WCAG 2.1 AA accessibility suites.
+
+
 **markupmarkdown**
 (web: [`mumd.metavert.io`](https://mumd.metavert.io), open source @ github [`jonradoff/markupmarkdown`](https://github.com/jonradoff/markupmarkdown)) -
 "Google Docs for Markdown" — collaborative editor and review tool for Markdown files: anchored comment threads on any text selection, suggested changes with one-click apply, review states (approve / request changes), document checks, and GitHub round-trip (open any repo's `.md`, edit, push back as a PR). Includes an MCP server so AI agents can comment, suggest, and review through the same loop as humans. MIT licensed, built with Go + React.
