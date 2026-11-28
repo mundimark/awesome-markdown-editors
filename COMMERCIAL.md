@@ -58,3 +58,8 @@ Native macOS Markdown viewer and editor built with Tauri 2 (Rust + TypeScript). 
 (web: [`slatemd.app`](https://www.slatemd.app), download @ github [`SlateMD`](https://github.com/Slatemd-App/slate-releases)) - 
 Super clean, focused, native macOS Markdown editor. Think in markdown. Reason with AI. Start with a folder of markdown files. Over time, AI turns it into a knowledge base that thinks with you. Slate keeps the structure intact. So when you bring AI into the loop, it actually understands what you wrote. Not just the words, but the shape of your thinking.
 
+### Cross-Platform (macOS, Windows, Linux & IDEs)
+
+**Inkmap**
+(web: [`zhiyuanv.com/software.html`](https://www.zhiyuanv.com/software.html), live playground: [`zhiyuanv.com/inkmap.html`](https://www.zhiyuanv.com/inkmap.html), releases & docs @ github: [`zhiyuanvision-lang/InkMap`](https://github.com/zhiyuanvision-lang/InkMap)) ($15 one-time, 7-day free trial) -
+Two-way editable Markdown (`.md`) mind map (Markmap alternative), visual Mermaid flowchart editor, and clipboard screenshot paste workspace (`<doc>.assets/`). Drag, reorder, or add nodes on the canvas and click flowchart nodes/edges to edit visually — every change writes back byte-for-byte to your plain local Markdown file for clean Git diffs. Available as a standalone desktop app for macOS, Windows, and Linux, plus extensions/MCP apps for VS Code, Cursor, Windsurf, Claude Desktop, Claude Code, and OpenAI Codex.
