@@ -24,6 +24,11 @@ A simple yet powerful Markdown-based note-taking app with WYSIWYG editing and lo
 Read-only Markdown (pre)viewer with inline review comments, distributed as a single standalone HTML file (also runnable via `npx mdxg-redline`). Implements the MDXG Viewer profile: Word/Pages-style stacked virtual pages, page navigation and outline, in-document search, and left-hand WASD keyboard navigation. Renders Shiki syntax highlighting (~235 languages), Mermaid diagrams, KaTeX math, and GitHub Flavored Markdown footnotes, with smartphone support. Select any text range to leave a comment; comments export as structured JSON keyed by headingPath and sourceLine, so an LLM agent can apply each one back to the exact lines. The standalone/CLI build makes no network requests (CSP connect-src 'none'); an optional online edition at mkdn.review fetches Markdown from an allowlisted public raw URL via a `?url=` parameter. MIT licensed.
 
 
+**MyOnlineText Markdown Previewer**
+(web: [`myonlinetext.top/tools/markdown-previewer`](https://myonlinetext.top/tools/markdown-previewer/), source @ github [`yhlzluo/myonlinetext`](https://github.com/yhlzluo/myonlinetext)) -
+Lightweight browser-local split-pane Markdown previewer and HTML exporter with live word/character counts and companion HTML-to-Markdown, CSV-to-Markdown, and Markdown Table Generator utilities. Runs client-side in plain HTML/JS with no signup or file uploads.
+
+
 
 ## Markdown Desktop Editors
 
