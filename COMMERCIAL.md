@@ -27,6 +27,10 @@ no matter if the basic usage is free or you only have ads or such.
 (web: [`md0.io`](https://md0.io)) - Free suite of online Markdown tools. Includes a live editor with split-pane preview, WYSIWYG editor, table editor, and a full set of converters (Markdown to HTML, PDF, DOCX, CSV, Excel), generators (table, README, TOC), and a formatter. No login required for any tool.
 
 
+**Typehall**
+(web: [`typehall.com`](https://typehall.com)) - Free browser-based Markdown editor and note-taking workspace with Markdown preview, linked notes, templates, Mermaid diagrams, LaTeX math, and Markdown export. No account required. Works offline after the first successful online visit.
+
+
 ## Markdown CMS
 
 
